@@ -1,23 +1,12 @@
 username,name,role,has_github,location,gender
-michaelbenayoun,Michael Benayoun,user,True,Paris,"Male
-"
-optimum-internal-testing-user,Optimum Internal Testing User,user,False,,"Unknown
-"
-dacorvo,David Corvoysier,user,True,,"Male
-"
-mohitsha,Mohit Sharma,user,True,,"Male
-"
-Jingya,Jingya Huang,user,True,"Paris, FR","Unknown
-"
-echarlaix,Ella Charlaix,user,True,,"Female
-"
-mfuntowicz,Morgan Funtowicz,user,True,"Paris, France","Female
-"
-regisss,Régis Pierrard,user,True,,"Male
-"
-IlyasMoutawwakil,Ilyas Moutawwakil,user,True,"Paris, France","Male
-"
-sayakpaul,Sayak Paul,user,True,India,"Male
-"
-tengomucho,Alvaro Moran,user,True,"Toulouse, France","Male
-"
+michaelbenayoun,Michael Benayoun,user,True,Paris,male
+optimum-internal-testing-user,Optimum Internal Testing User,user,False,,unknown
+dacorvo,David Corvoysier,user,True,,male
+mohitsha,Mohit Sharma,user,True,,male
+Jingya,Jingya Huang,user,True,"Paris, FR",unknown
+echarlaix,Ella Charlaix,user,True,,female
+mfuntowicz,Morgan Funtowicz,user,True,"Paris, France",female
+regisss,Régis Pierrard,user,True,,male
+IlyasMoutawwakil,Ilyas Moutawwakil,user,True,"Paris, France",male
+sayakpaul,Sayak Paul,user,True,India,male
+tengomucho,Alvaro Moran,user,True,"Toulouse, France",male

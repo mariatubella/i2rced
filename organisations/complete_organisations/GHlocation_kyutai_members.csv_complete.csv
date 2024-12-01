@@ -1,21 +1,11 @@
 username,name,role,has_github,location,gender
-lmz,Laurent Mazare,user,True,Paris,"Male
-"
-mboehle,Moritz Boehle,user,False,,"Male
-"
-ameroyer,Amelie Royer,user,True,Paris,"Female
-"
-adefossez,Alexandre Défossez,user,True,France,"Male
-"
-ptrckprz,Patrick Perez,user,False,,"Male
-"
-ManuKyutai,Manu Orsini,user,False,,"Male
-"
-reach-vb,Vaibhav Srivastav,user,True,nvidia-smi,"Male
-"
-HippolyteP,Hippolyte Pilchen,user,False,,"Unknown
-"
-thefast,Franck SIGNE TALLA,user,False,,"Male
-"
-neilienz,Neil Zeghidour,user,False,,"Male
-"
+lmz,Laurent Mazare,user,True,Paris,male
+mboehle,Moritz Boehle,user,False,,male
+ameroyer,Amelie Royer,user,True,Paris,female
+adefossez,Alexandre Défossez,user,True,France,male
+ptrckprz,Patrick Perez,user,False,,male
+ManuKyutai,Manu Orsini,user,False,,male
+reach-vb,Vaibhav Srivastav,user,True,nvidia-smi,male
+HippolyteP,Hippolyte Pilchen,user,False,,unknown
+thefast,Franck SIGNE TALLA,user,False,,male
+neilienz,Neil Zeghidour,user,False,,male

@@ -1,21 +1,11 @@
 username,name,role,has_github,location,gender
-valhalla,Suraj Patil,user,True,India,"Male
-"
-SimianLuo,Simian Luo,user,True,San Francisco,"Unknown
-"
-dg845,Daniel Gu,user,True,,"Male
-"
-linoyts,Linoy Tsaban,user,True,Tel Aviv,"Female
-"
-multimodalart,Apolinário from multimodal AI art,user,True,,"Male
-"
-radames,Radamés Ajna,user,True,San Francisco Bay Area,"Male
-"
-pcuenq,Pedro Cuenca,user,True,Spain,"Male
-"
-sayakpaul,Sayak Paul,user,True,India,"Male
-"
-tyq1024,Yiqin Tan,user,True,,"Unknown
-"
-echarlaix,Ella Charlaix,user,True,,"Female
-"
+valhalla,Suraj Patil,user,True,India,male
+SimianLuo,Simian Luo,user,True,San Francisco,unknown
+dg845,Daniel Gu,user,True,,male
+linoyts,Linoy Tsaban,user,True,Tel Aviv,female
+multimodalart,Apolinário from multimodal AI art,user,True,,male
+radames,Radamés Ajna,user,True,San Francisco Bay Area,male
+pcuenq,Pedro Cuenca,user,True,Spain,male
+sayakpaul,Sayak Paul,user,True,India,male
+tyq1024,Yiqin Tan,user,True,,unknown
+echarlaix,Ella Charlaix,user,True,,female

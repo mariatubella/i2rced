@@ -1,35 +1,18 @@
 username,name,role,has_github,location,gender
-jph00,Jeremy Howard,user,True,"Brisbane, Australia","Male
-"
-keremturgutlu,Kerem Turgutlu,user,True,,"Male
-"
-bwarner,Benjamin Warner,user,False,,"Male
-"
-johnowhitaker,Jonathan Whitaker,user,True,"Portland, Oregon","Male
-"
-bclavie,Benjamin Clavié,user,True,Lyon/Tokyo,"Male
-"
-austinvhuang,Austin Huang,user,True,,"Male
-"
-griffin,Griffin Adams,user,True,"New Canaan, CT","Male
-"
-fladhak,Faisal Ladhak,user,False,,"Unknown
-"
-vikp,Vikas Paruchuri,user,True,"Brooklyn, NY","Male
-"
-rbiswasfc,Raja Biswas,user,True,Singapore,"Male
-"
-hamel,Hamel Husain,user,True,"Portland, OR","Male
-"
-ncoop57,Nathan Cooper,user,True,,"Unknown
-"
-freddyaboulton,Freddy Boulton,user,True,Boston,"Male
-"
-alexisgallagher,Alexis Gallagher,user,True,San Francisco,"Female
-"
-lversweyveld,Luke Versweyveld,user,False,,"Male
-"
-sarahpann,Sarah Pan,user,False,,"Female
-"
-wgpubs,wgpubs,user,True,,"Unknown
-"
+jph00,Jeremy Howard,user,True,"Brisbane, Australia",male
+keremturgutlu,Kerem Turgutlu,user,True,,male
+bwarner,Benjamin Warner,user,False,,male
+johnowhitaker,Jonathan Whitaker,user,True,"Portland, Oregon",male
+bclavie,Benjamin Clavié,user,True,Lyon/Tokyo,male
+austinvhuang,Austin Huang,user,True,,male
+griffin,Griffin Adams,user,True,"New Canaan, CT",male
+fladhak,Faisal Ladhak,user,False,,unknown
+vikp,Vikas Paruchuri,user,True,"Brooklyn, NY",male
+rbiswasfc,Raja Biswas,user,True,Singapore,male
+hamel,Hamel Husain,user,True,"Portland, OR",male
+ncoop57,Nathan Cooper,user,True,,unknown
+freddyaboulton,Freddy Boulton,user,True,Boston,male
+alexisgallagher,Alexis Gallagher,user,True,San Francisco,female
+lversweyveld,Luke Versweyveld,user,False,,male
+sarahpann,Sarah Pan,user,False,,female
+wgpubs,wgpubs,user,True,,unknown

@@ -1,169 +1,85 @@
 username,name,role,has_github,location,gender
-opengvlab-admin,OpenGVLab Admin,user,False,,"Unknown
-"
-Weiyun1025,Weiyun Wang,user,True,,"Unknown
-"
-czczup,Zhe Chen,user,True,Nanjing,"Male
-"
-wofmanaf,Qinglong Zhang,user,True,"Shanghai,China","Male
-"
-cg1177,Guo Chen,user,True,Nanjing,"Male
-"
-tangshixiang,SHIXIANG TANG,user,False,,"Unknown
-"
-ynhe,yinanhe,user,True,Shanghai,"Unknown
-"
-zyliu,Zhaoyang Liu,user,True,,"Unknown
-"
-aaronb,Zeqiang Lai,user,True,,"Male
-"
-Yeshenglong,Yeshenglong,user,False,,"Unknown
-"
-OpenGVBot,OpenGVBot,user,False,,"Unknown
-"
-awojustin,Jiashuo Yu,user,True,"Shanghai, China","Unknown
-"
-shepnerd,Yi Wang,user,True,China,"Unknown
-"
-zwgao,zwgao,user,False,,"Unknown
-"
-EugeneYonng,Jin Ye,user,True,,"Unknown
-"
-Andy1621,Kunchang Li,user,True,Shanghai,"Male
-"
-cuierfei,cuierfei,user,True,,"Unknown
-"
-greysunshine,shaobin zhuang,user,False,,"Male
-"
-RealZhiqiLi,ZhiqiLi,user,False,,"Unknown
-"
-Changyao,Changyao Tian,user,False,,"Unknown
-"
-Cohesion98,Yizhou Wang,user,True,,"Male
-"
-duanyuchen,Duan Yuchen,user,True,Hong Kong,"Unknown
-"
-minhdang,Tu Minh Dang,user,False,,"Male
-"
-Warung,Alexander Sugiharto,user,True,"Jakarta, Indonesia","Male
-"
-ZhenhangHuang,ZhenhangHuang,user,True,,"Unknown
-"
-Xrenya,Rinat,user,True,,"Unknown
-"
-ACaplier,Arnaud Caplier,user,True,,"Male
-"
-thewise,Rohan Kataria,user,True,"Cambridge, MA","Male
-"
-intellisr,Sathira Rumal Aroshan,user,True,,"Unknown
-"
-Vanos007,Van os,user,False,,"Unknown
-"
-emailfrom,email.from,user,True,,"Unknown
-"
-luotto,Lewei Lu,user,True,"Beijing, China","Unknown
-"
-unsubscribe,lmdeploy,user,True,,"Unknown
-"
-yangxue,Xue Yang,user,True,Shanghai,"Unknown
-"
-wzk1015,Zhaokai Wang,user,True,Shanghai,"Male
-"
-mhomaid,Mohamed Homaid,user,True,"Alpharetta, GA","Male
-"
-burrowswang,burrowswang,user,True,China,"Unknown
-"
-KingNish,Nishith Jain,user,True,India,"Male
-"
-hflqf88888,Quanfeng Lu,user,False,,"Male
-"
-kawinduwijewardhane,Kawindu Wijewardhane,user,True,Sri Lanka,"Male
-"
-dataconverse-ai,Mohamed Homaid,user,False,,"Male
-"
-aslawliet,Lawliet,user,False,,"Unknown
-"
-nightfury,spartan,user,False,,"Unknown
-"
-wjn922,Jiannan Wu,user,False,,"Unknown
-"
-kpzhang996,kaipeng,user,False,,"Male
-"
-Abhaykoul,Abhay Koul,user,True,,"Unknown
-"
-ruslanmv,Ruslan Magana Vsevolodovna,user,True,Italy,"Female
-"
-ganlinyang,Ganlin Yang,user,False,,"Unknown
-"
-Kaining,Kaining Ying,user,False,,"Unknown
-"
-acanchichi,An Yu,user,True,,"Unknown
-"
-myuniverse,BruceLee,user,False,,"Male
-"
-mtoan65,Toan M. DINH,user,True,"Da Nang, Viet Nam","Male
-"
-wqshao126,Wenqi Shao,user,True,,"Unknown
-"
-Daemontatox,Ammar,user,True,"London ,United Kingdom","Male
-"
-DomingoCDs,Domingo CD,user,False,,"Unknown
-"
-ioda-idg,Ioannis Dagas,user,True,,"Male
-"
-Nymbo,Nymbo,user,True,Pennsylvania,"Unknown
-"
-khang119966,Khang Doan,user,False,,"Male
-"
-kanghtta,kang,user,False,,"Unknown
-"
-baohuynhbk14,Huynh Gia Bao,user,True,,"Male
-"
-qishisuren,qishisuren,user,False,,"Unknown
-"
-revliter,revliter,user,True,,"Unknown
-"
-Qingyun,Qingyun Li,user,True,Harbin & Shanghai,"Male
-"
-nanamma,sys,user,False,,"Unknown
-"
-hoangnhatsuong,Suong N Hoang,user,False,,"Unknown
-"
-taurusduan,taurus,user,False,,"Unknown
-"
-prithivMLmods,Prithiv Sakthi,user,True,Alpha Centauri,"Male
-"
-unitommy,tom lee,user,False,,"Male
-"
-yuezhengrong,zhengrong yue,user,False,,"Unknown
-"
-xi0v,Xi,user,False,,"Unknown
-"
-LiruiZhao,Lirui Zhao,user,True,,"Unknown
-"
-wisebreadloaf,K P Prasanna,user,True,,"Unknown
-"
-htdung167,Dung Hoang Tien,user,True,,"Unknown
-"
-VKT0369,Vinay Kumar Tiwari,user,True,"Iselin, New Jersey, United States","Male
-"
-bavo,Võ Quốc Bằng,user,True,Ho Chi Minh City,"Male
-"
-Niansuh,Husnain,user,True,,"Male
-"
-ZunWang,Zun Wang,user,True,,"Male
-"
-favor123,Gen Luo,user,False,,"Unknown
-"
-lililio,li,user,False,,"Unknown
-"
-Jai1432002,Aggarwal,user,False,,"Unknown
-"
-ThucPD,Thuc PHAM Dinh,user,False,,"Unknown
-"
-douwh,dou wenhan,user,False,,"Male
-"
-Tanvir1337,𝒕𝒂𝒏𝒗𝒊𝒓,user,True,"Dhaka, Bangladesh","Female
-"
-gelina1001,gelina1001,user,False,,"Unknown
-"
+opengvlab-admin,OpenGVLab Admin,user,False,,unknown
+Weiyun1025,Weiyun Wang,user,True,,unknown
+czczup,Zhe Chen,user,True,Nanjing,male
+wofmanaf,Qinglong Zhang,user,True,"Shanghai,China",male
+cg1177,Guo Chen,user,True,Nanjing,male
+tangshixiang,SHIXIANG TANG,user,False,,unknown
+ynhe,yinanhe,user,True,Shanghai,unknown
+zyliu,Zhaoyang Liu,user,True,,unknown
+aaronb,Zeqiang Lai,user,True,,male
+Yeshenglong,Yeshenglong,user,False,,unknown
+OpenGVBot,OpenGVBot,user,False,,unknown
+awojustin,Jiashuo Yu,user,True,"Shanghai, China",unknown
+shepnerd,Yi Wang,user,True,China,unknown
+zwgao,zwgao,user,False,,unknown
+EugeneYonng,Jin Ye,user,True,,unknown
+Andy1621,Kunchang Li,user,True,Shanghai,male
+cuierfei,cuierfei,user,True,,unknown
+greysunshine,shaobin zhuang,user,False,,male
+RealZhiqiLi,ZhiqiLi,user,False,,unknown
+Changyao,Changyao Tian,user,False,,unknown
+Cohesion98,Yizhou Wang,user,True,,male
+duanyuchen,Duan Yuchen,user,True,Hong Kong,unknown
+minhdang,Tu Minh Dang,user,False,,male
+Warung,Alexander Sugiharto,user,True,"Jakarta, Indonesia",male
+ZhenhangHuang,ZhenhangHuang,user,True,,unknown
+Xrenya,Rinat,user,True,,unknown
+ACaplier,Arnaud Caplier,user,True,,male
+thewise,Rohan Kataria,user,True,"Cambridge, MA",male
+intellisr,Sathira Rumal Aroshan,user,True,,unknown
+Vanos007,Van os,user,False,,unknown
+emailfrom,email.from,user,True,,unknown
+luotto,Lewei Lu,user,True,"Beijing, China",unknown
+unsubscribe,lmdeploy,user,True,,unknown
+yangxue,Xue Yang,user,True,Shanghai,unknown
+wzk1015,Zhaokai Wang,user,True,Shanghai,male
+mhomaid,Mohamed Homaid,user,True,"Alpharetta, GA",male
+burrowswang,burrowswang,user,True,China,unknown
+KingNish,Nishith Jain,user,True,India,male
+hflqf88888,Quanfeng Lu,user,False,,male
+kawinduwijewardhane,Kawindu Wijewardhane,user,True,Sri Lanka,male
+dataconverse-ai,Mohamed Homaid,user,False,,male
+aslawliet,Lawliet,user,False,,unknown
+nightfury,spartan,user,False,,unknown
+wjn922,Jiannan Wu,user,False,,unknown
+kpzhang996,kaipeng,user,False,,male
+Abhaykoul,Abhay Koul,user,True,,unknown
+ruslanmv,Ruslan Magana Vsevolodovna,user,True,Italy,female
+ganlinyang,Ganlin Yang,user,False,,unknown
+Kaining,Kaining Ying,user,False,,unknown
+acanchichi,An Yu,user,True,,unknown
+myuniverse,BruceLee,user,False,,male
+mtoan65,Toan M. DINH,user,True,"Da Nang, Viet Nam",male
+wqshao126,Wenqi Shao,user,True,,unknown
+Daemontatox,Ammar,user,True,"London ,United Kingdom",male
+DomingoCDs,Domingo CD,user,False,,unknown
+ioda-idg,Ioannis Dagas,user,True,,male
+Nymbo,Nymbo,user,True,Pennsylvania,unknown
+khang119966,Khang Doan,user,False,,male
+kanghtta,kang,user,False,,unknown
+baohuynhbk14,Huynh Gia Bao,user,True,,male
+qishisuren,qishisuren,user,False,,unknown
+revliter,revliter,user,True,,unknown
+Qingyun,Qingyun Li,user,True,Harbin & Shanghai,male
+nanamma,sys,user,False,,unknown
+hoangnhatsuong,Suong N Hoang,user,False,,unknown
+taurusduan,taurus,user,False,,unknown
+prithivMLmods,Prithiv Sakthi,user,True,Alpha Centauri,male
+unitommy,tom lee,user,False,,male
+yuezhengrong,zhengrong yue,user,False,,unknown
+xi0v,Xi,user,False,,unknown
+LiruiZhao,Lirui Zhao,user,True,,unknown
+wisebreadloaf,K P Prasanna,user,True,,unknown
+htdung167,Dung Hoang Tien,user,True,,unknown
+VKT0369,Vinay Kumar Tiwari,user,True,"Iselin, New Jersey, United States",male
+bavo,Võ Quốc Bằng,user,True,Ho Chi Minh City,male
+Niansuh,Husnain,user,True,,male
+ZunWang,Zun Wang,user,True,,male
+favor123,Gen Luo,user,False,,unknown
+lililio,li,user,False,,unknown
+Jai1432002,Aggarwal,user,False,,unknown
+ThucPD,Thuc PHAM Dinh,user,False,,unknown
+douwh,dou wenhan,user,False,,male
+Tanvir1337,𝒕𝒂𝒏𝒗𝒊𝒓,user,True,"Dhaka, Bangladesh",female
+gelina1001,gelina1001,user,False,,unknown

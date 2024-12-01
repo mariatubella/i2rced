@@ -1,11 +1,6 @@
 username,name,role,has_github,location,gender
-majkar,Maria,user,False,,"Female
-"
-marcink-charactr,MarKo,user,False,,"Unknown
-"
-maciejctr,Maciej Blaszke,user,False,,"Male
-"
-neurowelt,neurowelt,user,True,,"Unknown
-"
-developer-charactr,Developer Charactr,user,False,,"Unknown
-"
+majkar,Maria,user,False,,female
+marcink-charactr,MarKo,user,False,,unknown
+maciejctr,Maciej Blaszke,user,False,,male
+neurowelt,neurowelt,user,True,,unknown
+developer-charactr,Developer Charactr,user,False,,unknown

@@ -1,95 +1,48 @@
 username,name,role,has_github,location,gender
-rvencu,Richard Vencu,user,True,"Sibiu, Romania","Male
-"
-rom1504,Romain Beaumont,user,True,Paris,"Male
-"
-robvanvolt,Rob van Volt,user,False,,"Male
-"
-Philipuss,Philip,user,True,,"Male
-"
-ARKseal,Aarush Katta,user,True,"Chicago, IL","Male
-"
-borzunov,Alexander Borzunov,user,True,,"Male
-"
-micole66,Micole Bellocchio,user,False,,"Unknown
-"
-rub,ubr,user,False,,"Unknown
-"
-fyremael,Fyre Mael,user,True,Africa,"Unknown
-"
-TheoCoombes,Theo Coombes,user,True,"London, United Kingdom","Male
-"
-mehdidc,Mehdi Cherti,user,True,Germany,"Male
-"
-afiaka87,Clay Mullis,user,True,,"Male
-"
-Veldrovive,Aidan Dempster,user,True,,"Male
-"
-nousr,nousr,user,True,,"Unknown
-"
-marianna13,Marianna Nezhurina,user,True,,"Female
-"
-PSaiml,Patrick Schramowski,user,True,"Darmstadt, Germany","Male
-"
-dome272,Dominic Rampas,user,True,Germany,"Male
-"
-mitchellw,Mitchell Wortsman,user,True,,"Male
-"
-iejMac,Maciej Kilian,user,True,,"Male
-"
-gpucce,Giovanni Puccetti,user,True,,"Male
-"
-huu-ontocord,Huu Nguyen,user,False,,"Unknown
-"
-hyunwoongko,Hyunwoong Ko,user,True,"Seoul, Korea","Male
-"
-lukewys,Yusong Wu,user,True,Montreal,"Male
-"
-RSNuts,Ke Chen,user,True,"La Jolla, California, USA","Unknown
-"
-jason9693,Kichang Yang,user,True,San Jose,"Male
-"
-bzantium,Minho Ryu,user,True,Pangyo,"Male
-"
-JJitsev,Jenia Jitsev,user,True,,"Male
-"
-gabrielilharco,Gabriel Ilharco,user,False,,"Male
-"
-rwightman,Ross Wightman,user,True,"Vancouver, BC, Canada","Male
-"
-cahya,Cahya Wirawan,user,True,"Vienna, Austria","Male
-"
-apf1,Alex Fang,user,False,,"Unknown
-"
-ChristophSchuhmann,Christoph Schuhmann,user,False,,"Male
-"
-EduardoPacheco,Eduardo Pacheco,user,True,"Munich, Germany","Male
-"
-ZachNagengast,Zach Nagengast,user,True,Los Angeles,"Male
-"
-lfsm,Qi Sun,user,False,,"Unknown
-"
-ylacombe,Yoach Lacombe,user,True,,"Unknown
-"
-kastan,Kastan Day,user,True,"Seattle, WA","Unknown
-"
-TianyuZhang,Tianyu Zhang,user,True,Montreal,"Male
-"
-felfri,Felix Friedrich,user,True,,"Male
-"
-libeanim,Andreas,user,True,"London, UK","Male
-"
-sheryc,Suyuchen Wang,user,True,"Montréal, Québec, Canada","Unknown
-"
-W4ng1204,Xinyu Wang,user,False,,"Female
-"
-sleeping4cat,tawsif,user,True,Netherlands,"Male
-"
-AmeyaPrabhu,Ameya Prabhu,user,True,,"Unknown
-"
-endomorphosis,Benjamin J Barber,user,True,,"Male
-"
-OpenSourceElysium,Chrome Shaman,user,False,,"Unknown
-"
-Alignment-Lab-AI,Alignment Lab AI,user,True,Global Team,"Unknown
-"
+rvencu,Richard Vencu,user,True,"Sibiu, Romania",male
+rom1504,Romain Beaumont,user,True,Paris,male
+robvanvolt,Rob van Volt,user,False,,male
+Philipuss,Philip,user,True,,male
+ARKseal,Aarush Katta,user,True,"Chicago, IL",male
+borzunov,Alexander Borzunov,user,True,,male
+micole66,Micole Bellocchio,user,False,,unknown
+rub,ubr,user,False,,unknown
+fyremael,Fyre Mael,user,True,Africa,unknown
+TheoCoombes,Theo Coombes,user,True,"London, United Kingdom",male
+mehdidc,Mehdi Cherti,user,True,Germany,male
+afiaka87,Clay Mullis,user,True,,male
+Veldrovive,Aidan Dempster,user,True,,male
+nousr,nousr,user,True,,unknown
+marianna13,Marianna Nezhurina,user,True,,female
+PSaiml,Patrick Schramowski,user,True,"Darmstadt, Germany",male
+dome272,Dominic Rampas,user,True,Germany,male
+mitchellw,Mitchell Wortsman,user,True,,male
+iejMac,Maciej Kilian,user,True,,male
+gpucce,Giovanni Puccetti,user,True,,male
+huu-ontocord,Huu Nguyen,user,False,,unknown
+hyunwoongko,Hyunwoong Ko,user,True,"Seoul, Korea",male
+lukewys,Yusong Wu,user,True,Montreal,male
+RSNuts,Ke Chen,user,True,"La Jolla, California, USA",unknown
+jason9693,Kichang Yang,user,True,San Jose,male
+bzantium,Minho Ryu,user,True,Pangyo,male
+JJitsev,Jenia Jitsev,user,True,,male
+gabrielilharco,Gabriel Ilharco,user,False,,male
+rwightman,Ross Wightman,user,True,"Vancouver, BC, Canada",male
+cahya,Cahya Wirawan,user,True,"Vienna, Austria",male
+apf1,Alex Fang,user,False,,unknown
+ChristophSchuhmann,Christoph Schuhmann,user,False,,male
+EduardoPacheco,Eduardo Pacheco,user,True,"Munich, Germany",male
+ZachNagengast,Zach Nagengast,user,True,Los Angeles,male
+lfsm,Qi Sun,user,False,,unknown
+ylacombe,Yoach Lacombe,user,True,,unknown
+kastan,Kastan Day,user,True,"Seattle, WA",unknown
+TianyuZhang,Tianyu Zhang,user,True,Montreal,male
+felfri,Felix Friedrich,user,True,,male
+libeanim,Andreas,user,True,"London, UK",male
+sheryc,Suyuchen Wang,user,True,"Montréal, Québec, Canada",unknown
+W4ng1204,Xinyu Wang,user,False,,female
+sleeping4cat,tawsif,user,True,Netherlands,male
+AmeyaPrabhu,Ameya Prabhu,user,True,,unknown
+endomorphosis,Benjamin J Barber,user,True,,male
+OpenSourceElysium,Chrome Shaman,user,False,,unknown
+Alignment-Lab-AI,Alignment Lab AI,user,True,Global Team,unknown

@@ -1,9 +1,5 @@
 username,name,role,has_github,location,gender
-thenlper,Dingkun Long,user,False,,"Male
-"
-izhx,Xin Zhang,user,True,Hong Kong,"Unknown
-"
-zyznull,yanzhao,user,False,,"Unknown
-"
-oriuta,Wang Xinyu,user,False,,"Female
-"
+thenlper,Dingkun Long,user,False,,male
+izhx,Xin Zhang,user,True,Hong Kong,unknown
+zyznull,yanzhao,user,False,,unknown
+oriuta,Wang Xinyu,user,False,,female

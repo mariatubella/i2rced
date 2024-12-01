@@ -1,121 +1,61 @@
 username,name,role,has_github,location,gender
-ledell,Ledell Wu,user,True,,"Unknown
-"
-shunxing1234,nick xiang,user,True,,"Male
-"
-aeros0ul,Qiwei Ye,user,True,Beijing,"Male
-"
-ydshieh,Yih-Dar SHIEH,user,True,Paris,"Male
-"
-ZacLiu,Guang Liu,user,True,,"Male
-"
-xingzhaohu,Xingzhaohu,user,False,,"Unknown
-"
-jongjyh,Chen,user,True,,"Male
-"
-bowen92,bowenzhang,user,False,,"Male
-"
-Alon77777,fulong ye,user,True,北京,"Unknown
-"
-zxdu20,Zhengxiao Du,user,True,,"Male
-"
-Anhforth,Zhaodong Yan,user,False,,"Male
-"
-Rainstorm,Yue Cao,user,False,,"Unknown
-"
-Yuxin-CV,Yuxin Fang,user,True,"Local Minimum, Region of Interest","Unknown
-"
-xiyang99,Xi Yang,user,False,,"Male
-"
-xuanricheng,Richeng Xuan,user,True,,"Unknown
-"
-hyxmmm,Yuanxiang Heng,user,True,,"Unknown
-"
-shiyemin2,Yemin,user,False,,"Unknown
-"
-xinlongwang,Xinlong Wang,user,True,,"Male
-"
-wwen1997,Wen Wang,user,False,,"Male
-"
-tellarin,Börje Karlsson,user,True,,"Male
-"
-ldwang,ldwang,user,True,,"Unknown
-"
-01Matrix,William,user,False,,"Male
-"
-Zoe2333,zoe,user,True,"Wuhan University of Technology, Hongshan District, Wuhan City, Hubei Province","Female
-"
-qiying,Qiying Yu,user,False,,"Unknown
-"
-BoyaWu10,BoyaWu,user,False,,"Male
-"
-Shitao,Xiao,user,True,,"Male
-"
-zl101,zhengliu,user,False,,"Unknown
-"
-wolfwjs,Jinsheng Wang,user,True,,"Male
-"
-MonteXiaofeng,shixiaofeng,user,True,Beijing,"Male
-"
-shizue,Ye Yuan,user,True,"Beijing, China","Unknown
-"
-LianghuiZhu,Lianghui Zhu,user,False,,"Unknown
-"
-BoZhaoHuggingFace,Bo Zhao,user,False,,"Male
-"
-qpzz,qiangpoz,user,False,,"Unknown
-"
-gsh33,shuhao gu,user,True,,"Male
-"
-PhyscalX,Ting PAN,user,True,"Beijing, China","Unknown
-"
-QuanSun,Quan Sun,user,True,Beijing,"Male
-"
-ryanzhangfan,Fan Zhang,user,False,,"Unknown
-"
-YufengCui,Yufeng Cui,user,False,,"Male
-"
-philokey,Zheqi He,user,True,Beijing,"Male
-"
-Yonghua,Yonghua Lin,user,False,,"Unknown
-"
-hanyu77,zhao,user,False,,"Male
-"
-lilaczheng,jingshu,user,False,,"Unknown
-"
-KevinLii,HaoxuanLi,user,False,,"Unknown
-"
-zhaoliao,zhaoliao,user,True,,"Male
-"
-rongaoli,Rongao Li,user,True,,"Unknown
-"
-qwerwxy,1,user,False,,"Unknown
-"
-Paranioar,Haiwen Diao,user,True,,"Unknown
-"
-songjing,wang,user,False,,"Unknown
-"
-h094071,haodonglin,user,True,,"Male
-"
-UtopiaSto,"LI, XIAOTONG",user,False,,"Unknown
-"
-Rookielion,Wenxuan Wang,user,True,Beijing,"Unknown
-"
-TangoTian,Tian,user,False,,"Unknown
-"
-daiteng01,daiteng01,user,False,,"Male
-"
-xianbao,Tiezhen WANG,user,True,,"Unknown
-"
-ArthurZ,Arthur Zucker,user,True,,"Male
-"
-multimodalart,Apolinário from multimodal AI art,user,True,,"Male
-"
-cyrilvallez,Cyril Vallez,user,True,"Lausanne, Switzerland","Male
-"
-RaushanTurganbay,Raushan Turganbay,user,True,Germany,"Male
-"
-xuejing2409,lixuejing,user,False,,"Unknown
-"
-Xtragalaxy,Huggingfacehugginglife,user,False,,"Unknown
-"
+ledell,Ledell Wu,user,True,,unknown
+shunxing1234,nick xiang,user,True,,male
+aeros0ul,Qiwei Ye,user,True,Beijing,male
+ydshieh,Yih-Dar SHIEH,user,True,Paris,male
+ZacLiu,Guang Liu,user,True,,male
+xingzhaohu,Xingzhaohu,user,False,,unknown
+jongjyh,Chen,user,True,,male
+bowen92,bowenzhang,user,False,,male
+Alon77777,fulong ye,user,True,北京,unknown
+zxdu20,Zhengxiao Du,user,True,,male
+Anhforth,Zhaodong Yan,user,False,,male
+Rainstorm,Yue Cao,user,False,,unknown
+Yuxin-CV,Yuxin Fang,user,True,"Local Minimum, Region of Interest",unknown
+xiyang99,Xi Yang,user,False,,male
+xuanricheng,Richeng Xuan,user,True,,unknown
+hyxmmm,Yuanxiang Heng,user,True,,unknown
+shiyemin2,Yemin,user,False,,unknown
+xinlongwang,Xinlong Wang,user,True,,male
+wwen1997,Wen Wang,user,False,,male
+tellarin,Börje Karlsson,user,True,,male
+ldwang,ldwang,user,True,,unknown
+01Matrix,William,user,False,,male
+Zoe2333,zoe,user,True,"Wuhan University of Technology, Hongshan District, Wuhan City, Hubei Province",female
+qiying,Qiying Yu,user,False,,unknown
+BoyaWu10,BoyaWu,user,False,,male
+Shitao,Xiao,user,True,,male
+zl101,zhengliu,user,False,,unknown
+wolfwjs,Jinsheng Wang,user,True,,male
+MonteXiaofeng,shixiaofeng,user,True,Beijing,male
+shizue,Ye Yuan,user,True,"Beijing, China",unknown
+LianghuiZhu,Lianghui Zhu,user,False,,unknown
+BoZhaoHuggingFace,Bo Zhao,user,False,,male
+qpzz,qiangpoz,user,False,,unknown
+gsh33,shuhao gu,user,True,,male
+PhyscalX,Ting PAN,user,True,"Beijing, China",unknown
+QuanSun,Quan Sun,user,True,Beijing,male
+ryanzhangfan,Fan Zhang,user,False,,unknown
+YufengCui,Yufeng Cui,user,False,,male
+philokey,Zheqi He,user,True,Beijing,male
+Yonghua,Yonghua Lin,user,False,,unknown
+hanyu77,zhao,user,False,,male
+lilaczheng,jingshu,user,False,,unknown
+KevinLii,HaoxuanLi,user,False,,unknown
+zhaoliao,zhaoliao,user,True,,male
+rongaoli,Rongao Li,user,True,,unknown
+qwerwxy,1,user,False,,unknown
+Paranioar,Haiwen Diao,user,True,,unknown
+songjing,wang,user,False,,unknown
+h094071,haodonglin,user,True,,male
+UtopiaSto,"LI, XIAOTONG",user,False,,unknown
+Rookielion,Wenxuan Wang,user,True,Beijing,unknown
+TangoTian,Tian,user,False,,unknown
+daiteng01,daiteng01,user,False,,male
+xianbao,Tiezhen WANG,user,True,,unknown
+ArthurZ,Arthur Zucker,user,True,,male
+multimodalart,Apolinário from multimodal AI art,user,True,,male
+cyrilvallez,Cyril Vallez,user,True,"Lausanne, Switzerland",male
+RaushanTurganbay,Raushan Turganbay,user,True,Germany,male
+xuejing2409,lixuejing,user,False,,unknown
+Xtragalaxy,Huggingfacehugginglife,user,False,,unknown

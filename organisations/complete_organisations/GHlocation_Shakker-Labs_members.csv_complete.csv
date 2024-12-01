@@ -1,5 +1,3 @@
 username,name,role,has_github,location,gender
-ShakkerAi-Labs,Elena,user,False,,"Female
-"
-wanghaofan,Haofan Wang,user,True,,"Male
-"
+ShakkerAi-Labs,Elena,user,False,,female
+wanghaofan,Haofan Wang,user,True,,male

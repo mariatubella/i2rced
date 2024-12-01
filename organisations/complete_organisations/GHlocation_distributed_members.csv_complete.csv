@@ -1,17 +1,9 @@
 username,name,role,has_github,location,gender
-kmfoda,Karim Foda,user,True,London,"Male
-"
-jonna32,Mikkel Thybo Loose,user,False,,"Male
-"
-WildSage,WildSage Labs,user,True,,"Unknown
-"
-minersunion,minersunion,user,False,,"Unknown
-"
-tensorplex-labs,Tensorplex Labs,user,True,,"Unknown
-"
-mog-t34,mog,user,True,,"Unknown
-"
-foundryaccelerate,Accelerate,user,False,,"Unknown
-"
-bittensorguru,Keith Singery,user,False,,"Male
-"
+kmfoda,Karim Foda,user,True,London,male
+jonna32,Mikkel Thybo Loose,user,False,,male
+WildSage,WildSage Labs,user,True,,unknown
+minersunion,minersunion,user,False,,unknown
+tensorplex-labs,Tensorplex Labs,user,True,,unknown
+mog-t34,mog,user,True,,unknown
+foundryaccelerate,Accelerate,user,False,,unknown
+bittensorguru,Keith Singery,user,False,,male

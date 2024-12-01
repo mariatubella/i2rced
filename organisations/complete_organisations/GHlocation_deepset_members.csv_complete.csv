@@ -1,65 +1,33 @@
 username,name,role,has_github,location,gender
-tanaysoni,Tanay Soni,user,True,,"Male
-"
-malte,Malte Pietsch,user,True,"Berlin, Germany","Male
-"
-julianrisch,Julian Risch,user,True,"Berlin, Germany","Male
-"
-dmigo,Dmitry Goryunov,user,True,"Berlin, Germany","Male
-"
-mkkuemmel,Miriam Kümmel,user,False,,"Female
-"
-sotthe,Soteris Theophanous,user,False,,"Male
-"
-tstadel,Thomas Stadelmann,user,True,,"Male
-"
-erend,Eren Dabanlıoğlu,user,False,,"Male
-"
-vblagoje,Vladimir Blagojevic,user,True,Berlin,"Male
-"
-sjrhuschlee,Sebastian Husch Lee,user,True,Munich,"Male
-"
-mrusic,Milos Rusic,user,False,,"Male
-"
-jugu,Julian Gutsch,user,False,,"Male
-"
-deepsetFlorian,H,user,False,,"Unknown
-"
-askainet,Ivan Lopez,user,True,Barcelona (Spain),"Male
-"
-mathislucka,Mathis,user,True,,"Male
-"
-bilgeyucel,Bilge Yücel,user,True,Istanbul,"Male
-"
-rjanjua,Rohan Janjua,user,True,,"Male
-"
-bijaygurung,Bijay Gurung,user,True,,"Male
-"
-HaystackBot,Haystack Bot,user,False,,"Unknown
-"
-JasperLS,Jasper Schwenzow,user,True,Hamburg,"Male
-"
-aga-m,Agnieszka Marzec,user,True,,"Female
-"
-daria-f,Daria Fokina,user,False,,"Female
-"
-anakin87,Stefano Fiorucci,user,True,Italy,"Male
-"
-annthurium,Tilde Thurium,user,True,San Francisco,"Unknown
-"
-shadeMe,Madeesh Kannan,user,True,In the Great Hall and in the bladder,"Male
-"
-MoRags,Mohamed Sriha,user,True,Chicago,"Male
-"
-silvanocerza,Silvano Cerza,user,True,World,"Male
-"
-DavidSBatista,David Batista,user,True,"Berlin, Germany","Male
-"
-aantti,Andrey A.,user,False,,"Male
-"
-lucalilai,Laura Luckert,user,True,,"Female
-"
-marcofalsone,Marco Falsone,user,False,,"Male
-"
-Emil-io,Emil Scheffer,user,True,,"Male
-"
+tanaysoni,Tanay Soni,user,True,,male
+malte,Malte Pietsch,user,True,"Berlin, Germany",male
+julianrisch,Julian Risch,user,True,"Berlin, Germany",male
+dmigo,Dmitry Goryunov,user,True,"Berlin, Germany",male
+mkkuemmel,Miriam Kümmel,user,False,,female
+sotthe,Soteris Theophanous,user,False,,male
+tstadel,Thomas Stadelmann,user,True,,male
+erend,Eren Dabanlıoğlu,user,False,,male
+vblagoje,Vladimir Blagojevic,user,True,Berlin,male
+sjrhuschlee,Sebastian Husch Lee,user,True,Munich,male
+mrusic,Milos Rusic,user,False,,male
+jugu,Julian Gutsch,user,False,,male
+deepsetFlorian,H,user,False,,unknown
+askainet,Ivan Lopez,user,True,Barcelona (Spain),male
+mathislucka,Mathis,user,True,,male
+bilgeyucel,Bilge Yücel,user,True,Istanbul,male
+rjanjua,Rohan Janjua,user,True,,male
+bijaygurung,Bijay Gurung,user,True,,male
+HaystackBot,Haystack Bot,user,False,,unknown
+JasperLS,Jasper Schwenzow,user,True,Hamburg,male
+aga-m,Agnieszka Marzec,user,True,,female
+daria-f,Daria Fokina,user,False,,female
+anakin87,Stefano Fiorucci,user,True,Italy,male
+annthurium,Tilde Thurium,user,True,San Francisco,unknown
+shadeMe,Madeesh Kannan,user,True,In the Great Hall and in the bladder,male
+MoRags,Mohamed Sriha,user,True,Chicago,male
+silvanocerza,Silvano Cerza,user,True,World,male
+DavidSBatista,David Batista,user,True,"Berlin, Germany",male
+aantti,Andrey A.,user,False,,male
+lucalilai,Laura Luckert,user,True,,female
+marcofalsone,Marco Falsone,user,False,,male
+Emil-io,Emil Scheffer,user,True,,male

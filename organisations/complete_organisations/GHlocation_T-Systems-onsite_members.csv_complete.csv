@@ -1,31 +1,16 @@
 username,name,role,has_github,location,gender
-PhilipMay,Philip May,user,True,Germany / Braunschweig,"Male
-"
-jhaensel,J. Haensel,user,False,,"Unknown
-"
-Joel12345678,Joel,user,False,,"Male
-"
-chschmidt,Christian Schmidt,user,False,,"Male
-"
-t-rohanhodarkar,Rohan Hodarkar,user,False,,"Male
-"
-HiteshL,Hitesh,user,False,,"Male
-"
-Andrej321,Schreiner,user,True,,"Male
-"
-shr2024,Shakib Rahimi,user,False,,"Male
-"
-mijanous,Miroslav Janousek,user,False,,"Male
-"
-tsiadw,Adwesh Behera,user,False,,"Male
-"
-tomaskoctur-dt,Tomas Koctur,user,False,,"Male
-"
-u49mg,michig,user,False,,"Unknown
-"
-carlos-guevara,Carlos Guevara,user,False,,"Male
-"
-mikelasla,Mikel Asla,user,False,,"Male
-"
-MitjaMartiniTSI,Mitja Martini,user,False,,"Unknown
-"
+PhilipMay,Philip May,user,True,Germany / Braunschweig,male
+jhaensel,J. Haensel,user,False,,unknown
+Joel12345678,Joel,user,False,,male
+chschmidt,Christian Schmidt,user,False,,male
+t-rohanhodarkar,Rohan Hodarkar,user,False,,male
+HiteshL,Hitesh,user,False,,male
+Andrej321,Schreiner,user,True,,male
+shr2024,Shakib Rahimi,user,False,,male
+mijanous,Miroslav Janousek,user,False,,male
+tsiadw,Adwesh Behera,user,False,,male
+tomaskoctur-dt,Tomas Koctur,user,False,,male
+u49mg,michig,user,False,,unknown
+carlos-guevara,Carlos Guevara,user,False,,male
+mikelasla,Mikel Asla,user,False,,male
+MitjaMartiniTSI,Mitja Martini,user,False,,unknown

@@ -1,25 +1,13 @@
 username,name,role,has_github,location,gender
-x-labs,x-labs,user,False,,"Unknown
-"
-semeka,Semen Beliaev,user,True,,"Male
-"
-stazizov,Said Azizov,user,True,"Kaspiysk, Dagestan","Male
-"
-AndreyML,Andrey Laptev,user,True,,"Male
-"
-asyotr,Asya,user,False,,"Female
-"
-anghellia,Anzhella Pankratova,user,False,,"Female
-"
-gradient-diffusion,gradient-diffusion,user,False,,"Unknown
-"
-shockless,Fedor Avilov,user,True,,"Male
-"
-stillmaxnygma,Max Nygma,user,False,,"Male
-"
-denmalbas007,Danilo Malbashich,user,True,,"Male
-"
-alexwaskez,Alex Waskez,user,False,,"Male
-"
-VladimirM388,Vladimir Melnikov,user,False,,"Male
-"
+x-labs,x-labs,user,False,,unknown
+semeka,Semen Beliaev,user,True,,male
+stazizov,Said Azizov,user,True,"Kaspiysk, Dagestan",male
+AndreyML,Andrey Laptev,user,True,,male
+asyotr,Asya,user,False,,female
+anghellia,Anzhella Pankratova,user,False,,female
+gradient-diffusion,gradient-diffusion,user,False,,unknown
+shockless,Fedor Avilov,user,True,,male
+stillmaxnygma,Max Nygma,user,False,,male
+denmalbas007,Danilo Malbashich,user,True,,male
+alexwaskez,Alex Waskez,user,False,,male
+VladimirM388,Vladimir Melnikov,user,False,,male

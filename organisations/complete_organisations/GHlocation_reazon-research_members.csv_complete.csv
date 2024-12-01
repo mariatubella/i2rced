@@ -1,29 +1,15 @@
 username,name,role,has_github,location,gender
-fujimotos,Fujimoto Seiji,user,True,,"Male
-"
-orijiad,Daijiro MORI,user,True,Yokohama Japan,"Male
-"
-euyniy,Yue Yin,user,True,"Tokyo, Japan","Unknown
-"
-magnusbarata,Barata Tripramudya Onggo,user,False,,"Male
-"
-hisashi-ito,Hisashi Itoh,user,True,Suginami Tokyo,"Male
-"
-anshikakankane25,Anshika Kankane,user,True,,"Female
-"
-bipbipbeep,Bipul Panthi,user,False,,"Male
-"
-yubo0306,Yuta Sasaki,user,True,,"Male
-"
-gunyarakun,Tasuku SUENAGA,user,True,"Tokyo, Japan","Male
-"
-triplecq,Qi,user,True,,"Unknown
-"
-Hiroki1998,Hiroki Sawada,user,False,,"Male
-"
-kinanmartin,Kinan Martin,user,True,"Boston, MA","Unknown
-"
-baileymachihirota,bailey hirota,user,True,,"Female
-"
-anthony-zhou,Anthony Zhou,user,True,"New York, NY","Male
-"
+fujimotos,Fujimoto Seiji,user,True,,male
+orijiad,Daijiro MORI,user,True,Yokohama Japan,male
+euyniy,Yue Yin,user,True,"Tokyo, Japan",unknown
+magnusbarata,Barata Tripramudya Onggo,user,False,,male
+hisashi-ito,Hisashi Itoh,user,True,Suginami Tokyo,male
+anshikakankane25,Anshika Kankane,user,True,,female
+bipbipbeep,Bipul Panthi,user,False,,male
+yubo0306,Yuta Sasaki,user,True,,male
+gunyarakun,Tasuku SUENAGA,user,True,"Tokyo, Japan",male
+triplecq,Qi,user,True,,unknown
+Hiroki1998,Hiroki Sawada,user,False,,male
+kinanmartin,Kinan Martin,user,True,"Boston, MA",unknown
+baileymachihirota,bailey hirota,user,True,,female
+anthony-zhou,Anthony Zhou,user,True,"New York, NY",male

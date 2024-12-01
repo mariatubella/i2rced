@@ -1,137 +1,69 @@
 username,name,role,has_github,location,gender
-mmalohlava,Michal Malohlava,user,True,"Mountain View, California","Male
-"
-marcosv,Marcos V. Conde,user,True,"Bavaria, Germany","Male
-"
-JohnM-H2O,John Miller,user,False,,"Male
-"
-kmontgom2400,Kim Montgomery,user,False,,"Unknown
-"
-smg478,Shaikat Galib,user,True,United States,"Male
-"
-cooleel,shanshan wang,user,False,,"Female
-"
-jfarland,Jonathan Farland,user,True,San Francisco Bay Area,"Male
-"
-arnocandel,Arno Candel,user,True,"Los Gatos, CA","Male
-"
-ilu000,Pascal Pfeiffer,user,False,,"Male
-"
-Praveen998,Praveen Sivakumar,user,True,Sri Lanka,"Male
-"
-MartinT,Martin Turóci,user,True,"Košice, Slovakia","Male
-"
-eaq,Esham Aaqib,user,True,Sri Lanka,"Male
-"
-vopani,Rohan Rao,user,False,,"Male
-"
-IzuiT,Dmitry L,user,False,,"Male
-"
-fatihozturk,Fatih Ozturk,user,False,,"Male
-"
-luizsantos,Luiz Santos,user,False,,"Male
-"
-pseudotensor,Jonathan McKinney,user,True,College Park,"Male
-"
-psinger,Philipp Singer,user,True,Vienna,"Male
-"
-jgambera,Jeff,user,True,,"Unknown
-"
-srisatish,sri ambati,user,True,San Francisco,"Unknown
-"
-lo5,Prithvi Prabhu,user,True,Mountain View,"Male
-"
-ybabakhin,Yauhen Babakhin,user,True,"Prague, Czech Republic","Male
-"
-Faron,Mathias Müller,user,True,Germany,"Male
-"
-laurafink,Laura Fink,user,True,,"Female
-"
-aghorbani,Asghar Ghorbani,user,False,,"Male
-"
-zainhaq-h2o,Zain Haq,user,True,,"Unknown
-"
-achraf-mer,Achraf Merzouki,user,False,,"Male
-"
-nrdurgam,Narasimha D,user,True,,"Male
-"
-quarkx33,Sandeep Basak,user,True,,"Male
-"
-srinix,Srinivas Neppalli,user,True,,"Male
-"
-shivam-h2o,bansal,user,False,,"Male
-"
-marek-mihok,Marek Mihok,user,True,,"Male
-"
-greg-h2oai,Greg Bethardy,user,False,,"Male
-"
-mtanco,Michelle Tanco,user,True,"Seattle, WA","Female
-"
-vishalh2o,Vishal,user,True,,"Male
-"
-audreyleteve,audrey leteve,user,True,,"Female
-"
-tomoh2o,Thomas Ott,user,True,"New Jersey, USA","Male
-"
-ondrejh2o,Ondrej Bilek,user,False,,"Male
-"
-ShereneM,Sherene Mahanama,user,True,Sri Lanka,"Female
-"
-bender404,Ladislav Ligart,user,True,Prague,"Male
-"
-dvorka,MD,user,True,"Prague, Czech Republic","Male
-"
-gaborfodorh2o,Gabor Fodor,user,True,Budapest,"Male
-"
-Nischay27,Nischay Dhankhar,user,False,,"Male
-"
-zh-tan,Zhe Hao,user,False,,"Male
-"
-h2o-ops,H2O.ai Ops,user,False,,"Unknown
-"
-wrn,Lukasz W,user,True,krakow,"Male
-"
-iamakalia,Aman kalia,user,True,,"Unknown
-"
-ahsanshams,Ahsan Shamsudeen,user,True,Colombo,"Male
-"
-g-eoj,Joe,user,False,,"Unknown
-"
-malithh2o,Malith Munasinghe,user,False,,"Male
-"
-jojoy89,Joby Joy,user,False,,"Unknown
-"
-FatemaN,Fatema Neemuchwala,user,False,,"Female
-"
-tomb-h2o,Thomas Bennett,user,False,,"Male
-"
-monicabiswal,Monica Biswal,user,False,,"Female
-"
-guanshuo,Guanshuo Xu,user,False,,"Male
-"
-harshadindigal,Harsha Dindigal,user,True,,"Unknown
-"
-sukanyaj,sukanya,user,False,,"Female
-"
-mlandry22,Mark Landry,user,False,,"Male
-"
-tylerhallmark,tyler hallmark,user,False,,"Male
-"
-overaneout,YY Lee,user,False,,"Unknown
-"
-jeffreycanisius04,Jeffrey Canisius,user,False,,"Male
-"
-TourAI,Betty Candel,user,False,,"Female
-"
-DanielaRamos,Daniela Ramos Solis,user,False,,"Female
-"
-hasithjp,Hasith Perera,user,False,,"Male
-"
-ivandev,Ivan,user,False,,"Male
-"
-lakinduakash,Lakindu Akash,user,False,,"Unknown
-"
-MrRobotttttt,Shaun,user,False,,"Male
-"
-dinukappuhamy,Dinuka Appuhamy,user,False,,"Male
-"
+mmalohlava,Michal Malohlava,user,True,"Mountain View, California",male
+marcosv,Marcos V. Conde,user,True,"Bavaria, Germany",male
+JohnM-H2O,John Miller,user,False,,male
+kmontgom2400,Kim Montgomery,user,False,,unknown
+smg478,Shaikat Galib,user,True,United States,male
+cooleel,shanshan wang,user,False,,female
+jfarland,Jonathan Farland,user,True,San Francisco Bay Area,male
+arnocandel,Arno Candel,user,True,"Los Gatos, CA",male
+ilu000,Pascal Pfeiffer,user,False,,male
+Praveen998,Praveen Sivakumar,user,True,Sri Lanka,male
+MartinT,Martin Turóci,user,True,"Košice, Slovakia",male
+eaq,Esham Aaqib,user,True,Sri Lanka,male
+vopani,Rohan Rao,user,False,,male
+IzuiT,Dmitry L,user,False,,male
+fatihozturk,Fatih Ozturk,user,False,,male
+luizsantos,Luiz Santos,user,False,,male
+pseudotensor,Jonathan McKinney,user,True,College Park,male
+psinger,Philipp Singer,user,True,Vienna,male
+jgambera,Jeff,user,True,,unknown
+srisatish,sri ambati,user,True,San Francisco,unknown
+lo5,Prithvi Prabhu,user,True,Mountain View,male
+ybabakhin,Yauhen Babakhin,user,True,"Prague, Czech Republic",male
+Faron,Mathias Müller,user,True,Germany,male
+laurafink,Laura Fink,user,True,,female
+aghorbani,Asghar Ghorbani,user,False,,male
+zainhaq-h2o,Zain Haq,user,True,,unknown
+achraf-mer,Achraf Merzouki,user,False,,male
+nrdurgam,Narasimha D,user,True,,male
+quarkx33,Sandeep Basak,user,True,,male
+srinix,Srinivas Neppalli,user,True,,male
+shivam-h2o,bansal,user,False,,male
+marek-mihok,Marek Mihok,user,True,,male
+greg-h2oai,Greg Bethardy,user,False,,male
+mtanco,Michelle Tanco,user,True,"Seattle, WA",female
+vishalh2o,Vishal,user,True,,male
+audreyleteve,audrey leteve,user,True,,female
+tomoh2o,Thomas Ott,user,True,"New Jersey, USA",male
+ondrejh2o,Ondrej Bilek,user,False,,male
+ShereneM,Sherene Mahanama,user,True,Sri Lanka,female
+bender404,Ladislav Ligart,user,True,Prague,male
+dvorka,MD,user,True,"Prague, Czech Republic",male
+gaborfodorh2o,Gabor Fodor,user,True,Budapest,male
+Nischay27,Nischay Dhankhar,user,False,,male
+zh-tan,Zhe Hao,user,False,,male
+h2o-ops,H2O.ai Ops,user,False,,unknown
+wrn,Lukasz W,user,True,krakow,male
+iamakalia,Aman kalia,user,True,,unknown
+ahsanshams,Ahsan Shamsudeen,user,True,Colombo,male
+g-eoj,Joe,user,False,,unknown
+malithh2o,Malith Munasinghe,user,False,,male
+jojoy89,Joby Joy,user,False,,unknown
+FatemaN,Fatema Neemuchwala,user,False,,female
+tomb-h2o,Thomas Bennett,user,False,,male
+monicabiswal,Monica Biswal,user,False,,female
+guanshuo,Guanshuo Xu,user,False,,male
+harshadindigal,Harsha Dindigal,user,True,,unknown
+sukanyaj,sukanya,user,False,,female
+mlandry22,Mark Landry,user,False,,male
+tylerhallmark,tyler hallmark,user,False,,male
+overaneout,YY Lee,user,False,,unknown
+jeffreycanisius04,Jeffrey Canisius,user,False,,male
+TourAI,Betty Candel,user,False,,female
+DanielaRamos,Daniela Ramos Solis,user,False,,female
+hasithjp,Hasith Perera,user,False,,male
+ivandev,Ivan,user,False,,male
+lakinduakash,Lakindu Akash,user,False,,unknown
+MrRobotttttt,Shaun,user,False,,male
+dinukappuhamy,Dinuka Appuhamy,user,False,,male

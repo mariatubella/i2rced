@@ -1,45 +1,23 @@
 username,name,role,has_github,location,gender
-tiedeman,Jörg Tiedemann,user,True,,"Male
-"
-hardwick,Sam Hardwick,user,True,Finland,"Male
-"
-sshleifer,Sam Shleifer,user,True,New York,"Male
-"
-Atnafu,Atnafu Lambebo Tonja,user,True,UAE | USA | Mexico | Ethiopia,"Male
-"
-CM,Simin Chen,user,True,,"Female
-"
-Hakimzenata,Hakim oubouali,user,True,ATLAS,"Male
-"
-Ravneet,Ravneet Punia,user,True,"New Delhi, India","Female
-"
-Sangeetha,Sangeetha Venkatesan,user,True,"Syracuse, NewYork","Female
-"
-aksentijevich,Marko Aksentijević,user,False,,"Male
-"
-talman-fi,Aarne Talman,user,True,,"Male
-"
-jisx,Shaoxiong,user,False,,"Male
-"
-ArthurZ,Arthur Zucker,user,True,,"Male
-"
-annadmitrieva,Anna Dmitrieva,user,True,,"Female
-"
-josephattieh,Joseph Attieh,user,False,,"Male
-"
-aleraganato,alessandro raganato,user,False,,"Male
-"
-albertvillanova,Albert Villanova del Moral,user,True,Paris (France),"Male
-"
-danaroemling,Dana Roemling,user,True,Birmingham,"Female
-"
-mathiascreutz,Mathias Creutz,user,True,,"Male
-"
-teemuvh,Teemu,user,False,,"Male
-"
-linguistickus,Timothee Mickus,user,True,,"Male
-"
-jrvc,raul vazquez,user,False,,"Male
-"
-odegiber,Ona de Gibert,user,True,,"Female
-"
+tiedeman,Jörg Tiedemann,user,True,,male
+hardwick,Sam Hardwick,user,True,Finland,male
+sshleifer,Sam Shleifer,user,True,New York,male
+Atnafu,Atnafu Lambebo Tonja,user,True,UAE | USA | Mexico | Ethiopia,male
+CM,Simin Chen,user,True,,female
+Hakimzenata,Hakim oubouali,user,True,ATLAS,male
+Ravneet,Ravneet Punia,user,True,"New Delhi, India",female
+Sangeetha,Sangeetha Venkatesan,user,True,"Syracuse, NewYork",female
+aksentijevich,Marko Aksentijević,user,False,,male
+talman-fi,Aarne Talman,user,True,,male
+jisx,Shaoxiong,user,False,,male
+ArthurZ,Arthur Zucker,user,True,,male
+annadmitrieva,Anna Dmitrieva,user,True,,female
+josephattieh,Joseph Attieh,user,False,,male
+aleraganato,alessandro raganato,user,False,,male
+albertvillanova,Albert Villanova del Moral,user,True,Paris (France),male
+danaroemling,Dana Roemling,user,True,Birmingham,female
+mathiascreutz,Mathias Creutz,user,True,,male
+teemuvh,Teemu,user,False,,male
+linguistickus,Timothee Mickus,user,True,,male
+jrvc,raul vazquez,user,False,,male
+odegiber,Ona de Gibert,user,True,,female

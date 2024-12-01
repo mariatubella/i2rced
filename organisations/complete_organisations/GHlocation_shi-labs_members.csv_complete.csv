@@ -1,23 +1,12 @@
 username,name,role,has_github,location,gender
-Humphrey,Humphrey Shi,user,True,,"Unknown
-"
-alihassanijr,Ali Hassani,user,True,"Atlanta, GA","Male
-"
-praeclarumjj3,Jitesh Jain,user,True,,"Male
-"
-JamesXu,Xingqian Xu,user,True,,"Unknown
-"
-stevenwalton,Steven Walton,user,True,"Eugene, OR","Male
-"
-jiachenl,Jiachen Li,user,False,,"Unknown
-"
-Manushree,Vasu,user,True,,"Male
-"
-JiayiGuo821,Jiayi Guo,user,True,"Beijing, China","Unknown
-"
-Flying-Lynx,Min Shi,user,False,,"Unknown
-"
-mtchiu2,Mang Tik Chiu,user,False,,"Unknown
-"
-kk94wang,Kai Wang,user,True,,"Unknown
-"
+Humphrey,Humphrey Shi,user,True,,unknown
+alihassanijr,Ali Hassani,user,True,"Atlanta, GA",male
+praeclarumjj3,Jitesh Jain,user,True,,male
+JamesXu,Xingqian Xu,user,True,,unknown
+stevenwalton,Steven Walton,user,True,"Eugene, OR",male
+jiachenl,Jiachen Li,user,False,,unknown
+Manushree,Vasu,user,True,,male
+JiayiGuo821,Jiayi Guo,user,True,"Beijing, China",unknown
+Flying-Lynx,Min Shi,user,False,,unknown
+mtchiu2,Mang Tik Chiu,user,False,,unknown
+kk94wang,Kai Wang,user,True,,unknown

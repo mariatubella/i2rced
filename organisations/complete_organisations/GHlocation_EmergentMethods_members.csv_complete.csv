@@ -1,19 +1,10 @@
 username,name,role,has_github,location,gender
-rcaulk,Robert Caulk,user,True,,"Male
-"
-thorntwig,Elin Törnquist,user,True,,"Female
-"
-wagnercosta,Wagner Costa,user,True,São Paulo - Brazil,"Male
-"
-wizrds,Timothy Pogue,user,True,"Grand Junction, CO","Male
-"
-aemr3,Emre Suzen,user,True,,"Male
-"
-urchade,Urchade Zaratiana,user,True,Paris,"Unknown
-"
-niamaelkhbir,Niama El Khbir,user,False,,"Unknown
-"
-lapp0,Andrew Lapp,user,True,,"Male
-"
-guardianai-io,Samuel,user,False,,"Male
-"
+rcaulk,Robert Caulk,user,True,,male
+thorntwig,Elin Törnquist,user,True,,female
+wagnercosta,Wagner Costa,user,True,São Paulo - Brazil,male
+wizrds,Timothy Pogue,user,True,"Grand Junction, CO",male
+aemr3,Emre Suzen,user,True,,male
+urchade,Urchade Zaratiana,user,True,Paris,unknown
+niamaelkhbir,Niama El Khbir,user,False,,unknown
+lapp0,Andrew Lapp,user,True,,male
+guardianai-io,Samuel,user,False,,male

@@ -1,37 +1,19 @@
 username,name,role,has_github,location,gender
-airesearchth,airesearch,user,True,,"Unknown
-"
-cstorm125,cstorm125,user,True,Nakhon Nayok,"Unknown
-"
-arjay2539,Jay Pung,user,False,,"Unknown
-"
-wannaphong,Wannaphong Phatthiyaphaibun,user,True,Thailand,"Male
-"
-chompk,Chompakorn,user,True,"Bangkok, Thailand","Male
-"
-lalital,Lalita Lowphansirikul,user,True,,"Female
-"
-mrp,Peerat Limkonchotiwat,user,True,Singapore,"Male
-"
-kornwtp,Wuttikorn Ponwitayarat,user,True,,"Male
-"
-Suraponn,Surapon Nonesung,user,False,,"Male
-"
-patomp,Patomporn Payoungkhamdee,user,False,,"Female
-"
-snutanon,Sarana Nutanong,user,False,,"Unknown
-"
-cankruscan,Udomcharoenchaikit,user,True,"Wangchan, Thailand","Male
-"
-Nonthakit,Nonthakit Chaiwong,user,True,,"Male
-"
-Chalermpun,Chale,user,False,,"Unknown
-"
-parinzee,Parinthapat Pengpun,user,True,Thailand,"Male
-"
-romrawinjp,Romrawin Chumpu,user,True,,"Unknown
-"
-PumeTu,Pume Tuchinda,user,False,,"Unknown
-"
-Pawitsapak,Pawitsapak Akarajaradwong,user,False,,"Female
-"
+airesearchth,airesearch,user,True,,unknown
+cstorm125,cstorm125,user,True,Nakhon Nayok,unknown
+arjay2539,Jay Pung,user,False,,unknown
+wannaphong,Wannaphong Phatthiyaphaibun,user,True,Thailand,male
+chompk,Chompakorn,user,True,"Bangkok, Thailand",male
+lalital,Lalita Lowphansirikul,user,True,,female
+mrp,Peerat Limkonchotiwat,user,True,Singapore,male
+kornwtp,Wuttikorn Ponwitayarat,user,True,,male
+Suraponn,Surapon Nonesung,user,False,,male
+patomp,Patomporn Payoungkhamdee,user,False,,female
+snutanon,Sarana Nutanong,user,False,,unknown
+cankruscan,Udomcharoenchaikit,user,True,"Wangchan, Thailand",male
+Nonthakit,Nonthakit Chaiwong,user,True,,male
+Chalermpun,Chale,user,False,,unknown
+parinzee,Parinthapat Pengpun,user,True,Thailand,male
+romrawinjp,Romrawin Chumpu,user,True,,unknown
+PumeTu,Pume Tuchinda,user,False,,unknown
+Pawitsapak,Pawitsapak Akarajaradwong,user,False,,female

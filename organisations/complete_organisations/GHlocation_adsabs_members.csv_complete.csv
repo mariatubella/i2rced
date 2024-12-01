@@ -1,19 +1,10 @@
 username,name,role,has_github,location,gender
-fgrezes,Felix Grezes,user,False,,"Male
-"
-marblestation,Sergi Blanco-Cuaresma,user,True,,"Male
-"
-MJKurtz,Michael Kurtz,user,False,,"Male
-"
-tjacovich,Taylor,user,True,,"Unknown
-"
-kelockhart,Kelly Lockhart,user,True,,"Unknown
-"
-tallen,Thomas Allen,user,False,,"Male
-"
-jcrpaquin-cfa,Jean-Claude Paquin,user,True,"Cambridge, MA","Male
-"
-jlbartlett,Jennifer Lynn Bartlett,user,False,,"Female
-"
-aaccomazzi,Alberto Accomazzi,user,True,,"Male
-"
+fgrezes,Felix Grezes,user,False,,male
+marblestation,Sergi Blanco-Cuaresma,user,True,,male
+MJKurtz,Michael Kurtz,user,False,,male
+tjacovich,Taylor,user,True,,unknown
+kelockhart,Kelly Lockhart,user,True,,unknown
+tallen,Thomas Allen,user,False,,male
+jcrpaquin-cfa,Jean-Claude Paquin,user,True,"Cambridge, MA",male
+jlbartlett,Jennifer Lynn Bartlett,user,False,,female
+aaccomazzi,Alberto Accomazzi,user,True,,male

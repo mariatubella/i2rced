@@ -1,97 +1,49 @@
 username,name,role,has_github,location,gender
-NimaBoscarino,Nima Boscarino,user,True,San Diego,"Female
-"
-EazyAl,Ali Imran,user,False,,"Male
-"
-ThibaultFy,Thibault Fouqueray,user,True,Paris,"Male
-"
-fabiengelus,Fabien GELUS,user,False,,"Male
-"
-samlesu,Samuel ,user,False,,"Unknown
-"
-acellard,Alison Cellard,user,True,,"Female
-"
-avincotte,Aymeric Vinçotte,user,False,,"Male
-"
-l-wd,Louis-Walfroy Danneaux,user,False,,"Male
-"
-Loicherpin,Loïc Herpin,user,False,,"Male
-"
-Claire-Owkin,Claire Baudier,user,False,,"Female
-"
-EazyLu,Lucia Millan,user,False,,"Female
-"
-Pchav,Pauline Chavand,user,False,,"Female
-"
-baptiste-owkin,Baptiste Gross,user,True,,"Male
-"
-vgaury,Valentin Gaury,user,False,,"Male
-"
-amyvu,Amy Vu,user,True,,"Female
-"
-sofiagatto0,Sofia Gatto,user,False,,"Female
-"
-LoicLep,Loïc LEPELLETIER,user,False,,"Male
-"
-YAPKAA,Alexandre JAEGER,user,False,,"Male
-"
-TanguyM,Tanguy Marchand,user,False,,"Male
-"
-umarteau,Ulysse Marteau,user,False,,"Male
-"
-adarbier,Adrien Darbir,user,False,,"Male
-"
-david-owkin,David Endico,user,False,,"Male
-"
-davidcahane-owkin,David Cahané,user,False,,"Male
-"
-bmuzellec,Boris Muzellec,user,True,,"Male
-"
-gogleva,Anna,user,True,"Cambridge, UK","Female
-"
-benjaminAdjadj,Benjamin Adjadj,user,True,,"Male
-"
-proullon,Pierre Roullon,user,True,"Nantes, France","Male
-"
-ChrissieJ,Chrissie Jones,user,False,,"Female
-"
-kelvin-m,Kelvin Moutet,user,True,Nantes,"Male
-"
-gdayet,Gregoire DAYET,user,False,,"Male
-"
-yann-ro,yann rodriguez,user,False,,"Unknown
-"
-evanr12,Evan Robert,user,False,,"Male
-"
-cfleury-owkin,Clement Fleury,user,False,,"Male
-"
-checkpt,Charlie,user,False,,"Unknown
-"
-thbcml,Thibault Camalon,user,True,,"Male
-"
-romaingoussault,Romain Goussault,user,False,,"Male
-"
-ThibaultRoger,Thibault Roger,user,True,,"Male
-"
-afiliot,Alexandre Filiot,user,True,,"Male
-"
-almsn,Anne-Laure Moisson,user,False,,"Female
-"
-Zwerp,guillaume,user,False,,"Male
-"
-owuel,Emil,user,True,,"Male
-"
-AdrianCO07,Adrian VASILE-CIORBA,user,False,,"Male
-"
-pauljcb,Paul Jacob,user,True,Paris,"Male
-"
-Nafissatou,Faye,user,True,,"Female
-"
-PABannier,Pierre-Antoine Bannier,user,True,Paris,"Male
-"
-liz-allen,Liz Allen,user,False,,"Female
-"
-ndop-owkin,Nicolas Dop,user,False,,"Male
-"
-jbschiratti,Jean-Baptiste SCHIRATTI,user,True,Paris,"Male
-"
+NimaBoscarino,Nima Boscarino,user,True,San Diego,female
+EazyAl,Ali Imran,user,False,,male
+ThibaultFy,Thibault Fouqueray,user,True,Paris,male
+fabiengelus,Fabien GELUS,user,False,,male
+samlesu,Samuel ,user,False,,unknown
+acellard,Alison Cellard,user,True,,female
+avincotte,Aymeric Vinçotte,user,False,,male
+l-wd,Louis-Walfroy Danneaux,user,False,,male
+Loicherpin,Loïc Herpin,user,False,,male
+Claire-Owkin,Claire Baudier,user,False,,female
+EazyLu,Lucia Millan,user,False,,female
+Pchav,Pauline Chavand,user,False,,female
+baptiste-owkin,Baptiste Gross,user,True,,male
+vgaury,Valentin Gaury,user,False,,male
+amyvu,Amy Vu,user,True,,female
+sofiagatto0,Sofia Gatto,user,False,,female
+LoicLep,Loïc LEPELLETIER,user,False,,male
+YAPKAA,Alexandre JAEGER,user,False,,male
+TanguyM,Tanguy Marchand,user,False,,male
+umarteau,Ulysse Marteau,user,False,,male
+adarbier,Adrien Darbir,user,False,,male
+david-owkin,David Endico,user,False,,male
+davidcahane-owkin,David Cahané,user,False,,male
+bmuzellec,Boris Muzellec,user,True,,male
+gogleva,Anna,user,True,"Cambridge, UK",female
+benjaminAdjadj,Benjamin Adjadj,user,True,,male
+proullon,Pierre Roullon,user,True,"Nantes, France",male
+ChrissieJ,Chrissie Jones,user,False,,female
+kelvin-m,Kelvin Moutet,user,True,Nantes,male
+gdayet,Gregoire DAYET,user,False,,male
+yann-ro,yann rodriguez,user,False,,unknown
+evanr12,Evan Robert,user,False,,male
+cfleury-owkin,Clement Fleury,user,False,,male
+checkpt,Charlie,user,False,,unknown
+thbcml,Thibault Camalon,user,True,,male
+romaingoussault,Romain Goussault,user,False,,male
+ThibaultRoger,Thibault Roger,user,True,,male
+afiliot,Alexandre Filiot,user,True,,male
+almsn,Anne-Laure Moisson,user,False,,female
+Zwerp,guillaume,user,False,,male
+owuel,Emil,user,True,,male
+AdrianCO07,Adrian VASILE-CIORBA,user,False,,male
+pauljcb,Paul Jacob,user,True,Paris,male
+Nafissatou,Faye,user,True,,female
+PABannier,Pierre-Antoine Bannier,user,True,Paris,male
+liz-allen,Liz Allen,user,False,,female
+ndop-owkin,Nicolas Dop,user,False,,male
+jbschiratti,Jean-Baptiste SCHIRATTI,user,True,Paris,male

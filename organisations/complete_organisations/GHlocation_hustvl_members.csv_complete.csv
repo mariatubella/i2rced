@@ -1,9 +1,5 @@
 username,name,role,has_github,location,gender
-xinggangw,Xinggang Wang,user,True,Wuhan,"Male
-"
-LianghuiZhu,Lianghui Zhu,user,False,,"Male
-"
-LegendBC,liao,user,False,,"Male
-"
-xiazhi,Lunbin Zeng,user,False,,"Unknown
-"
+xinggangw,Xinggang Wang,user,True,Wuhan,male
+LianghuiZhu,Lianghui Zhu,user,False,,male
+LegendBC,liao,user,False,,male
+xiazhi,Lunbin Zeng,user,False,,unknown

@@ -1,15 +1,8 @@
 username,name,role,has_github,location,gender
-aamirshakir,Aamir Shakir,user,False,,"Male
-"
-SeanLee97,SeanLee,user,True,HK & Shanghai,"Male
-"
-juliuslipp,Julius Lipp,user,True,Germany,"Male
-"
-mixed-nlp,NLP,user,False,,"Unknown
-"
-RuiTheBaker,Rui Huang,user,False,,"Unknown
-"
-dkoenig,Darius König,user,False,,"Male
-"
-WillPowellUK,William Powell,user,True,,"Male
-"
+aamirshakir,Aamir Shakir,user,False,,male
+SeanLee97,SeanLee,user,True,HK & Shanghai,male
+juliuslipp,Julius Lipp,user,True,Germany,male
+mixed-nlp,NLP,user,False,,unknown
+RuiTheBaker,Rui Huang,user,False,,unknown
+dkoenig,Darius König,user,False,,male
+WillPowellUK,William Powell,user,True,,male

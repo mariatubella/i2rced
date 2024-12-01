@@ -1,9 +1,5 @@
 username,name,role,has_github,location,gender
-PY007,Zhang Peiyuan,user,False,,"Male
-"
-chaoscodes,GtZeng,user,False,,"Unknown
-"
-scli-21,shichen,user,False,,"Unknown
-"
-Tianduo,Tianduo Wang,user,True,Singapore,"Unknown
-"
+PY007,Zhang Peiyuan,user,False,,male
+chaoscodes,GtZeng,user,False,,unknown
+scli-21,shichen,user,False,,unknown
+Tianduo,Tianduo Wang,user,True,Singapore,unknown

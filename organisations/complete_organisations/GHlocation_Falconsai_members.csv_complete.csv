@@ -1,23 +1,12 @@
 username,name,role,has_github,location,gender
-mstatt,Mike,user,False,,"Male
-"
-RealFalconsAI,Falcons.ai,user,True,,"Unknown
-"
-Benjister,Beniam data,user,True,,"Unknown
-"
-Casperanas,Anas Khoumane,user,False,,"Male
-"
-Dadoy,Jau,user,False,,"Unknown
-"
-Fakrul14,Islam,user,False,,"Male
-"
-Pusp1,Puspraj,user,False,,"Unknown
-"
-adam000,nagy,user,False,,"Unknown
-"
-riyadahmed,Riyad Ahmed,user,True,,"Male
-"
-banuja,bnujakushlya,user,False,,"Unknown
-"
-webnizam,Mohamed Nizamuddin,user,True,Dubai,"Male
-"
+mstatt,Mike,user,False,,male
+RealFalconsAI,Falcons.ai,user,True,,unknown
+Benjister,Beniam data,user,True,,unknown
+Casperanas,Anas Khoumane,user,False,,male
+Dadoy,Jau,user,False,,unknown
+Fakrul14,Islam,user,False,,male
+Pusp1,Puspraj,user,False,,unknown
+adam000,nagy,user,False,,unknown
+riyadahmed,Riyad Ahmed,user,True,,male
+banuja,bnujakushlya,user,False,,unknown
+webnizam,Mohamed Nizamuddin,user,True,Dubai,male

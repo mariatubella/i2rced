@@ -1,37 +1,19 @@
 username,name,role,has_github,location,gender
-DanielWang,Daniel Wang,user,True,Beijing,"Male
-"
-GuoPD,Peidong Guo,user,False,,"Male
-"
-GradientGuru,Gradient Guru,user,False,,"Unknown
-"
-xiangrong,xiangrong,user,False,,"Unknown
-"
-s-JoL,Phy,user,False,,"Unknown
-"
-goodbc,goodbc,user,False,,"Unknown
-"
-kk21,kk,user,False,,"Unknown
-"
-wangyulong,Wang Yulong,user,True,Beijing,"Male
-"
-wuzhiying2023,wuzhiying2023,user,False,,"Unknown
-"
-lin5547,lma,user,False,,"Unknown
-"
-fairyang,FanYang,user,False,,"Male
-"
-WinterGYC,AlexG,user,False,,"Unknown
-"
-BinXiao,BinXiao,user,False,,"Male
-"
-suleisl2000,LeiSu,user,True,Beijing,"Unknown
-"
-BruceCheng,Bruce,user,False,,"Male
-"
-jw1015,Vivian XU,user,False,,"Female
-"
-sproblvem,Dong Yan,user,False,,"Unknown
-"
-mmmendaxia,mendaxia,user,False,,"Unknown
-"
+DanielWang,Daniel Wang,user,True,Beijing,male
+GuoPD,Peidong Guo,user,False,,male
+GradientGuru,Gradient Guru,user,False,,unknown
+xiangrong,xiangrong,user,False,,unknown
+s-JoL,Phy,user,False,,unknown
+goodbc,goodbc,user,False,,unknown
+kk21,kk,user,False,,unknown
+wangyulong,Wang Yulong,user,True,Beijing,male
+wuzhiying2023,wuzhiying2023,user,False,,unknown
+lin5547,lma,user,False,,unknown
+fairyang,FanYang,user,False,,male
+WinterGYC,AlexG,user,False,,unknown
+BinXiao,BinXiao,user,False,,male
+suleisl2000,LeiSu,user,True,Beijing,unknown
+BruceCheng,Bruce,user,False,,male
+jw1015,Vivian XU,user,False,,female
+sproblvem,Dong Yan,user,False,,unknown
+mmmendaxia,mendaxia,user,False,,unknown

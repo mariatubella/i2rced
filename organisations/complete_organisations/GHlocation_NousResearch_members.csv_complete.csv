@@ -1,37 +1,19 @@
 username,name,role,has_github,location,gender
-karan4d,karan4d,user,True,,"Unknown
-"
-teknium,Teknium,user,True,,"Unknown
-"
-ssands1979,Shannon Sands,user,False,,"Female
-"
-emozilla,Jeffrey Quesnelle,user,True,Michigan,"Male
-"
-J-SUPHA,Jai ,user,False,,"Unknown
-"
-burren,Burren ,user,False,,"Unknown
-"
-euclaise,Jade,user,True,Purdue University,"Female
-"
-bloc97,Bowen Peng,user,True,Canada,"Male
-"
-interstellarninja,interstellarninja,user,True,,"Unknown
-"
-shivani3000,Shivani Mitra,user,False,,"Female
-"
-NobodyExistsOnTheInternet,Nobody.png,user,False,,"Unknown
-"
-vorps,vorpalstrikes,user,False,,"Unknown
-"
-vgel,vgel,user,True,"Seattle, United States","Unknown
-"
-chuanli-lambda,Chuan Li,user,True,California,"Unknown
-"
-paul-lambda,Paul Sebexen,user,False,,"Male
-"
-hjc-puro,HJC Puro,user,True,,"Unknown
-"
-apyh,ari lotter,user,True,"Toronto, ON","Unknown
-"
-jli505,Joe Li,user,True,,"Male
-"
+karan4d,karan4d,user,True,,unknown
+teknium,Teknium,user,True,,unknown
+ssands1979,Shannon Sands,user,False,,female
+emozilla,Jeffrey Quesnelle,user,True,Michigan,male
+J-SUPHA,Jai ,user,False,,unknown
+burren,Burren ,user,False,,unknown
+euclaise,Jade,user,True,Purdue University,female
+bloc97,Bowen Peng,user,True,Canada,male
+interstellarninja,interstellarninja,user,True,,unknown
+shivani3000,Shivani Mitra,user,False,,female
+NobodyExistsOnTheInternet,Nobody.png,user,False,,unknown
+vorps,vorpalstrikes,user,False,,unknown
+vgel,vgel,user,True,"Seattle, United States",unknown
+chuanli-lambda,Chuan Li,user,True,California,unknown
+paul-lambda,Paul Sebexen,user,False,,male
+hjc-puro,HJC Puro,user,True,,unknown
+apyh,ari lotter,user,True,"Toronto, ON",unknown
+jli505,Joe Li,user,True,,male
