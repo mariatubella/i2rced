@@ -1,0 +1,27 @@
+username,name,role,has_github,location,gender
+thomwolf,Thomas Wolf,user,True,,"Male
+"
+lvwerra,Leandro von Werra,user,True,"Bern, Switzerland","Male
+"
+anton-l,Anton Lozhkov,user,True,"Paris, France","Male
+"
+loubnabnl,Loubna Ben Allal,user,True,"Paris, France","Female
+"
+guipenedo,Guilherme Penedo,user,True,Paris,"Male
+"
+hynky,Hynek Kydlicek,user,True,,"Male
+"
+3outeille,Ferdinand Mom,user,True,France,"Male
+"
+eliebak,Elie Bakouch,user,True,"Paris, France","Male
+"
+neuralink,neuralink,user,False,,"Unknown
+"
+craffel,Colin Raffel,user,True,"Toronto, ON","Male
+"
+meg,Margaret Mitchell,user,True,,"Female
+"
+SaylorTwift,Nathan Habib,user,True,Paris,"Male
+"
+clefourrier,Clémentine Fourrier,user,True,France,"Female
+"

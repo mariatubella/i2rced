@@ -1,0 +1,25 @@
+username,name,role,has_github,location,gender
+x-labs,x-labs,user,False,,"Unknown
+"
+semeka,Semen Beliaev,user,True,,"Male
+"
+stazizov,Said Azizov,user,True,"Kaspiysk, Dagestan","Male
+"
+AndreyML,Andrey Laptev,user,True,,"Male
+"
+asyotr,Asya,user,False,,"Female
+"
+anghellia,Anzhella Pankratova,user,False,,"Female
+"
+gradient-diffusion,gradient-diffusion,user,False,,"Unknown
+"
+shockless,Fedor Avilov,user,True,,"Male
+"
+stillmaxnygma,Max Nygma,user,False,,"Male
+"
+denmalbas007,Danilo Malbashich,user,True,,"Male
+"
+alexwaskez,Alex Waskez,user,False,,"Male
+"
+VladimirM388,Vladimir Melnikov,user,False,,"Male
+"

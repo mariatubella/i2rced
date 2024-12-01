@@ -1,0 +1,281 @@
+username,name,role,has_github,location,gender
+olmoaccess,OLMo Access,user,False,,"Unknown
+"
+kylel,Kyle Lo,user,True,"Seattle, WA","Male
+"
+armanc,Arman Cohan,user,True,"New Haven, CT","Male
+"
+CarissaS,Carissa Schoenick,user,True,United States,"Female
+"
+codeviking,Sam Skjonsberg,user,True,"Seattle, WA","Male
+"
+schmmd,Michael,user,True,"Whidbey Island, WA","Male
+"
+dirkgr,Dirk Groeneveld,user,True,Seattle,"Male
+"
+shannons,Shannon Shen,user,False,,"Female
+"
+epwalsh,Evan Pete Walsh,user,True,Central Oregon,"Male
+"
+jordi-ai2,Jordi Salvador,user,True,,"Male
+"
+kunalpratap,Kunal Pratap Singh,user,True,IIT Roorkee,"Male
+"
+roseh,Rose Hendrix,user,True,,"Female
+"
+akshitab,Akshita Bhagia,user,True,,"Female
+"
+darrellp,Darrell Plessas,user,False,,"Male
+"
+JesseDodge,Jesse Dodge,user,False,,"Unknown
+"
+IanMagnusson,Ian Magnusson,user,False,,"Male
+"
+soldni,Luca Soldaini,user,True,"Seattle, WA, USA","Male
+"
+yanaiela,Yanai Elazar,user,True,,"Male
+"
+aps6992,Amanpreet Singh,user,True,"Seattle, WA","Male
+"
+SaveBertAndGpt,Yuling Gu,user,False,,"Unknown
+"
+shatu,Shashank Gupta,user,True,"Seattle, Washington","Male
+"
+jacobmorrison,Jacob Morrison,user,True,,"Male
+"
+pradeepd,Pradeep Dasigi,user,True,,"Male
+"
+tusharkhot,Tushar Khot,user,True,,"Male
+"
+jbragg,Jonathan Bragg,user,True,,"Male
+"
+kmacmillan,Kelsey MacMillan,user,False,,"Female
+"
+ychou-ai2,Yvonne Chou,user,False,,"Female
+"
+hamishivi,Hamish Ivison,user,True,Seattle,"Male
+"
+CrystalN,Crystal Nam,user,False,,"Female
+"
+zcczhang,"Zichen ""Charles"" Zhang",user,False,,"Male
+"
+ronanlb,Ronan Le Bras,user,False,,"Male
+"
+favyen,Favyen Bastani,user,True,"Seattle, WA","Male
+"
+alrope,Xinxi Lyu,user,False,,"Unknown
+"
+oliverwm,Oliver Watt-Meyer,user,True,"Seattle, WA","Male
+"
+shocheen,Sachin Kumar,user,True,United States,"Male
+"
+aettinger,Allyson Ettinger,user,False,,"Female
+"
+piperw,Piper Wolters,user,True,,"Female
+"
+jdahm,Johann Dahm,user,True,"Seattle, WA","Male
+"
+yuntian-deng,Yuntian Deng,user,True,,"Unknown
+"
+faezeb,Faeze Brahman,user,False,,"Female
+"
+caitwallenai,Caitlin Wittlif,user,False,,"Female
+"
+nouhad,Nouha Dziri,user,True,Seattle,"Female
+"
+natolambert,Nathan Lambert,user,True,,"Male
+"
+baileyk,bailey kuehl,user,False,,"Unknown
+"
+jeffhallenai,Jeff Hall,user,True,,"Male
+"
+wentingzhao-allenai,Wenting Zhao,user,False,,"Female
+"
+Muennighoff,Niklas Muennighoff,user,True,Stanford,"Male
+"
+aakanksha19,Aakanksha Naik,user,True,"Pittsburgh, Pennsylvania","Female
+"
+HoperTom,Tom Hope,user,False,,"Male
+"
+power10rocketdan,Daniel,user,False,,"Male
+"
+michaelw,Michael Wilson,user,False,,"Male
+"
+katierai2,Katie Reynolds,user,False,,"Female
+"
+pclark425,Peter Clark,user,True,"Seattle, WA","Male
+"
+jlcmoore,Jared,user,False,,"Male
+"
+yuchenlin,Bill Yuchen Lin,user,True,"Seattle, WA, USA","Male
+"
+valentinhofmann,Valentin Hofmann,user,False,,"Male
+"
+valpy,Valentina Pyatkin,user,True,,"Female
+"
+yakazimir,Kyle Richardson,user,True,,"Male
+"
+miked-ai,Mike D'Arcy,user,True,,"Male
+"
+lucy4,Lucy Li,user,True,"Berkeley, CA","Female
+"
+jasond-ai2,Jason Dunkelberger,user,False,,"Male
+"
+mariaantoniak,Maria Antoniak,user,True,,"Female
+"
+aaronsarnat,Aaron Sarnat,user,True,"Seattle, WA","Male
+"
+FioOfAllenAI,Christopher Fiorelli,user,True,"Seattle, Washington, United States","Male
+"
+Lebrechts,Sophie Lebrecht,user,True,,"Female
+"
+erinbransom,Erin Bransom,user,False,,"Female
+"
+jjyang7,JJ Yang,user,False,,"Male
+"
+paula-ai2,Paul Albee,user,False,,"Male
+"
+shanearora,Shane Arora,user,False,,"Male
+"
+jaronl,Jaron Lochner,user,False,,"Male
+"
+chrisc36,Christopher Clark,user,True,United States,"Male
+"
+ashleyleeai,Ashley Lee,user,False,,"Female
+"
+tairaa,Taira Anderson,user,False,,"Unknown
+"
+alicew-ai2,Alice W,user,False,,"Unknown
+"
+lasharavichander,Abhilasha Ravichander,user,False,,"Female
+"
+claran,Clara Na,user,True,,"Female
+"
+undfined,Tyler Murray,user,False,,"Male
+"
+jenah,jena hwang,user,False,,"Female
+"
+hanna-ai2,Hanna Hajishirzi,user,False,,"Female
+"
+mennyp,Menny Pinhasov,user,True,Israel,"Male
+"
+ljvmiranda921,Lj V. Miranda,user,True,Seattle,"Unknown
+"
+khzeng7,Kuo-Hao,user,True,Seattle,"Male
+"
+MLatzke,Matt Latzke,user,True,Seattle,"Male
+"
+kellycyy,Kelly Chiu,user,False,,"Female
+"
+AI2Karen,Karen Farley,user,False,,"Female
+"
+fatemehmireshgh,fatemeh mir,user,False,,"Female
+"
+jferdi,Joe Ferdinando,user,False,,"Male
+"
+goblingirl,Brooke Vlahos,user,False,,"Female
+"
+maartensap,Maarten Sap,user,True,,"Male
+"
+bodhisattwam,Bodhisattwa Prasad Majumder,user,True,,"Male
+"
+ai2otter,Mark Otterlee,user,False,,"Male
+"
+sanghol,Sangho Lee,user,False,,"Unknown
+"
+stefanc-ai2,Stefan Candra,user,False,,"Male
+"
+bhavanad,Bhavana Dalvi Mishra,user,True,Seattle,"Female
+"
+kavelrao,Kavel Rao,user,True,,"Unknown
+"
+suranah,Harshit Surana,user,True,,"Male
+"
+liujch1998,Jiacheng Liu,user,True,"Seattle, WA","Male
+"
+danyhai2,danyh,user,False,,"Unknown
+"
+taylorb,Taylor Blanton,user,False,,"Unknown
+"
+liweijiang,Liwei Jiang,user,True,,"Unknown
+"
+Rulin-AI2,Rulin Shao,user,False,,"Unknown
+"
+sarahwie,Sarah Wiegreffe,user,True,,"Female
+"
+chengjunyan1,Junyan Cheng,user,True,"Seattle, WA","Unknown
+"
+sergeyfeldman,Sergey Feldman,user,True,"Seattle, WA","Male
+"
+Yensung,Chen,user,False,,"Male
+"
+rodneyk-allenai,Rodney Kinney,user,False,,"Male
+"
+newellce,Chris Newell,user,True,,"Male
+"
+davidheineman,David Heineman,user,True,,"Male
+"
+vwxyzjn,Shengyi Costa Huang,user,True,"Philadelphia, PA","Unknown
+"
+lehduong,Duong Hoang Le,user,True,"Seattle, WA","Male
+"
+sydneylevine,Sydney Levine,user,False,,"Female
+"
+josephcc,joseph chang,user,False,,"Male
+"
+jmerullo,Jack Merullo,user,False,,"Male
+"
+sewon,Sewon Min,user,True,"Seattle, WA","Unknown
+"
+benbogin,Ben Bogin,user,True,,"Unknown
+"
+awettig,Alexander Wettig,user,True,,"Male
+"
+Tianhua,Tianhua Tao,user,False,,"Unknown
+"
+ai2michaelz,Michael Zhang,user,False,,"Male
+"
+saumyamalik,Saumya Malik,user,False,,"Female
+"
+alisawuffles,Alisa Liu,user,True,,"Female
+"
+huongn,Huong Ngo,user,False,,"Female
+"
+swj0419,Weijia Shi,user,False,,"Unknown
+"
+jamesp-allenai,Park,user,False,,"Unknown
+"
+reza-ai2,Reza,user,False,,"Unknown
+"
+mattjordan,Matt Jordan,user,True,"Seattle, WA","Male
+"
+davidg-ai2,David Graham,user,False,,"Male
+"
+amanrangapur,Aman Rangapur,user,True,"Chicago, Illinois","Male
+"
+VGraf,Victoria Graf,user,False,,"Female
+"
+annejulian,Anne Julian,user,False,,"Female
+"
+cmalaviya,Chaitanya Malaviya,user,True,Seattle,"Male
+"
+OyvindTafjord,Oyvind Tafjord,user,True,,"Male
+"
+EtashGuha,Etash Guha,user,False,,"Unknown
+"
+andreperkins,Andre Perkins,user,True,,"Male
+"
+nora-ra,Nora,user,False,,"Female
+"
+jakep-allenai,Jake Poznanski,user,False,,"Male
+"
+elynnwu,Elynn Wu,user,True,"Seattle, WA","Female
+"
+spencerkclark,Spencer Clark,user,True,"Princeton, NJ","Male
+"
+yizhongw,Yizhong Wang,user,True,Seattle,"Male
+"
+brianhenn,Brian Henn,user,False,,"Male
+"
+pbai2,Patrick,user,True,,"Male
+"

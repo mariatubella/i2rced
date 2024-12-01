@@ -1,0 +1,4329 @@
+username,name,role,has_github,location,gender
+yizhezhang,Yizhe Zhang,user,True,WA,"Male
+"
+unilm,Li Dong,user,False,,"Male
+"
+codebert,CodeBERT,user,True,,"Unknown
+"
+xutan,Xu Tan,user,True,,"Unknown
+"
+naotous,Naoto Usuyama,user,True,Seattle,"Male
+"
+tnaumann,Tristan Naumann,user,True,,"Male
+"
+liminghao1630,Minghao Li,user,True,"Beijing, China","Male
+"
+DeBERTa,Pengcheng He,user,True,,"Male
+"
+KaitaoSong,Kaitao Song,user,True,,"Unknown
+"
+subho,Subhabrata Mukherjee,user,True,,"Male
+"
+ranpox,Yiheng Xu,user,True,C-137,"Male
+"
+jw2yang,Jianwei Yang,user,True,"Redmond, WA","Male
+"
+estyle,Tengchao Lv,user,True,China,"Male
+"
+SivilTaram,Qian Liu,user,True,Singapore,"Unknown
+"
+edjez,Eduardo Jezierski,user,True,,"Male
+"
+santiagxf,Facundo Santiago,user,True,,"Male
+"
+sourabhxiii,Sourabh Maity,user,True,,"Male
+"
+harish586,harish yenala,user,False,,"Male
+"
+couturierc,Camille Couturier,user,True,,"Female
+"
+manojsb,Manoj Bableshwar,user,False,,"Male
+"
+gkcalat,Ablai,user,True,,"Unknown
+"
+tellarin,Börje Karlsson,user,True,,"Male
+"
+kleinhu,Klein Hu,user,False,,"Unknown
+"
+ancientmooner,Han Hu,user,True,,"Unknown
+"
+impiga,Yutong Lin,user,True,Xi'an,"Unknown
+"
+zeliu98,Ze Liu,user,True,"Beijing, China","Unknown
+"
+Inhenn,Yinheng Li,user,True,,"Unknown
+"
+shengz,Sheng Zhang,user,True,"Redmond, WA","Male
+"
+bs1,B S,user,False,,"Unknown
+"
+ARahul,Rahul,user,False,,"Male
+"
+nileshdattani,Nilesh Dattani,user,False,,"Male
+"
+PrithviMicrosoft,Prithvishankar Srinivasan,user,False,,"Male
+"
+shruthib,Shruthi Bannur,user,False,,"Female
+"
+sthyland,Stephanie,user,True,"Cambridge, UK","Female
+"
+nvalluri,Naveen Valluri,user,False,,"Male
+"
+jaalvare,Javier Alvarez Valle,user,True,Cambridge,"Male
+"
+fepegar,Fernando Pérez-García,user,True,"Cambridge, United Kingdom","Male
+"
+rogerpengyu,Roger (Peng) Yu,user,True,,"Male
+"
+avikram,Ayush Vikram,user,True,,"Male
+"
+t-aakritilnu,Aakriti Lnu,user,False,,"Female
+"
+fosoromo,Foromo Daniel Soromou,user,True,,"Male
+"
+BSlininger,Brian Slininger,user,False,,"Male
+"
+lynazhang,Li Lyna Zhang,user,True,"Beijing, China","Female
+"
+Jiahang,Jiahang Xu,user,True,,"Unknown
+"
+test233,WJ,user,False,,"Unknown
+"
+VenerableSpace,Farrukh Rahman,user,True,Redmond,"Male
+"
+Nancc,Nan Chen,user,False,,"Unknown
+"
+yufan,Bruce Lee,user,False,,"Male
+"
+gavrilo,Gavrilo Andrić,user,True,Belgrade,"Male
+"
+netoront,Neil Toronto,user,True,,"Unknown
+"
+intfloat,Liang Wang,user,True,"Beijing, China","Male
+"
+pavelkliuiev,Pavel Kliuiev,user,False,,"Male
+"
+amka66,Amir Kantor,user,True,"Haifa, Israel","Male
+"
+saghar-h,Saghar Hosseini,user,True,Seattle,"Female
+"
+shubhamv199,Shubham Verma,user,True,,"Male
+"
+knxylan,Su He,user,False,,"Unknown
+"
+vishalsood,Vishal Sood,user,True,,"Male
+"
+jmagosta,John-Mark Agosta,user,True,Mountain View CA,"Male
+"
+Pokennat,Wang,user,False,,"Male
+"
+ssushant,Sushant Srivastava,user,True,"Hyderabad, India","Male
+"
+danielsc,Daniel Schneider,user,True,"Seattle, WA","Male
+"
+shikharmn,Mohan,user,True,Kharagpur,"Male
+"
+v-moayman,Mohamed Ayman,user,False,,"Male
+"
+gok,Govind K,user,True,"Seattle, WA","Male
+"
+jeffra,Jeff Rasley,user,True,"Seattle, WA","Male
+"
+ranka47,Sumeet,user,True,,"Male
+"
+thegovind,Govind K ,user,True,"Seattle, WA","Male
+"
+Abduali,Abdur Raheem Ali,user,True,,"Male
+"
+wzhings,Zuhui Wang,user,False,,"Unknown
+"
+Alexhughes132,Alexander Hughes,user,True,"Bellevue, WA","Male
+"
+Lusen,Dong,user,True,,"Male
+"
+funmikesa,Oluwafunmilola Kesa,user,True,Nigeria,"Female
+"
+owendeng,Deng Deng,user,False,,"Unknown
+"
+chaitanya-ms,Chaitanya Gupta,user,False,,"Unknown
+"
+soarroyo,Andrea Arroyo,user,False,,"Female
+"
+memoryz,Jason Wang,user,True,,"Male
+"
+msftndubuisi,Emmanuel Ndubuisi,user,False,,"Male
+"
+pidajay,Ajay Paidi,user,True,,"Male
+"
+Kunda,Chaikatisha,user,False,,"Unknown
+"
+devinHMS,Devin Howard,user,False,,"Male
+"
+ramaramani,Rama Ramani,user,True,,"Unknown
+"
+sanjeev3,Sanjeev Jagtap,user,True,Washington,"Male
+"
+henryz,henryzeng,user,True,beijing.cn,"Male
+"
+bsmock,Brandon Smock,user,True,"Seattle, WA","Male
+"
+Eitamar,Saraf,user,False,,"Unknown
+"
+jwilcox,Jeff Wilcox,user,False,,"Male
+"
+Ishmam,zabir,user,False,,"Male
+"
+sakulka,Sandip Kulkarni,user,True,,"Male
+"
+jennifermarsman,Jennifer Marsman,user,True,,"Female
+"
+millicentochieng,Millicent Ochieng,user,True,Nairobi - Kenya,"Female
+"
+nkishan,Neel Kishan,user,False,,"Male
+"
+altorremsft,Alyssa Torres,user,False,,"Female
+"
+chenglong-ms,Chenglong Wang,user,False,,"Male
+"
+gugarosa,Gustavo de Rosa,user,True,"Curitiba, Paraná, Brazil","Male
+"
+akolobov,Andrey Kolobov,user,False,,"Male
+"
+Baolin,Baolin Peng,user,False,,"Male
+"
+michaelxu-msft,Michael Xu,user,True,,"Male
+"
+cheick,Cheick Keita,user,True,,"Male
+"
+noelcodella,Noel Codella,user,False,,"Unknown
+"
+lekurile,Lev Kurilenko,user,False,,"Male
+"
+MarceloGennari,Marcelo Gennari do Nascimento,user,False,,"Male
+"
+alexinc,Renqian Luo,user,True,,"Unknown
+"
+cailang,Martin Cai,user,True,"Sammamish, WA","Male
+"
+jorgegar,Jorge GX,user,False,,"Unknown
+"
+viktorveis,Viktor Veis,user,False,,"Male
+"
+ekzhu,Eric Zhu,user,True,,"Male
+"
+ronwan,Rongzhao,user,False,,"Unknown
+"
+KappaFromHell,Andrzej Banburski-Fahey,user,True,,"Male
+"
+ankurmallick,Ankur Mallick,user,True,USA,"Male
+"
+hrz,Justin Wagle,user,True,San Francisco,"Male
+"
+christine1729,Xinyu Hu,user,True,CA,"Unknown
+"
+gopalrs,Gopal RS,user,False,,"Male
+"
+avflor,Avrilia Floratou,user,False,,"Female
+"
+weiranwu,Weiran Wu,user,False,,"Unknown
+"
+soalnaiz,Soliman Alnaizy,user,True,"Seattle, Washington","Male
+"
+yuqxia,Yuqing Xia,user,True,"Beijing, China","Female
+"
+mcasalaina,Marco Casalaina,user,True,"San Francisco, CA","Male
+"
+azerrroth,Haozhe Li,user,False,,"Male
+"
+robdeline,Rob DeLine,user,False,,"Male
+"
+galenh,Galen Hunt,user,True,"Bellevue, WA","Male
+"
+xiongqiao,Xiong Qiao,user,False,,"Unknown
+"
+jmservera,Juan Manuel Servera,user,True,ZRH | PMI | MAD,"Male
+"
+NabilaB,Nabila Babar,user,False,,"Female
+"
+priumoraes,Priscilla Moraes,user,True,Austin,"Female
+"
+jomoor,John Moore,user,False,,"Male
+"
+jyoshino,Jennifer Yoshino,user,False,,"Female
+"
+UVYadav,UV,user,False,,"Unknown
+"
+shuhangchen,shuhang chen,user,False,,"Male
+"
+Sakusuma,Sai Kiran Kusumanchi,user,True,Hyderabad,"Male
+"
+tger,Tanya Gersh,user,False,,"Female
+"
+nlpyang,Yang Liu,user,True,,"Unknown
+"
+dakowalc,Damian Kowalczyk,user,True,United States,"Male
+"
+HelloKitty123,Chen,user,False,,"Male
+"
+luona,Na Luo,user,False,,"Unknown
+"
+terryyang,Terry,user,False,,"Unknown
+"
+wulu,Lukas Wutschitz,user,False,,"Male
+"
+prototypechan,Haiyan Zhang,user,True,London,"Female
+"
+sr92,retkowsky,user,False,,"Unknown
+"
+vikasd,Vikas Deora,user,False,,"Male
+"
+thorthund3r,Thor Thunder,user,False,,"Male
+"
+YuanYuhui,Researcher,user,False,,"Unknown
+"
+IgorZaika,Igor Zaika,user,False,,"Male
+"
+Alan1234,Lee,user,False,,"Unknown
+"
+nushib,Besmira Nushi,user,True,,"Female
+"
+yakiryehuda,yakir yehuda,user,False,,"Male
+"
+ORichard,Owen Richard,user,False,,"Male
+"
+Readio,Brendan Reid,user,False,,"Male
+"
+Vageeshdc,.,user,False,,"Unknown
+"
+thakursc1,Saurabh Thakur,user,True,,"Male
+"
+grhuynh,Grace Huynh,user,False,,"Female
+"
+Chunyuan24,Chunyuan Li,user,True,"Redmond, WA","Unknown
+"
+tallandroid,Harshit Rohatgi,user,True,Bengaluru,"Male
+"
+liuche,Cheng Liu,user,False,,"Unknown
+"
+yli711,Yifan Li,user,False,,"Male
+"
+bibekaryal,Bibek Aryal,user,True,"El Paso, TX","Male
+"
+haiyangsun,Haiyang Sun,user,False,,"Male
+"
+sgopired,Chaitanya Gopireddy,user,True,,"Male
+"
+joshduck,Josh Duck,user,True,"Brisbane, AU","Male
+"
+gustavosoares,Gustavo Soares,user,True,Seattle,"Male
+"
+cyrilzhang,Cyril Zhang,user,True,"New York, NY","Male
+"
+bahree,Amit Bahree,user,True,Seattle,"Male
+"
+andreyma,Andrey Marochko,user,True,"Redmond, WA","Male
+"
+jinzhong,doris zhong,user,True,,"Female
+"
+drdon,Don Diekneite,user,False,,"Male
+"
+abhishekdas-microsoft,Abhishek Das,user,True,,"Male
+"
+dbarkol,David Barkol,user,True,Endor,"Male
+"
+amritaguptaa,Amrita Gupta,user,True,United States,"Female
+"
+heyangqin,Heyang Qin,user,True,,"Unknown
+"
+eyalofekMSR,Eyal Ofek,user,True,Redmond,"Male
+"
+Melonxiaoxiao,Xiaoxiao,user,False,,"Female
+"
+DataDen,Srini,user,False,,"Unknown
+"
+xianz,Xiang Zhang,user,False,,"Unknown
+"
+Divu,Divya Bansal,user,False,,"Female
+"
+LakshyAAAgrawalM,Lakshya A Agrawal,user,False,,"Male
+"
+sabharadwaj,samarth bharadwaj,user,True,India,"Male
+"
+yun0cheng0ju,YUN-CHENG JU,user,False,,"Unknown
+"
+rfernand,Roland Fernandez,user,True,"Redmond, WA","Male
+"
+harperlucy2023,xiao ha,user,True,Beijing,"Unknown
+"
+jjhenkel,Jordan Henkel,user,True,"Madison, WI","Male
+"
+craterkamath,Vinayaka R Kamath,user,True,Bengaluru,"Male
+"
+askhade,Ashwini Khade,user,True,,"Female
+"
+oliver-ms,Jiahe Shi,user,False,,"Unknown
+"
+Diondra,Peck,user,True,"Seattle, WA","Male
+"
+tysond,Tyson Dowd,user,False,,"Male
+"
+kelewis,Kevin Lewis,user,True,"Redmond, Washington","Male
+"
+lovelacer,Richard Lovelace,user,False,,"Male
+"
+jstall-ms,Jeff Stall,user,True,"Redmond, WA","Male
+"
+tholguin,Tony Holguin,user,False,,"Male
+"
+mat-pereira,Matheus Pereira,user,False,,"Male
+"
+mikewinters,Mike,user,True,,"Unknown
+"
+gcordido,Gustavo Cordido,user,True,,"Male
+"
+guptaaman,Aman Gupta,user,True,Bangalore,"Male
+"
+sushiltailor,Sushil Tailor,user,True,,"Male
+"
+gouravchat,Gourav,user,False,,"Male
+"
+aazami,Aazami,user,False,,"Unknown
+"
+kcmsft,Kristine Campbell,user,False,,"Female
+"
+murtuza-ms,Murtuza,user,False,,"Unknown
+"
+ChetanG-MSFT,Chetan Gangwar,user,False,,"Male
+"
+Adamlaw,Adam Law,user,False,,"Male
+"
+ram56,Ramprasad,user,False,,"Unknown
+"
+doyoumsft,Adam You,user,False,,"Male
+"
+dcaro,Damien Caro,user,True,Redmond,"Male
+"
+stevenbuchermsft,Steven Bucher,user,False,,"Male
+"
+usman087,Muhammad Usman,user,False,,"Male
+"
+cailurus,MoreZhou,user,False,,"Unknown
+"
+Akporzondek,Aaron Porzondek,user,False,,"Unknown
+"
+suriyagunasekar,Gunasekar,user,True,,"Male
+"
+Qiudi,Dong,user,False,,"Male
+"
+skartes,Stacie Kartes,user,False,,"Female
+"
+JoakimL,Joakim L,user,False,,"Male
+"
+jnscnn,Jonas Coenen,user,True,Frankfurt,"Male
+"
+RigdhaAcharya,Rigdha Acharya,user,True,"Bothell, WA","Female
+"
+ivberg,Ivan Berg,user,False,,"Male
+"
+xueyanz,Xueyan Zou,user,True,,"Unknown
+"
+dbmsft,Debdeep Basu,user,False,,"Male
+"
+harmonious11,Harmony Mabrey,user,False,,"Female
+"
+jzhanson-msft,Joshua Zhanson,user,False,,"Male
+"
+jgosses,Justin Gosses,user,True,"Houston, TX, USA","Male
+"
+ankmak,Ankur Makwana,user,False,,"Male
+"
+AmirIvry,amir ivry,user,False,,"Male
+"
+Eee0114,He,user,False,,"Unknown
+"
+MukulSingh105,Mukul Singh,user,True,"Delhi, India","Male
+"
+NidhiTiwari1311,Nidhi Tiwari,user,False,,"Female
+"
+JuneShi,JunShi,user,True,,"Male
+"
+lebaro,Leah Simmons,user,False,,"Female
+"
+tristaatms,Chen,user,False,,"Male
+"
+rajatjainmicrosoft,Rajat Jain,user,False,,"Male
+"
+nailimixaM,Max Croci,user,True,"London, UK","Male
+"
+ebeyabraham,Ebey Abraham,user,False,,"Unknown
+"
+mj94022,Manisha Jain,user,True,,"Female
+"
+davidmarek,David Marek,user,True,Prague,"Male
+"
+Ratnesh,Madaan,user,True,"Pittsburgh, PA","Male
+"
+rejuvyesh,Jayesh K. Gupta,user,True,"Kirkland, WA","Male
+"
+demitribautista,Demitri Bautista,user,True,,"Male
+"
+pooyaalavian,Pooya Alavian,user,True,"Ann Arbor, MI","Male
+"
+amritaputrab,Amrit B,user,False,,"Unknown
+"
+chetanbadhe,Chetan Badhe,user,True,,"Unknown
+"
+elindemann,Ethan L,user,False,,"Unknown
+"
+Naireeta,Naireeta Mitra,user,False,,"Female
+"
+lutzroeder,Lutz Roeder,user,True,,"Male
+"
+satyaj,Satya Kumar Jandhyala,user,True,,"Male
+"
+yan-li,Yan Li,user,False,,"Unknown
+"
+jiunyitsai,Jiunyi Tsai,user,False,,"Unknown
+"
+lynnaloo,Linda Nichols,user,True,"Norfolk, VA","Female
+"
+saihv,Sai Vemprala,user,True,"Seattle, WA","Male
+"
+ykim362,Young Jin Kim,user,True,Redmond,"Male
+"
+jcahoon,Joyce Cahoon,user,True,,"Female
+"
+rapraccoon,Cicy Pan,user,False,,"Unknown
+"
+kogolobo,Konstantin Golobokov,user,True,"Seattle, WA","Male
+"
+emayen,man,user,False,,"Male
+"
+gbonifacio,Gaetano,user,False,,"Male
+"
+tcz717,Chengzhi,user,False,,"Male
+"
+ujjwalaa,Ujjwala Ananth,user,False,,"Female
+"
+Don-Don,DonDon,user,False,,"Unknown
+"
+sriramkr,Sriram Rajamani,user,True,,"Male
+"
+lx865712528,Xiao Liu,user,True,Beijing,"Male
+"
+Kunal93v,KUNAL VERMA,user,False,,"Male
+"
+hugogeraldes,Hugo Nunes,user,True,,"Male
+"
+katua,Kate Lytvynets,user,False,,"Female
+"
+PedroLuz89,Pedro Luz,user,True,Remote - Brazil,"Male
+"
+juaduan,Juanyong Duan,user,False,,"Male
+"
+xianbw,Bowen Xian,user,False,,"Male
+"
+tvspina,Thiago Vallin Spina,user,False,,"Male
+"
+tararootcake,Tara Safavi,user,False,,"Female
+"
+frank1991,liu,user,False,,"Unknown
+"
+wbli26,Wenbing Li,user,False,,"Unknown
+"
+Huoran,Li,user,False,,"Unknown
+"
+erjohnms,Eric Johnson,user,False,,"Male
+"
+Particle666,queene,user,False,,"Female
+"
+zddfunseeker,Dongdong Zhang,user,False,,"Male
+"
+asismohanty,Asis Mohanty,user,False,,"Male
+"
+sebraun,Sebastian Braun,user,False,,"Male
+"
+Chenfei,Chenfei Wu,user,True,,"Unknown
+"
+Wixee,Wixee Zhu,user,False,,"Unknown
+"
+DavidParks8,David Parks,user,True,,"Male
+"
+amipatel,Ami Patel,user,False,,"Female
+"
+appliqed,Sanghee Oh,user,False,,"Unknown
+"
+sonichi,Chi Wang,user,True,,"Male
+"
+vsalvatelli,Valentina Salvatelli,user,True,,"Female
+"
+kartavyaneema,Kartavya Neema,user,False,,"Unknown
+"
+pjssrikanth,Jaya Palli,user,False,,"Female
+"
+mhumphr,Matthew Humphrey,user,False,,"Male
+"
+mrahman82,Muntasir Raihan Rahman,user,False,,"Male
+"
+tigerlin,LIN LIN,user,False,,"Unknown
+"
+dmytrostruk,Dmytro Struk,user,True,,"Male
+"
+danfsmithmsft,Dan Smith,user,True,,"Male
+"
+amsword8,Jianfeng Wang,user,False,,"Male
+"
+Kusake,Jade Kusake,user,False,,"Unknown
+"
+resh23,Reshma,user,False,,"Female
+"
+meste,Meredith Stewart,user,False,,"Female
+"
+jkramer,Jeff Kramer,user,False,,"Male
+"
+kalineid,Jianyu Wei,user,False,,"Unknown
+"
+avempaty,Aneesh Vempaty,user,True,,"Male
+"
+YoelJasner,Yoel Jasner,user,False,,"Male
+"
+taehyun0313,Tae Kim,user,False,,"Unknown
+"
+fowie,Spencer Fowers,user,True,"Redmond, WA","Male
+"
+rcaropreso,Rodrigo Caropreso,user,False,,"Male
+"
+divyakrishnani,Divya Krishnani,user,False,,"Female
+"
+brharney,Brian Harney,user,True,,"Male
+"
+bhanke-msft,Ben,user,False,,"Male
+"
+ryanwaite,Ryan Waite,user,True,,"Male
+"
+davekal,Dave Kallenborn,user,True,,"Male
+"
+vcuadros,Victor J Cuadros,user,False,,"Male
+"
+wz22,wz22,user,False,,"Unknown
+"
+roccoren,Rocco,user,False,,"Male
+"
+haohua,haoyanghuang,user,False,,"Male
+"
+thinkall,Li Jiang,user,False,,"Unknown
+"
+vicngo,Victor Ngo,user,False,,"Male
+"
+spyder-sun,Pengyu Sun,user,False,,"Male
+"
+Cynthetika,Todd Ingalls,user,False,,"Male
+"
+Preethi-B,Preethi B,user,False,,"Female
+"
+yumuto,Yuko Muto,user,False,,"Female
+"
+UmonF,Yumeng Fan,user,False,,"Female
+"
+aksr0888,Amit Singh,user,False,,"Male
+"
+slamb2k,Simon Lamb,user,True,"Melbourne, Australia","Male
+"
+t-mansinghal,Manav Singhal,user,False,,"Male
+"
+IoannisYpsilos,Ioannis Ypsilos,user,False,,"Male
+"
+sadjad,Sadjad Fouladi,user,True,"Redmond, WA","Male
+"
+Christhi,Christian Thilmany,user,False,,"Male
+"
+santao,Eric Wang,user,False,,"Male
+"
+v1an1,Hitesh Kandala,user,True,,"Male
+"
+zwd-ms,zwd-ms,user,False,,"Unknown
+"
+divagrawal-msft,Divyanshu Agrawal,user,False,,"Male
+"
+ashikagupta,Ashika Gupta,user,False,,"Female
+"
+msra-syl,Yongliang Shen,user,False,,"Male
+"
+cyberflying,cyberflying,user,True,China,"Unknown
+"
+kartikmathur,Kartik Mathur,user,False,,"Male
+"
+ethanbuttimer,Ethan Buttimer,user,True,"Berkeley, CA","Male
+"
+naykun,Kun Yan,user,False,,"Unknown
+"
+rindesu,Pingping Lin,user,False,,"Unknown
+"
+tricktreat,Yongliang Shen,user,True,"Hangzhou, China","Male
+"
+ebadger,Eric Badger,user,True,Redmond,"Male
+"
+jimihe,Jimi He,user,False,,"Unknown
+"
+aipromptengineer,Agarwal,user,True,,"Unknown
+"
+haiyudong,Haiyu Dong,user,True,,"Unknown
+"
+Anyuan,Dong,user,True,"Suzhou, Jiangsu, China","Male
+"
+adkamath,Adharsh Kamath,user,False,,"Male
+"
+yuanqwang,Yuanqing Wang,user,True,"Beijing, China","Male
+"
+neoxfx,Karthik,user,False,,"Male
+"
+justinj92,Justin J,user,False,,"Unknown
+"
+Sankalp256,Sankalp,user,False,,"Male
+"
+CoLAer,J,user,False,,"Unknown
+"
+Tatsinnit,Tatsat Mishra,user,False,,"Male
+"
+nappingCommodore,Nitish Singh,user,True,Hyderarbad,"Male
+"
+alesbal,Alex Balzarelli,user,False,,"Male
+"
+AaronAspinwall,Aaron Aspinwall,user,False,,"Male
+"
+YanboXu,Yanbo Xu,user,False,,"Male
+"
+ansamant,Ankur Samantara,user,False,,"Unknown
+"
+Mars31,shimin,user,True,"California, US","Unknown
+"
+Kuralight,Kayden Wilkinson,user,True,,"Male
+"
+FabianKL,Fabian KLein Schiphorst,user,False,,"Male
+"
+repajta,Rene Pajta,user,False,,"Unknown
+"
+CLBaby,chenlu,user,False,,"Unknown
+"
+tbradshaw,Travis Bradshaw,user,True,"Redmond, WA","Male
+"
+Wish1310,Tawish R,user,False,,"Unknown
+"
+HelmerNL,Helmer Zandbergen,user,True,Netherlands,"Male
+"
+melotic,Justin Perez,user,True,"Seattle, WA","Male
+"
+ScottZhu,Scott Zhu,user,False,,"Male
+"
+MSmanJ,JF Mark,user,False,,"Unknown
+"
+gbego,Gwenael Bego,user,False,,"Unknown
+"
+whiskyboy,Tian Wei,user,True,Beijing,"Male
+"
+OttoDeng,Otto Deng,user,True,"Guangzhou, Guangdong, China","Male
+"
+suhasranganath,Suhas Ranganath,user,False,,"Male
+"
+reillyp,Philip Reilly,user,True,,"Male
+"
+ChaoZhou,Chao Zhou,user,False,,"Unknown
+"
+CesarSolis,Cesar Solis Brito,user,False,,"Male
+"
+honeytin,Janet Tseng,user,False,,"Female
+"
+zhanghuanrong,Lei Zhang,user,True,"San Jose, CA, U.S.A","Unknown
+"
+KittyYeungQ,Kitty Yeung,user,True,,"Female
+"
+sid-mathur,Sid Mathur,user,False,,"Unknown
+"
+maanavdalal,Maanav D,user,True,"Seattle, WA","Male
+"
+thejayword,Jason Cohen,user,False,,"Male
+"
+vs4vijay,Vijay Soni,user,True,India,"Male
+"
+sihhh,sih,user,False,,"Unknown
+"
+v-heli,heli,user,False,,"Unknown
+"
+Shijie,Cao,user,False,,"Unknown
+"
+24anisha,Anisha Agarwal,user,True,,"Female
+"
+luzhang06,Lu Zhang,user,True,,"Unknown
+"
+orsharon,Or Sharon,user,False,,"Unknown
+"
+loganiyer,Logan Iyer,user,True,,"Male
+"
+adrosa-msft,Ada Rosa,user,True,,"Female
+"
+prathikr,Prathik Rao,user,False,,"Male
+"
+eugene2candy,Chengjie Xu,user,False,,"Male
+"
+natasha-msft,Natasha Savic,user,True,"Sydney, NSW, Australia","Female
+"
+hanori,Harsha Nori,user,False,,"Unknown
+"
+trmorgan,Trevor  Morgan,user,False,,"Male
+"
+raghavcinch1,Raghavendran Somasundaram,user,True,,"Male
+"
+scicoria,shawn cicoria,user,True,NJ,"Male
+"
+pableeto,Xiao Li,user,False,,"Male
+"
+achurikov,Anatoly Churikov,user,False,,"Male
+"
+jichen,Ji Chen,user,False,,"Unknown
+"
+joe-osborne,Joe Osborne,user,True,London,"Male
+"
+imick,Mick Vleeshouwer,user,True,"Amsterdam, Netherlands","Male
+"
+nityan,"Nitya Narasimhan, PhD",user,True,NY,"Female
+"
+mkheck,Mark Heckler,user,False,,"Male
+"
+namratabafna,Namrata Bafna,user,True,"Vancouver, BC, Canada","Female
+"
+elbruno,Bruno Capuano,user,True,"Toronto, Canada","Male
+"
+AbhishekChinni,Abhishek Chinni,user,True,,"Male
+"
+dratc,David Ratcliffe,user,True,Canberra,"Male
+"
+Jyoraga,J G,user,False,,"Unknown
+"
+lucadb,luca di biagio,user,True,,"Male
+"
+infinitelyloopy,Baker Tamory,user,True,,"Unknown
+"
+pjdecarlo,Paul DeCarlo,user,True,Houston,"Male
+"
+Tauqueer,Tauqueer Ahmad,user,False,,"Male
+"
+PratGPT,Pratima Reddy,user,False,,"Female
+"
+johndohoney,John Dohoney,user,True,Southern California,"Male
+"
+hepais,Hermann Pais,user,True,,"Male
+"
+pgtma,Yipeng Li,user,False,,"Male
+"
+rohitl,Rohit L,user,False,,"Male
+"
+revanth06,Revanth Chandra Pydimarri,user,False,,"Male
+"
+TalZaccai,Tal Zaccai,user,False,,"Unknown
+"
+shekharsorot,Shekhar,user,True,,"Male
+"
+RantingRich,Richard Owens,user,False,,"Male
+"
+johnsonbrandon,Brandon Johnson,user,False,,"Male
+"
+backpropper,Abhinav Gupta,user,True,"London, United Kingdom","Male
+"
+bobtrufant,Brooke,user,False,,"Female
+"
+MasterofPLM,Zhengxin Zeng,user,False,,"Unknown
+"
+boyevche,Bohdan Yevchenko,user,False,,"Male
+"
+TaoZZZ,Tao Zhang,user,False,,"Male
+"
+shidams,shida,user,False,,"Unknown
+"
+DelonYau,Yau,user,True,Hong Kong,"Unknown
+"
+DemingHuang,Deming Huang,user,False,,"Unknown
+"
+Saline-smoke2local,Jon N,user,False,,"Unknown
+"
+rchiodo,Rich Chiodo,user,True,"Redmond, WA","Male
+"
+vivihung,Vivien Hung,user,True,"Redmond, WA, USA","Female
+"
+DaleChen,Chen,user,False,,"Male
+"
+ranjanbin,Ranjan Binwani,user,False,,"Male
+"
+DSTTSD2023,Shitong Duan,user,False,,"Unknown
+"
+jvidit,Vidit,user,False,,"Male
+"
+rajeshkappoor,Rajesh Kappoor,user,False,,"Male
+"
+Watercat,Alex Piccolo,user,False,,"Unknown
+"
+burkeholland,Burke Holland,user,True,"Franklin, TN","Male
+"
+ppkb,Priyanka PromodKumar-Bozzi,user,False,,"Female
+"
+soroushmehr,Reza Soroushmehr,user,False,,"Male
+"
+CindyLe,Cindy Leach,user,False,,"Female
+"
+davidatorres,David Torres,user,True,Virtual,"Male
+"
+lauparrs,Laura Parra Rangel,user,False,,"Female
+"
+Zero2Ten,Ryan He,user,False,,"Male
+"
+vanessacristiny,Vanessa Rodrigues,user,False,,"Female
+"
+guygregory,Guy Gregory,user,True,"Reading, UK","Male
+"
+pacocruz,Paco Cruz,user,False,,"Unknown
+"
+juantrujillo,Juan Trujillo,user,False,,"Male
+"
+Vicenterivera,Vicente Rivera,user,False,,"Male
+"
+cdraley,Colby Raley,user,True,,"Male
+"
+lp605,Luke Parker,user,False,,"Male
+"
+jaystokes,Jay Stokes,user,False,,"Male
+"
+hansonlo,Hanson Lo,user,False,,"Male
+"
+catherinerao,Catherine Rao,user,False,,"Female
+"
+venkatnikhil,venkatnikhil,user,False,,"Male
+"
+noodlefrenzy,Mike Lanzetta,user,True,United States,"Male
+"
+strukrev,Ming,user,False,,"Unknown
+"
+jonathanEphrath,ephrath,user,True,,"Unknown
+"
+russrimm,Russ Rimmerman,user,False,,"Male
+"
+ayyalaprem,Premnath A,user,False,,"Male
+"
+Shuohang,Wang,user,False,,"Unknown
+"
+abeomor,Abe Omor,user,True,"Seattle, WA","Male
+"
+mbortnic,Mike,user,True,"Redmond, WA","Male
+"
+AcVoyager,Chang Xu,user,False,,"Unknown
+"
+MSamson,"Samson, M ",user,False,,"Male
+"
+ChangChangChang,Chang Xu,user,False,,"Unknown
+"
+Chengruidong,Zhang,user,True,,"Male
+"
+dicolomb,Diego Colombo,user,True,UK,"Male
+"
+pzagacki,Paul Zagacki,user,False,,"Male
+"
+Ryanb58,Taylor Brazelton,user,True,"Kirkland, Washington, U.S.A.","Female
+"
+abhikeshav,abhikeshav,user,True,,"Male
+"
+camillalongden,Camilla Longden,user,True,"Cambridge, UK","Female
+"
+xyc1207,Yingce Xia,user,True,China,"Unknown
+"
+Row01,Rowena Shi,user,False,,"Female
+"
+VictorDY,VictorD,user,False,,"Male
+"
+amitmisra,Amit Misra,user,False,,"Male
+"
+tesych,Tetyana Sych,user,False,,"Female
+"
+gxiaotian,Xiaotian Gao,user,False,,"Male
+"
+timlaverty,Tim Laverty,user,True,Redmond,"Male
+"
+pavignol2,Patrice Vignola,user,True,"Seattle, WA","Male
+"
+meni12345,Menachem Brief,user,False,,"Male
+"
+adewynter,Adrian de Wynter,user,False,,"Male
+"
+GungnirRen,shaokangren,user,False,,"Male
+"
+paullizer,Paul Lizer,user,True,"Washington, D.C.","Male
+"
+victoriyke,Victor Iyke-Osuji,user,False,,"Male
+"
+cgsmw,Cory Stevenson,user,True,,"Male
+"
+melonking,melonking,user,False,,"Unknown
+"
+tlwu,Tianlei Wu,user,False,,"Male
+"
+FalconLlamalpaca,Falcon,user,True,,"Unknown
+"
+devalmodi,Deval Modi,user,False,,"Unknown
+"
+Gmelina,Christopher,user,True,,"Male
+"
+kartheekp-ms,Kartheek Penagamuri,user,False,,"Male
+"
+xanwal,xanwal,user,False,,"Unknown
+"
+willieahlers,Willie Ahlers,user,True,Sammamish,"Male
+"
+haotiz,Haotian Zhang,user,True,"Cupertino, CA","Male
+"
+xingustc,Xing Xie,user,False,,"Unknown
+"
+aislingjax,Aixiao Jiang,user,False,,"Unknown
+"
+JingyeChen22,JingyeChen22,user,True,Ph.D. Student at HKUST,"Unknown
+"
+jaccz,Jacek Czerwonka,user,False,,"Male
+"
+harshit93,Harshit Agarwal,user,False,,"Male
+"
+dkscott,Dreyton Scott,user,False,,"Male
+"
+davela,Lacy,user,True,"San Francisco, CA","Female
+"
+WaxiTaxi,David Waxman,user,False,,"Male
+"
+segevravgad,Segev Ravgad,user,False,,"Unknown
+"
+wenxuanxie,Wenxuan Xie,user,False,,"Unknown
+"
+edusms,E,user,False,,"Unknown
+"
+dorianclay,Dorian Clay,user,True,"Cupertino, California","Male
+"
+praneetha,Praneetha Vaddamanu,user,False,,"Female
+"
+heyangh,Heyang Huang,user,False,,"Unknown
+"
+ameyab,Ameya Bhatawdekar,user,True,Seattle,"Male
+"
+Billmsft,Bill Njoroge,user,False,,"Male
+"
+GeorgeI2003,George Iskander,user,False,,"Male
+"
+t-chihyulai,Andrew Lai,user,False,,"Male
+"
+gsrawai,Gyani,user,False,,"Unknown
+"
+kmogili,Kirtana Mogili,user,False,,"Female
+"
+DFatade,Daniel Fatade,user,False,,"Male
+"
+jafeore,James Feore,user,False,,"Male
+"
+t-anikshenoy,Anika Shenoy,user,False,,"Female
+"
+mafascio,Maria Clara Fasciolo,user,True,,"Female
+"
+mhaavald,Morten Haavaldsen,user,False,,"Male
+"
+mrcarter99,Mike Carter,user,True,"Redmond, WA","Male
+"
+mundymagic,dav mundy,user,False,,"Male
+"
+Rangosaur,Rangan Majumder,user,False,,"Unknown
+"
+Binyang,Li,user,True,Beijing,"Unknown
+"
+clemlesne,Clémence Lesné,user,True,"Paris, France","Female
+"
+deepesh17feb,Deepesh Maheshwari,user,True,gurgaon,"Male
+"
+xwms,Xingbo Wu,user,False,,"Male
+"
+t-davasquez,David Vasquez,user,False,,"Male
+"
+Tao-Jovi,Han,user,True,,"Unknown
+"
+chaojiezhang,chaojie zhang,user,False,,"Male
+"
+albecker-mst,Alec Becker,user,True,Redmond,"Male
+"
+jwbono,James Bono,user,True,,"Male
+"
+Victor-MS,Liu,user,False,,"Unknown
+"
+V-YangXu,Yang Xu,user,False,,"Male
+"
+ivan0703,Ivan Chung,user,True,Taipei,"Male
+"
+shuyums,SC,user,False,,"Unknown
+"
+wayne-xiong,Wayne Xiong,user,False,,"Male
+"
+akopp,Andreas Kopp,user,False,,"Male
+"
+yuqyang,yuqing yang,user,False,,"Female
+"
+MarkWme,Mark Whitby,user,True,UK,"Male
+"
+AronInger,Aron Inger,user,False,,"Unknown
+"
+c0ffeeinspace,Srishti,user,True,,"Female
+"
+hugart,Kalai Elumalai,user,False,,"Unknown
+"
+kunalmitra12,Kunal Mitra,user,False,,"Male
+"
+ShabnamSadegh,Shabnam Sadegharmaki,user,False,,"Female
+"
+josequ,Jon Sequeira,user,True,"Seattle, WA","Male
+"
+PratimaMangena,Mangena,user,False,,"Unknown
+"
+shivshandilya,Shivam Shandilya,user,True,"Bangalore, India","Male
+"
+apurvaga,Apurva Gandhi,user,True,,"Unknown
+"
+tanvi-behera,Tanvi Behera,user,False,,"Female
+"
+kathyxx,kathy,user,False,,"Female
+"
+tawalke,TE Walker,user,False,,"Unknown
+"
+saikatc,Saikat Chakraborty,user,True,"Piscataway, NJ","Male
+"
+NCMSFT,Natasha Crampton,user,False,,"Female
+"
+paulsingh,Paul Singh,user,True,"San Francisco Bay Area, CA USA","Male
+"
+wkun2023,Wu Kun,user,False,,"Male
+"
+tjruwase,Olatunji Ruwase,user,True,,"Male
+"
+jingchao0879,Jingchao Zhang,user,False,,"Male
+"
+marah-abdin,Marah Abdin,user,True,,"Female
+"
+sandeepchitta,sandeep chitta,user,False,,"Male
+"
+coderandhiker,Chris Roberts,user,True,"Redmond, WA","Male
+"
+kulkarnipriyanka,Priyanka Kulkarni,user,False,,"Female
+"
+mauromi,Mauro,user,True,Italy,"Male
+"
+ruyakubu,Ruth Yakubu,user,False,,"Female
+"
+Shuangbei,Qian,user,False,,"Unknown
+"
+sschoenmeyer,Sophie Schoenmeyer,user,True,"Seattle, WA","Female
+"
+josepablocam,Jose Cambronero,user,True,,"Male
+"
+doriancortes,Dorian Cortes,user,True,,"Male
+"
+egeo,Ege,user,False,,"Unknown
+"
+hippox,Hippo,user,False,,"Unknown
+"
+kevinlin311tw,Kevin Lin,user,True,"Seattle, WA","Male
+"
+alezhao,Alex Zhao,user,True,,"Unknown
+"
+bribri2000,gab,user,False,,"Unknown
+"
+Azuryee,Kai,user,False,,"Unknown
+"
+chandrachivukula,Chandra Chivukula,user,True,,"Unknown
+"
+dikum,Dinesh Kumar,user,False,,"Male
+"
+yizhongzhang,Yizhong Zhang,user,False,,"Male
+"
+shun-zheng,Shun Zheng,user,False,,"Unknown
+"
+vtenisc,Vincenzo Tenisci,user,False,,"Male
+"
+keonabut,Keita Onabuta,user,False,,"Unknown
+"
+akshaynambi,Akshay  Nambi,user,False,,"Male
+"
+jsachdev,Jaideep Singh Sachdev,user,False,,"Male
+"
+badripatro,Badri Narayana Patro,user,True,India,"Male
+"
+anoop85,Anoop Pandey,user,False,,"Male
+"
+abdallah1234,Abdallah Abdelaziz,user,False,,"Male
+"
+nachoalonsoportillo,Ignacio Alonso Portillo,user,False,,"Male
+"
+beibin79,Beibin Li,user,True,Redmond,"Male
+"
+masincla,Matt Sinclair,user,True,,"Male
+"
+kmellou,Konstantina Mellou,user,False,,"Female
+"
+tsfdev,Vladimir Smirnov,user,False,,"Male
+"
+t-akhare,Avishree Khare,user,False,,"Female
+"
+xunguohf,Xun Guo,user,False,,"Unknown
+"
+sammthomson,Samuel M Thomson,user,True,"Northampton, MA","Male
+"
+hesharon,Sharon He,user,False,,"Female
+"
+hextermi,Matt,user,False,,"Male
+"
+stevermoore,Steve,user,True,,"Male
+"
+sahajgg,Sahaj Agarwal,user,True,,"Male
+"
+johnsonerik,Erik,user,False,,"Male
+"
+Chris-72621,Rodriguez,user,False,,"Unknown
+"
+hongbu,hongbu,user,False,,"Male
+"
+sshafe,Shafe Syed,user,False,,"Male
+"
+leongj-ms,Jason Leong MS,user,False,,"Male
+"
+kelvinih,Hao Cheng,user,False,,"Male
+"
+sonalim,Sonali Malik,user,False,,"Female
+"
+mikeshepperd,Mike Shepperd,user,True,"Seattle, WA, USA","Male
+"
+cliffwong,Cliff Wong,user,True,,"Male
+"
+adurbhaka,Aishwarya Durbhaka,user,False,,"Female
+"
+clolynch,Clodagh Lynch,user,False,,"Female
+"
+abrantes,Andre Abrantes,user,False,,"Male
+"
+tusharkanakagiri,Tushar Kanakagiri,user,True,,"Male
+"
+SunitSivasankaran,Sunit Sivasankaran,user,True,Nancy,"Male
+"
+sunghcho,Sunghoon Choi,user,True,"California, USA","Male
+"
+kvaishnavi,Kunal Vaishnavi,user,False,,"Unknown
+"
+t-ychuang,Yung-Sung Chuang,user,False,,"Male
+"
+jerthal,Jonas Erthal,user,False,,"Male
+"
+huangyingting,ythuang,user,False,,"Unknown
+"
+pavelkoval,Pavel Koval,user,False,,"Male
+"
+t-vb,vb,user,False,,"Unknown
+"
+sksq96,Shubham Chandel,user,True,,"Male
+"
+kevivk,Vivek Kumar,user,False,,"Male
+"
+JeffCMLin,Jeff Lin,user,False,,"Unknown
+"
+zhhan,Zhipeng Han,user,False,,"Male
+"
+naraymad2,Narayanan Madhu,user,True,,"Male
+"
+hnfish,Angela Wu,user,False,,"Female
+"
+eryua,Eric Yuan,user,True,Montréal,"Male
+"
+zhijiang,zhijiang xu,user,True,,"Unknown
+"
+themendu,Sai,user,False,,"Unknown
+"
+nilesh0109,Nilesh Vijayrania,user,False,,"Male
+"
+iAJChang,AJ Chang,user,False,,"Unknown
+"
+MillardMS,Millard Ding,user,False,,"Unknown
+"
+iofu728,Huiqiang Jiang,user,True,Shanghai,"Male
+"
+gaganbansal,Gagan Bansal,user,False,,"Male
+"
+yucdai,Foo Bar,user,False,,"Unknown
+"
+Billy101,zhang,user,False,,"Male
+"
+slivkins,Alex Slivkins,user,True,"New York, USA","Male
+"
+Rabinovich,Jack Zeng,user,True,"Pittsburgh, PA","Male
+"
+LeiWang199901,WangLei,user,True,Peking,"Male
+"
+chanrom,Qianrong ZHOU,user,False,,"Unknown
+"
+dongh11,Hang Dong,user,False,,"Unknown
+"
+teb016200,Tim Bellay,user,False,,"Male
+"
+rybae,Ryan Bae,user,False,,"Male
+"
+Youssef320,Youssef Mohamed,user,False,,"Male
+"
+tikwanleap,Sam Lee,user,False,,"Unknown
+"
+minstrelsy,Minstrel Chiu,user,True,"Taipei, Taiwan","Unknown
+"
+rsen23,Rathijit Sen,user,False,,"Male
+"
+ShonShah,Shon Shah,user,False,,"Unknown
+"
+grsgth,Zhihao Wang,user,False,,"Male
+"
+prajwal007,rao,user,False,,"Male
+"
+Garfield2333,Hang Li,user,False,,"Unknown
+"
+ybtx,Nathan,user,True,Beijing,"Male
+"
+yzhao33,Yong  Zhao,user,False,,"Male
+"
+morrissharp,Morris Sharp,user,True,,"Male
+"
+ysliu,Yue-Sheng Liu,user,False,,"Unknown
+"
+Chauncygu,Gu,user,False,,"Unknown
+"
+yufanhuang,yufanhuang,user,True,,"Unknown
+"
+mogabr11,Mohamed Gabr`,user,False,,"Male
+"
+wenxxx,Wen Xiao,user,True,Vancouver,"Unknown
+"
+zengfung,Zeng Fung Liew,user,True,"Bellevue, WA","Unknown
+"
+Vishwas125,Vishwas Sreevalli Ramamohan,user,False,,"Unknown
+"
+sudmukh,Sudipto Mukherjee,user,False,,"Male
+"
+gaspardshen,Gaspard Shen,user,False,,"Male
+"
+asthaa29,Astha Agarwal,user,False,,"Female
+"
+CoolWP,Liang,user,True,"Beijing, China","Male
+"
+Hchyeria,Hchyeria Ackerman,user,False,,"Unknown
+"
+ravi-msri,Ravisri Valluri,user,False,,"Unknown
+"
+dzie,dzie,user,False,,"Unknown
+"
+ahmedsza,Ahmed Salijee,user,False,,"Male
+"
+Katsuton,Fabrizio Barcaroli,user,True,,"Male
+"
+rimod,ritesh modi,user,False,,"Male
+"
+giwebb,Giovannie Webb,user,True,,"Unknown
+"
+zhangchuheng123,ZhangChuheng,user,False,,"Male
+"
+pjirsa,Phil Jirsa,user,True,Minnesota,"Male
+"
+cassieesvelt,Cassie Esvelt,user,True,,"Female
+"
+ssh412,Srishti Agarwal,user,False,,"Female
+"
+kaliang,"Liang, Kai (kaliang)",user,False,,"Male
+"
+dmakhervaks-msft,Dave Makhervaks,user,False,,"Male
+"
+adama323,Adam Alidra,user,False,,"Unknown
+"
+ssjsshssj,Shen Shijun,user,False,,"Male
+"
+Josh912,JG,user,False,,"Unknown
+"
+waaldred,Warren,user,False,,"Male
+"
+amrsharaf,Amr Sharaf,user,True,,"Male
+"
+fjxmlzn,Zinan Lin,user,True,"Redmond, Washington, US","Unknown
+"
+ApriLie,Xu Chen,user,False,,"Unknown
+"
+kewlhug,Aman Taneja,user,False,,"Male
+"
+GuyBourne,Guy Bourne,user,True,"Manchester, UK","Male
+"
+mwyatt,Michael Wyatt,user,False,,"Male
+"
+foxydudej,Matthew Jin,user,False,,"Male
+"
+Fuheng,Z,user,False,,"Unknown
+"
+tammany,Tammany Grant,user,False,,"Unknown
+"
+kailu,Kai Lu,user,True,,"Unknown
+"
+Santanor,Jose,user,True,London,"Male
+"
+gulatikunal,kunal gulati,user,False,,"Male
+"
+tabryant,Taylor Bryant,user,False,,"Unknown
+"
+mollysm,Molly Smith,user,False,,"Female
+"
+tnbwilson,Brad Wilson,user,False,,"Male
+"
+aidenygu,Yu Gu,user,False,,"Unknown
+"
+Mengyu817,Liu,user,False,,"Unknown
+"
+hobengil,Gil Hoben,user,False,,"Unknown
+"
+pcameron,Pashmina Cameron,user,False,,"Female
+"
+stevegriffith,Steve Griffith,user,True,,"Male
+"
+amanoel,Andre Manoel,user,True,,"Male
+"
+poojareddy,Pooja Reddy,user,False,,"Female
+"
+WeiXu1,WeiXu,user,False,,"Male
+"
+Harkirat,Harkirat Behl,user,True,Oxford,"Male
+"
+NItroAMD,Jako,user,True,Munich,"Male
+"
+joa-stdn,Joachim S,user,False,,"Male
+"
+nohanaga,Nobusuke Hanagasaki,user,True,,"Male
+"
+yunmo-msft,Yunmo Chen,user,False,,"Unknown
+"
+prashagupta,Prashant Gupta,user,False,,"Male
+"
+cloudhan,cloudhan,user,True,,"Unknown
+"
+TusharAggarwalMSR,Tushar Aggarwal,user,True,,"Male
+"
+haofang-msft,Hao Fang,user,False,,"Male
+"
+peixuan,zuo,user,False,,"Unknown
+"
+cb-ms,CB,user,False,,"Unknown
+"
+rui-ye,Rui Ye,user,False,,"Unknown
+"
+nicaurvi,Nick,user,False,,"Unknown
+"
+baxonmsft,Bryan Xia,user,False,,"Male
+"
+zhoupn138,Peng Zhou,user,False,,"Male
+"
+flopzoid,Brandon Brandon Clark,user,True,,"Male
+"
+cedelbar,César del Barrio,user,False,,"Male
+"
+jdugan,Jim Dugan,user,True,,"Male
+"
+RGeez,Radhika Gaonkar,user,True,Seattle,"Female
+"
+Micacle,Yuanyuan Xu,user,False,,"Female
+"
+asklar,Alexander Sklar,user,True,"Redmond, WA","Male
+"
+kevinhsieh,Kevin Hsieh,user,False,,"Male
+"
+antoniomanug,Antonio Goncalves,user,False,,"Male
+"
+ty274,Takuya Yoshioka,user,True,,"Male
+"
+tarungupta,Tarun,user,False,,"Unknown
+"
+jjoy83,Joy Plakkuzhyil,user,True,,"Female
+"
+liqzhang,Li Zhang,user,False,,"Unknown
+"
+hefengjiang,Hefeng Jiang,user,False,,"Male
+"
+SathiyaMani,Sathiya Kumaran Mani,user,False,,"Male
+"
+mtg01,Golub,user,False,,"Unknown
+"
+mamesmak,Maral Mesmakhosroshahi,user,False,,"Female
+"
+selimslab,Selim,user,True,,"Unknown
+"
+Akanpatel,Akanksha Patel,user,False,,"Female
+"
+mjwang,Mingjie Wang,user,False,,"Male
+"
+jeremydelacruz,Jeremy De La Cruz,user,True,"New York, New York","Male
+"
+gurukir,GK,user,False,,"Unknown
+"
+mrxindc,John S,user,False,,"Unknown
+"
+adanortiz,Adan Ortiz,user,False,,"Male
+"
+Wertyyyyy,Wertyyyy,user,False,,"Unknown
+"
+dnissani,Daniel Nissani,user,False,,"Male
+"
+sahuja,Sanchit Ahuja,user,True,,"Male
+"
+vvishwanath,V T Vishwanath,user,True,,"Unknown
+"
+rochakchadha,Rochak Chadha,user,False,,"Male
+"
+AiRak-MSFT,Aishik Rakshit,user,True,,"Male
+"
+yufengli,"Li, Yufeng",user,False,,"Unknown
+"
+lmazuel,Laurent Mazuel,user,True,"Redmond, WA, USA","Male
+"
+Tanmoyr,Tanmoy Rajguru,user,False,,"Male
+"
+cdonlan,Chris,user,False,,"Unknown
+"
+vejreij,Vennessa Hopson,user,True,,"Female
+"
+digitarald,Harald Kirschner,user,True,US,"Male
+"
+likeying27,Lisa Li,user,False,,"Female
+"
+robcaron,Rob Caron,user,False,,"Male
+"
+corbyrosset,corby,user,False,,"Unknown
+"
+Soubhi,Soubhi Hadri,user,False,,"Male
+"
+davidluongmicrosoft,david luong,user,False,,"Male
+"
+piyushmicrosoft,Piyush Behre,user,False,,"Male
+"
+robertomest,Roberto Estevão,user,True,,"Male
+"
+ahmedalm,Ahmed Almushtaghil,user,False,,"Male
+"
+edmiller,Ed Miller,user,False,,"Male
+"
+dwbcz,Jie Cao,user,False,,"Unknown
+"
+caihangji,Yanyang Xu,user,True,,"Unknown
+"
+neilatmsft,Neil Tenenholtz,user,False,,"Male
+"
+bhawnapaliwal,Bhawna Paliwal,user,False,,"Female
+"
+lmwilki,Liam Wilkinson,user,True,United Kingdom,"Male
+"
+7vikmsri,Golechha Satvik,user,False,,"Male
+"
+galahaddad,Ralph Haddad,user,True,Seattle,"Male
+"
+YasserAsmiMS,Yasser Asmi,user,False,,"Male
+"
+aycabas,Ayca Bas,user,True,Dubai,"Female
+"
+nfusi,Nicolo Fusi,user,False,,"Male
+"
+ayush285,Ayush Garg,user,False,,"Male
+"
+jovance,Jonathan Ve Vance,user,False,,"Male
+"
+JasonTheDeveloper,Jason,user,False,,"Male
+"
+bibuwei1,Wei Bi,user,True,,"Unknown
+"
+sagnikmsft,Sagnik Mukherjee,user,False,,"Male
+"
+xuehui1991,Hui Xue,user,False,,"Unknown
+"
+joaochaves,Joao Chaves,user,False,,"Male
+"
+nikeshot,Niketan Rane,user,False,,"Male
+"
+dtolosan,David Tolosana,user,True,,"Male
+"
+loriszhang,Loris zhang,user,False,,"Unknown
+"
+memoryleek,Matthew  Fortunka,user,True,UK,"Male
+"
+huseyinatahaninan,Huseyin Atahan Inan,user,True,"Redmond, US","Male
+"
+bl1900,Bing Li,user,False,,"Unknown
+"
+mustafaali,Mustafa Ali,user,False,,"Male
+"
+ishaansehgal99,Ishaan Sehgal,user,False,,"Male
+"
+hyx100e,Yuxuan Hu,user,False,,"Unknown
+"
+sravanthim,Sravanthi M,user,False,,"Female
+"
+Chuanchang,Chuanchang Chen,user,False,,"Male
+"
+Keyeqing,yeke,user,False,,"Unknown
+"
+damajercakms,David Majercak,user,False,,"Male
+"
+samelhousseini,Samer El Housseini,user,False,,"Male
+"
+apoorva19msft,Apoorva Agrawal,user,False,,"Unknown
+"
+akmallip,Akshay Mallipeddi,user,False,,"Male
+"
+kaaaaaaaa,onu,user,False,,"Unknown
+"
+arturoqu,Arturo Quiroga,user,True,,"Male
+"
+achoubey,Arjun Choubey,user,False,,"Male
+"
+philippwitte,Philipp Witte,user,True,"Seattle, WA","Male
+"
+zenian,zenian chen,user,False,,"Unknown
+"
+AwsomeTofu,John Zhu,user,False,,"Male
+"
+raja-gond,Raja Gond,user,True,IIT Bombay,"Male
+"
+mynjj,Diego Joshua Martínez Pineda,user,False,,"Male
+"
+jomayeri,Joe Mayer,user,True,,"Male
+"
+RashiBhave,Rashi Bhave,user,False,,"Female
+"
+RamonArjona,Ramon Arjona,user,False,,"Male
+"
+madhavd,Madhav D,user,True,Redmond,"Male
+"
+thorthunder,Thor Thunder,user,False,,"Male
+"
+VigneshwarIlango,VIGNESHWAR ILANGO,user,False,,"Male
+"
+insanjeev,kumar,user,False,,"Unknown
+"
+Ridhima17,Ridhima Nagar,user,False,,"Female
+"
+szanella,Santiago Zanella-Beguelin,user,True,"Cambridge, UK","Male
+"
+rungtamukund,Mukund Rungta,user,False,,"Male
+"
+mschxfly,Xu Chen,user,False,,"Unknown
+"
+sau-1452,saumya p,user,False,,"Female
+"
+sramayanam,Sree Ramayanam,user,True,"Frisco, Texas","Male
+"
+drjinying,Ying Jin,user,False,,"Unknown
+"
+chaojwang,Chaojun Wang,user,False,,"Unknown
+"
+likunms,Kun Li,user,False,,"Male
+"
+msramuzic,msramuzic,user,False,,"Unknown
+"
+alexhocking,hocking,user,False,,"Unknown
+"
+haoyulms,haoyulms,user,False,,"Unknown
+"
+davesee,Dave Seepersad,user,True,"Miami, FL","Male
+"
+Abhinav11,Abhinav Meena,user,False,,"Male
+"
+mpmsft,Miseon Park,user,False,,"Female
+"
+rizhao,Ritchie Zhao,user,True,"Redmond, WA","Male
+"
+natke,Nat Kershaw,user,True,,"Unknown
+"
+AdrianGonzalezSanchez,Adrian Gonzalez Sanchez,user,True,"Montreal, Canada","Male
+"
+dhawanmudit,Mudit Dhawan,user,False,,"Male
+"
+ylacombe,Yoach Lacombe,user,True,,"Unknown
+"
+lysandre,Lysandre,user,True,Paris,"Male
+"
+ngupta-microsoft,Nayan Gupta,user,False,,"Male
+"
+TolliF,Tolli Forker,user,True,"Redmond, WA","Unknown
+"
+sdk-ms,Kulkarni,user,True,Berkeley,"Unknown
+"
+lokinfey,lokinfey,user,True,China,"Unknown
+"
+anuragsirish,Anurag Karuparti,user,False,,"Male
+"
+BenColemanUK,Ben Coleman,user,True,"London, UK","Male
+"
+htaylorms,HenryTaylor,user,False,,"Male
+"
+hajili,Mammad Hajili,user,True,"Seattle, WA","Male
+"
+willstanley,Will Stanley,user,False,,"Male
+"
+deonchen,chen,user,False,,"Unknown
+"
+rdodhia,Rahul Dodhia,user,False,,"Male
+"
+NaokiWake,Wake,user,True,,"Unknown
+"
+2Pi,Nico Sprotti,user,False,,"Unknown
+"
+dnreid,Dustin Reid,user,False,,"Male
+"
+fweninger,Felix Weninger,user,False,,"Male
+"
+mirtao,Miranda Tao,user,False,,"Female
+"
+shansin,Shan Singh,user,False,,"Unknown
+"
+daiqi,Qi Dai,user,False,,"Unknown
+"
+rkbairi,Ramakrishna B Bairi,user,False,,"Male
+"
+yxixyx,Xin Yong,user,False,,"Unknown
+"
+niharag,Nihar Agrawal,user,False,,"Male
+"
+jameschao,James Chao,user,True,,"Male
+"
+linndaqun,Linda Li,user,False,,"Female
+"
+utkarshagarwal,Utkarsh Agarwal,user,True,,"Male
+"
+fcabrera23,Francisco Cabrera,user,True,"Redmond, WA","Male
+"
+fegu,Federico Gutierrez,user,False,,"Male
+"
+bojunehsu,Paul Hsu,user,False,,"Male
+"
+shivamsi,Shivam,user,False,,"Male
+"
+taaviv,Tal Aviv,user,False,,"Unknown
+"
+leonangel991,Shuaiwen Leon Song,user,False,,"Male
+"
+www-msft,WenwenWang,user,False,,"Female
+"
+JoLarso,Jonathan,user,False,,"Male
+"
+thomasartin,Thomas Artin,user,False,,"Male
+"
+idamomen,Ida,user,True,NYC,"Female
+"
+mtanaka,Masahiro Tanaka,user,False,,"Male
+"
+jdubois,Julien Dubois,user,True,"Suresnes, France","Male
+"
+samadejacobs,Sam Ade Jacobs,user,True,San Francisco Bay Area,"Male
+"
+DB-MS,DB MS,user,False,,"Unknown
+"
+farzad528,Farzad Sunavala,user,True,United States,"Male
+"
+Reshmarahim,Rahim,user,True,"Boston, Massachusetts","Male
+"
+dasommermsft,Dan Sommerfield,user,False,,"Male
+"
+microallie,Allie Del Giorno,user,False,,"Female
+"
+ThomasR,Thomas Roca,user,False,,"Male
+"
+roneneldan,Ronen Eldan,user,False,,"Male
+"
+ettores,Ettore Esposito,user,True,Italy,"Male
+"
+joszyman,Joe Szymanski,user,False,,"Male
+"
+sehajduggal,Sehaj Duggal,user,False,,"Unknown
+"
+VladFeigin,Feigin,user,True,,"Unknown
+"
+pruthvi1990,Pruthvi Gowda Thorehosur Appajigowda,user,False,,"Male
+"
+weng5e,Wuyi Weng,user,False,,"Unknown
+"
+VictoriNar,Nara V,user,True,Redmond,"Unknown
+"
+WeizhenQiMS,Weizhen Qi,user,False,,"Unknown
+"
+zhibin-msft,Zhibin Gou (alt),user,True,Beijing,"Male
+"
+Tuowei,Tuowei Wang,user,False,,"Male
+"
+shubham2,Shubham,user,False,,"Male
+"
+damaggio,Daniele Antonio Maggio,user,False,,"Male
+"
+trosemplatt,Thibo Rosemplatt,user,True,,"Male
+"
+bosunhit,Bo Sun,user,False,,"Unknown
+"
+arthurchzi,Arthur C,user,True,,"Unknown
+"
+aditya2803,Aditya Ravishankar,user,False,,"Male
+"
+atveit,Amund Tveit,user,True,"Trondheim, Norway","Male
+"
+shlevi,shai,user,False,,"Unknown
+"
+shaahji,HS,user,False,,"Unknown
+"
+bkgoksel-msft,Bogac Kerem Goksel,user,False,,"Male
+"
+rsinha94,Rohan S,user,False,,"Unknown
+"
+fninaparavecino,Fanny Nina Paravecino,user,True,,"Female
+"
+Catbert75,Stefano Causarano,user,False,,"Male
+"
+davidwei111,davidwei,user,False,,"Male
+"
+hgamper,Hannes Gamper,user,True,Redmond,"Male
+"
+benmael,Benjamin Elizalde,user,True,Redmond,"Male
+"
+ischakra,Ishani,user,False,,"Female
+"
+yananx,yananxing,user,False,,"Unknown
+"
+raghosh,Rahee Peshawaria,user,True,,"Unknown
+"
+guyang3532,yangu,user,False,,"Unknown
+"
+multimodalart,Apolinário from multimodal AI art,user,True,,"Male
+"
+daalvare,David Alvarez Melis,user,False,,"Male
+"
+yifan666,yifanxia,user,False,,"Unknown
+"
+ynaggar,Youssef Naggar,user,False,,"Male
+"
+kshama-msft,Kshama Pawar,user,True,,"Female
+"
+lmanchikanti,Likhita Manchikanti,user,False,,"Female
+"
+devang-ml,Devang Patel,user,False,,"Male
+"
+mchen-ms-2023,Chen,user,False,,"Male
+"
+jimengsun,jimengsun,user,False,,"Male
+"
+deeptimhe,Tianyu He,user,True,"Beijing, China","Male
+"
+hkotesova,Hanna Kotesova,user,False,,"Female
+"
+pragmatical,Jorge Luna,user,True,"Austin, TX","Male
+"
+danmar,Dan Marshall,user,False,,"Male
+"
+lennartc,lennart conrad,user,False,,"Male
+"
+tianmingww,"Wu, Tianming (v-tianmingwu)",user,False,,"Male
+"
+v-zaifengpan,Zaifeng Pan,user,False,,"Unknown
+"
+gauravkolhe,Gaurav KOlhe,user,False,,"Male
+"
+ryanhill,Ryan Hill,user,True,,"Male
+"
+ChandlerBon,Wang You,user,False,,"Male
+"
+absuresh,Abhishek Suresh,user,False,,"Male
+"
+MayanaW,Mayana Pereira,user,False,,"Female
+"
+mojanjp,Mojan Javaheripi,user,True,United States,"Female
+"
+giladkir,gilad kirshenboim,user,False,,"Male
+"
+Bhavanat21,Bhavana Tumma,user,False,,"Female
+"
+rogerdis,Robert Gerdisch,user,True,,"Male
+"
+matdun,Matthew Duncan,user,False,,"Male
+"
+rprabhu191001,ramya,user,False,,"Female
+"
+curtisman,Curtis,user,False,,"Male
+"
+saemaleki,Saeed Maleki,user,False,,"Male
+"
+mattmazzola,Matthew Mazzola,user,True,"Seattle, WA","Male
+"
+AndreasHassing,Andreas Hassing,user,True,Denmark,"Male
+"
+marcomontaltom,Marco Montalto Monella,user,True,"Menlo Park, CA","Male
+"
+mofista,F,user,False,,"Unknown
+"
+Mosh88,Moshik Mishaeli,user,False,,"Male
+"
+subhroroy,Subhro Roy,user,False,,"Male
+"
+xinyangli,Xinyang Li,user,True,"Wuhan/Beijing, China","Unknown
+"
+addi-green,Aditi Singh,user,False,,"Female
+"
+cp5555,Peng Cheng,user,True,"Beijing, China","Unknown
+"
+Apdow,Weihan Wang,user,False,,"Male
+"
+MikeB123,Mike Boulton,user,False,,"Male
+"
+conetti19,Dermot Connolly,user,False,,"Male
+"
+elena-pochernina,Elena Pochernina,user,True,,"Female
+"
+maddx,Mandar,user,False,,"Unknown
+"
+soham97,Soham Deshmukh,user,True,Redmond,"Male
+"
+moeinalmasi,Moein Almasi,user,True,"Montreal, Canada","Male
+"
+yegong,Yeyun Gong,user,False,,"Unknown
+"
+edward-chen-msft,Edward Chen,user,False,,"Male
+"
+saelfeki,Sami El Fekih,user,False,,"Male
+"
+skottmckay,Scott McKay,user,True,Australia,"Male
+"
+SayakRC,Sayak Ray Chowdhury,user,False,,"Male
+"
+jatuckems,Jason Tucker,user,False,,"Male
+"
+yinincanada,Yan Yin,user,False,,"Unknown
+"
+sheng1105,zhao,user,False,,"Unknown
+"
+sfakhoury,Sarah Fakhoury,user,True,,"Female
+"
+danmamsft,Dan Ma,user,False,,"Male
+"
+tkeller,Thomas Keller,user,False,,"Male
+"
+myshkov,Pavel Myshkov,user,False,,"Male
+"
+tjstankovic,Tamara Stankovic,user,False,,"Female
+"
+wenbingMS,Wenbing Li,user,False,,"Unknown
+"
+jmatthiesen,Jordan Matthiesen,user,True,,"Male
+"
+Muniyal,Mansi Uniyal,user,False,,"Female
+"
+am94,Avi Mehta,user,False,,"Male
+"
+parinitarahi,Parinita Rahi,user,True,,"Female
+"
+petermcaughan,Peter McAughan,user,True,,"Male
+"
+vigneshsh,Vignesh,user,False,,"Male
+"
+Lingxx,Lingx He,user,False,,"Unknown
+"
+louly,louly,user,True,United States,"Unknown
+"
+fhz,Fanghao Zhou,user,False,,"Male
+"
+bhsingh,Bhavyajeet,user,False,,"Male
+"
+zhenggq,Guoqing Zheng,user,False,,"Male
+"
+pebryan,Pete Bryan,user,False,,"Male
+"
+leoxiaobin,Bin Xiao,user,True,Bellevue,"Male
+"
+be4triz,Beatriz,user,False,,"Female
+"
+hamedkhanpour,Hamed Khanpour,user,True,,"Male
+"
+shmahaj,Shweti Mahajan,user,True,,"Female
+"
+clarisses,Simoes,user,False,,"Unknown
+"
+ari9dam,Arindam Mitra,user,True,United States,"Male
+"
+lucianodelcorro,Luciano Del Corro,user,True,,"Male
+"
+YueningChen,Yuening Chen,user,False,,"Unknown
+"
+aciddelgado,Alejandro Cid,user,True,,"Male
+"
+MoAshtari,Mo Ashtari,user,False,,"Unknown
+"
+ashishpanwar,Ashish Panwar,user,False,,"Male
+"
+andrescodas,Andres Codas,user,True,Brazil,"Male
+"
+Supriyog,Supriyo Ghosh,user,False,,"Male
+"
+Wei-ge,Chen,user,True,,"Unknown
+"
+vladimirlyapunov,Vladimir Lyapunov,user,False,,"Male
+"
+hamidpalangi,Hamid Palangi,user,False,,"Male
+"
+AhmedAwadallah,Ahmed Awadallah,user,True,,"Male
+"
+aarora4,Avi Arora,user,False,,"Male
+"
+v-xinyihe,Xinyi He,user,False,,"Female
+"
+sebubeck,Sebastien Bubeck,user,False,,"Male
+"
+beardeddatascientist,Vishnu Muralidharan,user,False,,"Male
+"
+zhangzhao219,Zhao Zhang,user,False,,"Unknown
+"
+frankiew,Frankie Wu,user,False,,"Unknown
+"
+Eestevao,Elias Estevao,user,False,,"Male
+"
+jayswright,Jay Wright,user,False,,"Male
+"
+flomader,Florian Mader,user,True,,"Male
+"
+chrisdMSFT,Chris Dern,user,True,Colorado,"Male
+"
+JustinFirsching,Justin Firsching,user,True,"Rome, NY","Male
+"
+antonsc,Anton Schwaighofer,user,True,"Cambridge, UK","Male
+"
+chaitu1385,Krishna Chaitanya Sanka,user,False,,"Male
+"
+srikantvv,Srikant,user,False,,"Male
+"
+yossiasher,Yossi Asher,user,False,,"Male
+"
+brandwe,Brandon Werner,user,True,,"Male
+"
+Yusuken,Yusuke Noda,user,False,,"Male
+"
+chmis,chinmaya Mishra,user,False,,"Unknown
+"
+samrc,Sam Cundall,user,False,,"Unknown
+"
+Ztarkhani,Zahra Tarkhani,user,True,,"Female
+"
+t-shaurysrivastav,Shaury,user,False,,"Male
+"
+sayanshaw,Sayan Shaw,user,True,Bellevue,"Male
+"
+stratidm-msft,Dmitry Stratiychuk,user,False,,"Male
+"
+whoStoleMyAbs,Yi Liu,user,False,,"Unknown
+"
+mdavoodi90,Davoodi,user,False,,"Unknown
+"
+cknithin,Krishna Nithin,user,False,,"Male
+"
+fbenavidesj,Felipe Benavides,user,False,,"Male
+"
+cmaneu,Christopher MANEU,user,True,France,"Male
+"
+katrinacruz,Katrina Cruz,user,False,,"Female
+"
+jingciii,Jingci W,user,False,,"Unknown
+"
+fullmetaldr,Marco Caballero,user,False,,"Male
+"
+rybal,Andrey Rybalchenko,user,False,,"Male
+"
+GregJMiller,Miller,user,False,,"Unknown
+"
+takashimori,Takashi Mori,user,True,,"Male
+"
+chrmarti,Christof Marti,user,False,,"Male
+"
+zixia,tang,user,False,,"Unknown
+"
+BruceCui123,Xingqi,user,False,,"Unknown
+"
+johnmont,John Montgomery,user,True,Seattle,"Male
+"
+Bahars,Bahareh Sarrafzadeh,user,False,,"Female
+"
+iamramengirl,MRvra,user,True,Japan,"Unknown
+"
+MiguelC,Miguel Caldas,user,False,,"Male
+"
+crpresti,Craig Presti,user,False,,"Male
+"
+yukirora,jiang,user,False,,"Unknown
+"
+arashb,Arash Bakhtiari,user,True,,"Male
+"
+psycook,Simon Cook,user,True,Crowborough,"Male
+"
+yiweiding,Yiwei Ding,user,False,,"Unknown
+"
+danfiedler,Dan Fiedler,user,False,,"Male
+"
+RobinLester,Robin Lester,user,False,,"Unknown
+"
+sujayvittal,Vittal,user,True,Seattle,"Male
+"
+MasterVito,Xiao Liang,user,False,,"Male
+"
+yangwang92,YangWang92,user,True,,"Unknown
+"
+nmalcolm,Nikola Malcolm,user,False,,"Unknown
+"
+mmoskal,Michal Moskal,user,True,"Seattle, WA, USA","Male
+"
+antonslutskyms,Anton Slutsky,user,False,,"Male
+"
+lquint,Luis Quintanilla,user,False,,"Male
+"
+weish,Weishung Liu ,user,False,,"Male
+"
+DarshKodwani,Darsh Kodwani,user,False,,"Unknown
+"
+makei-ms,Mark Keinz,user,False,,"Male
+"
+gcherubin,G,user,False,,"Unknown
+"
+qmatteoq,Matteo Pagani,user,True,Como,"Male
+"
+ThomasMsft,Thomas Tay,user,False,,"Male
+"
+Cheeeeetah,Xin Wu,user,False,,"Unknown
+"
+yujiechen,yujie,user,False,,"Unknown
+"
+harishkondreddy,Harish Kondreddy,user,False,,"Male
+"
+pejarvis,Peter Jarvis,user,False,,"Male
+"
+ayloo,Kalyan Ayloo,user,False,,"Male
+"
+niksac,Nikhil Sachdeva,user,True,New York,"Male
+"
+shayben,Shay Ben-Elazar,user,True,Israel,"Male
+"
+ali-khawaja,Ali Khawaja,user,True,,"Male
+"
+moomoohorseMSaccount,Hao Ren,user,False,,"Male
+"
+t-prpesic,Predrag Pesic,user,True,,"Male
+"
+saurabh85,Saurabh Kumar,user,False,,"Male
+"
+paulche,Paul Cherbin,user,False,,"Male
+"
+amitash1983,Amit Ashkenazi,user,False,,"Male
+"
+amarcuss-ms,Aidan Marcuss,user,False,,"Male
+"
+NaveenNeoG,NaveenG,user,False,,"Male
+"
+wenxcs,Wenxiang Hu,user,False,,"Unknown
+"
+Swaxt,SWATI TIWARI,user,False,,"Female
+"
+sethmsft,Seth P,user,False,,"Male
+"
+sasikmsft,Sasidhar K,user,False,,"Male
+"
+gauravms,Gaurav Agrawal,user,False,,"Male
+"
+SiyunZhao,Siyun,user,False,,"Unknown
+"
+reshmighosh,Reshmi Ghosh,user,True,"Cambridge, MA","Female
+"
+swatisharma4,Swati Sharma,user,False,,"Female
+"
+cgray37,Charles Gray,user,False,,"Male
+"
+paolocastaway,Paolo Castaldi,user,False,,"Male
+"
+yancao6,Yang Cao,user,False,,"Unknown
+"
+shriyabansal,Shriya Bansal,user,False,,"Female
+"
+vivram,Vivek Ramaswamy,user,False,,"Male
+"
+bapatra,Barun,user,True,"Redmond, WA","Male
+"
+vishravmsft,Vishrav Chaudhary,user,True,,"Male
+"
+umchand,Umesh Chand,user,False,,"Male
+"
+LenkB,Elena Badmaeva,user,False,,"Female
+"
+HrishikeshGeed,Hrishikesh Geed,user,False,,"Male
+"
+micheleen,Micheleen Harris,user,True,,"Female
+"
+dsadula,D,user,False,,"Unknown
+"
+alahoho,yi,user,False,,"Unknown
+"
+Preyas-work,Preyas Shah,user,False,,"Male
+"
+TejasL,TEJAS LUNAWAT,user,False,,"Male
+"
+csiska,Charlotte Siska,user,False,,"Female
+"
+cloudynerd,Michael Hansen,user,True,United States,"Male
+"
+begeorge,ben george,user,False,,"Male
+"
+choudharykartik,Kartik Choudhary,user,True,Saharanpur UP,"Male
+"
+adossantos92,Alexandre Dos Santos,user,False,,"Male
+"
+TejasLokesh,Tejas Lokesh,user,False,,"Male
+"
+walleyuan,zhen yuan,user,False,,"Unknown
+"
+saksham20aggarwal,Saksham Aggarwal,user,False,,"Male
+"
+annaroth,Anna Roth,user,True,,"Female
+"
+sambt,Sam Bond-Taylor,user,True,Cambridge,"Male
+"
+anushkini,Anush Kini,user,False,,"Unknown
+"
+dmitrykats,Dmitry Kats,user,False,,"Male
+"
+jesse-msft,Jesse Lopez,user,True,,"Unknown
+"
+ruqianchen,Ruqian Chen,user,False,,"Unknown
+"
+Akshi19999,Akshita Agarwalla,user,False,,"Female
+"
+thiagocrepaldi,Thiago,user,True,"Orlando, FL","Male
+"
+vfragoso,Victor Fragoso,user,True,"Seattle, WA","Male
+"
+weliu,Wei Liu,user,False,,"Unknown
+"
+hybrideclipse,Shaheed Chagani,user,False,,"Unknown
+"
+xxyyzzz,Sam Kemp,user,False,,"Male
+"
+shenchauhan,Shen Chauhan,user,True,,"Unknown
+"
+dauglus,Xinzheng Hu,user,False,,"Unknown
+"
+jolivares,Jorge Olivares Garza,user,False,,"Male
+"
+priagra,Pritesh Agrawal,user,False,,"Male
+"
+Jameshensman,James Hensman,user,False,,"Male
+"
+alexo45,Alex O,user,False,,"Unknown
+"
+BB9740,Bharath,user,False,,"Unknown
+"
+riedgar-ms,Richard Edgar,user,False,,"Male
+"
+AdinaStoll,Adina Stoll,user,False,,"Female
+"
+hspenc,Hannah Spencer,user,False,,"Female
+"
+sebgrange,sebastien grange,user,False,,"Male
+"
+alant24,Alan,user,False,,"Male
+"
+poorniks,PS,user,False,,"Unknown
+"
+H4rrY123,Harry Nayyar,user,False,,"Unknown
+"
+cliang1453,Chen Liang,user,True,,"Male
+"
+NightelfMohawk,Mr. T,user,False,,"Male
+"
+Doris77,Xinran Tao,user,False,,"Unknown
+"
+tsongms,tsong,user,False,,"Unknown
+"
+stefanstranger,Stefan Stranger,user,True,Netherlands,"Male
+"
+LeilaY59,Leila Yang,user,False,,"Female
+"
+bambamcito,David Aponte,user,True,NYC,"Male
+"
+cpaquin,Christian Paquin,user,False,,"Male
+"
+youthamj,Youtham Joseph,user,True,,"Unknown
+"
+malmiller,Malcolm Miller,user,True,"Atlanta, GA","Male
+"
+beijiez,Beijie Zhang,user,False,,"Unknown
+"
+sstulman,Samuel Stulman,user,False,,"Male
+"
+alonbenhaim,Alon Benhaim,user,False,,"Male
+"
+kchen822,Kelvin Chen,user,False,,"Male
+"
+michaelva,Michael Vanden Heuvel,user,False,,"Male
+"
+kimiamavon,kimia mavon,user,False,,"Female
+"
+esgraham,Elizabeth Graham,user,False,,"Female
+"
+chrisromp,Chris Romp,user,True,"San Francisco, CA","Male
+"
+hybae,Wayne Bae,user,False,,"Unknown
+"
+ypei2,Yu Pei,user,False,,"Unknown
+"
+larsliden,Lars Liden,user,True,"Seattle, WA","Male
+"
+joannaleecy,Joanna Lee,user,False,,"Female
+"
+alisanjabi,Ali Sanjabi,user,False,,"Unknown
+"
+xieyujia,Yujia Xie,user,False,,"Unknown
+"
+ChrisTardif,Chris Tardif,user,False,,"Male
+"
+dawnmsg,Shaoguang Mao,user,False,,"Male
+"
+Liberion,Boyuan Li,user,False,,"Male
+"
+amranade,Ameya Ranade,user,False,,"Unknown
+"
+JawAmin,Jawad Amin,user,False,,"Male
+"
+BroccoliDuck,Nelson,user,False,,"Male
+"
+gabland,Gareth Bland,user,False,,"Male
+"
+rweinstein,Rachel Weinstein,user,False,,"Female
+"
+annaMS,Anna Kozicka,user,False,,"Female
+"
+mgagne,Marc,user,False,,"Male
+"
+vlgd,Haotong Bao,user,False,,"Male
+"
+thopo,Thomas Portet,user,False,,"Male
+"
+amuellerml,Andreas Mueller,user,True,Los Gatos,"Male
+"
+alvinash,Alvin Ashcraft,user,True,"Pennsylvania, USA","Male
+"
+mikkeyboi,Michael Leung,user,False,,"Male
+"
+shaipeerms,Shai Pe'er,user,False,,"Unknown
+"
+tgokal,Thasmika Gokal,user,False,,"Female
+"
+shabirgrover,Shabir Grover,user,False,,"Male
+"
+pedroespinoza,Pedro A Espinoza,user,True,Dallas,"Male
+"
+xpillons,Xavier Pillons,user,True,France,"Male
+"
+leventozgurms1,Levent Ozgur,user,False,,"Male
+"
+LeeStott,Lee Stott,user,True,WorldWide,"Male
+"
+mmilunovic,Milos Milunovic,user,True,serbia,"Male
+"
+SteveSanderson,Steve,user,False,,"Male
+"
+alaudo,Alexander Galkin,user,True,"Hamburg, Germany","Male
+"
+abgoswam,Abhishek GOSWAMI,user,True,Seattle,"Male
+"
+AmiHollander,Hollander,user,True,,"Unknown
+"
+ishidahra,Hiroaki Ishida,user,False,,"Male
+"
+MarioMoeller,Moeller,user,False,,"Unknown
+"
+craigloewen-msft,Craig Loewen,user,False,,"Male
+"
+KKChoi,Kaylen Cai,user,False,,"Unknown
+"
+mameht,Manish Mehta,user,True,,"Male
+"
+jfrei86,Jesse Freitas,user,True,"Seattle, WA","Male
+"
+kimizhu,Kimi Zhu,user,False,,"Female
+"
+nbcsm,Guoliang Hua,user,False,,"Male
+"
+wl1234,Wenqing Lan,user,False,,"Unknown
+"
+jovaneen,Joel Van Eenwyk,user,True,,"Male
+"
+daweicai,daweicai,user,True,SZ,"Unknown
+"
+cc20240222,cc,user,False,,"Unknown
+"
+xinlaoda,Xin Xin,user,False,,"Female
+"
+wutaomsft,Tao Wu,user,False,,"Unknown
+"
+alex1019,Alex Sanchez,user,False,,"Male
+"
+ShilinZz,Zhan,user,False,,"Unknown
+"
+alejandra74,Alejandra Inga,user,False,,"Female
+"
+xiha,Xiaoxi Han,user,False,,"Female
+"
+nieubank,Nick Eubanks,user,True,"Tallahassee, FL","Male
+"
+ralbano,Roberto Albano,user,False,,"Male
+"
+mattvc,Matt Vestengen-Cox,user,True,"Oslo, Norway","Male
+"
+ejulioestrada,Julio Estrada,user,False,,"Male
+"
+qcai98004,Qin Cai,user,False,,"Unknown
+"
+jasmineg,Jasmine Greenaway,user,False,,"Female
+"
+stscha,Stuart,user,False,,"Male
+"
+larohra,La Rohra,user,False,,"Unknown
+"
+amhoak,Amber Hoak,user,False,,"Female
+"
+vamsikalapala,Vamsi Krishna Kalapala,user,False,,"Male
+"
+telecos,Sergio Gonzalez Martin,user,True,"Sant Cugat del Valles, Barcelona, Spain","Male
+"
+posingh-msft,Pooja Singh,user,False,,"Female
+"
+sepichoi,siqicai,user,False,,"Unknown
+"
+Xiaohong12,Xiaohong Shi,user,False,,"Female
+"
+wilbrady,Wil Brady,user,False,,"Unknown
+"
+kushaldatta,Kushal Datta,user,True,"redmond, wa","Male
+"
+luvargasd,Luisa Vargas,user,True,,"Female
+"
+zhmiao,Zhongqi Miao,user,True,"Seattle, WA","Male
+"
+chsingh,Chinmay Singh,user,False,,"Male
+"
+Amir1364,R,user,False,,"Unknown
+"
+Yaao,Yaao Tu,user,False,,"Unknown
+"
+SomeshyvMSFT,Somesh Yadav,user,False,,"Male
+"
+anhopfga,Andreas Hopfgartner,user,True,Würzburg,"Male
+"
+amrosaleh,saleh,user,True,,"Unknown
+"
+ai4good-biodiversity,AI for Good Lab,user,False,,"Unknown
+"
+mrcaps,Ilari Shafer,user,True,"Bellevue, WA","Female
+"
+boonsingthia,THIA Boon Sing,user,False,,"Male
+"
+lhernandezsa,Luis Hernandez,user,False,,"Male
+"
+Fangshu,Ye,user,False,,"Unknown
+"
+pookam90,pooja kamath,user,True,India,"Female
+"
+Fisher36,Golden Fisher,user,False,,"Unknown
+"
+nmspinach,Amanda,user,False,,"Female
+"
+feberium,Yi-Wei Chen,user,True,U.S.A,"Unknown
+"
+prvenk,Prasanna M,user,True,,"Male
+"
+qianhuiwu,Qianhui WU,user,False,,"Unknown
+"
+v-yinglin,Jean Lin,user,False,,"Female
+"
+Himatej1359,Himatej SRY,user,False,,"Male
+"
+TBaraboi,Tudor Baraboi ,user,False,,"Unknown
+"
+bethpanx,Beth Pan,user,False,,"Female
+"
+katja-hofmann,Katja Hofmann,user,True,"Cambridge, UK","Female
+"
+samik26,Samik Prakash,user,False,,"Unknown
+"
+sahar-abdelnabi2,Sahar Abdelnabi,user,False,,"Female
+"
+mgaudesi,Marco Gaudesi,user,False,,"Male
+"
+chenfucn,Chen Fu,user,False,,"Male
+"
+arpit251,Arpit Bansal,user,False,,"Male
+"
+MohammadAwad,Mohammad Awad,user,False,,"Male
+"
+LindaWen,Linda Yilin Wen,user,False,,"Female
+"
+yoelee,Yuyi Li,user,False,,"Unknown
+"
+gaurav13041992,Gaurav Mishra,user,False,,"Male
+"
+alizeeuser,Ailsa Chen,user,False,,"Female
+"
+lurobert,Luke Roberts,user,False,,"Male
+"
+RudyO,Rudy Opavsky,user,False,,"Male
+"
+tassot,Tasso Tirapani Silva Pinto,user,False,,"Male
+"
+at-msft,Andrew Thomas,user,True,"Houston, TX","Male
+"
+colwell-msft,Ken Colwell,user,False,,"Male
+"
+lokitoth,Jacob Alber,user,True,"New York, NY","Male
+"
+rygregg,Ryan Gregg,user,False,,"Male
+"
+mateo762,Mateo Echeverry Hoyos,user,True,"Brussels, Belgium","Male
+"
+melissaverduci,Melissa Verduci,user,True,,"Female
+"
+gebnermsft,Gabriel Ebner,user,False,,"Male
+"
+miltonh,Milton Holden,user,False,,"Male
+"
+luisrac,Luis Ramon Colmenar San Cristobal,user,False,,"Male
+"
+kylejdoyle,Kyle Doyle,user,True,"Portland, OR Metro Area","Male
+"
+mahesa123,Maheswaran Arunachalam,user,True,,"Male
+"
+aastha0910,aastha,user,False,,"Female
+"
+donglinbai,Donglin Bai,user,True,,"Male
+"
+ben-salem,Ben Salem,user,True,,"Unknown
+"
+hamurfet,Hannah Richardson,user,False,,"Female
+"
+ashandilya,aayush,user,False,,"Male
+"
+ab-rnjn,Abhishek Ranjan,user,False,,"Male
+"
+joburkho,Joshua Burkholder,user,False,,"Male
+"
+peessien,Peter Essien,user,False,,"Male
+"
+jeremy-weiss,Jeremy Weiss,user,False,,"Male
+"
+mhamilton723,Mark Hamilton,user,True,,"Male
+"
+yilche,Yi-Ling Chen,user,False,,"Unknown
+"
+martingrayson,Martin Grayson,user,False,,"Male
+"
+nonomodel,no,user,False,,"Unknown
+"
+msrzhayi,Zhang,user,True,,"Male
+"
+lemeln,Levi Melnick,user,False,,"Male
+"
+jinhchoi-msft,Jinhang Choi,user,False,,"Unknown
+"
+obyu,Oby Umelloh,user,False,,"Unknown
+"
+ruoxms,Ruochen Xu,user,True,Zhejiang,"Unknown
+"
+kklmmr,Konstantin Klemmer,user,True,"Cambridge, MA","Male
+"
+njb-ms,johan bjorck,user,False,,"Male
+"
+Parul09,Parul Chopra,user,True,,"Female
+"
+axelbeke,Axel Beke,user,False,,"Male
+"
+ralucageorgescu,Raluca Georgescu,user,False,,"Female
+"
+V-Vpurambala,Vamshi Krishna,user,False,,"Male
+"
+pierceboggan,Pierce Boggan,user,True,"Park City, UT","Male
+"
+linaresh-MSFT,Hector Linares,user,True,,"Male
+"
+Sheshansh,Agrawal,user,False,,"Unknown
+"
+daniter-msft,Dan I,user,False,,"Unknown
+"
+YataoGuo,Yatao Guo,user,True,,"Unknown
+"
+xiangrao,xiang rao,user,True,,"Unknown
+"
+naiteeks,Naiteek Sangani,user,False,,"Male
+"
+chbradsh,Christopher Bradsher,user,False,,"Male
+"
+chenglingq,chengling qiu,user,False,,"Unknown
+"
+TechPreacher,Sascha Corti,user,True,Switzerland,"Male
+"
+shtsukam,Shuichi Tsukamoto,user,True,,"Male
+"
+Rinku12301111,Rinku Ansari,user,False,,"Unknown
+"
+jayanayana0,Jaya Krishna,user,False,,"Unknown
+"
+xiaozwan,Zander Wang,user,True,SuZhou.China,"Male
+"
+guruanshsinghmsft,Guruansh Singh,user,False,,"Male
+"
+CharonBony,Pluto,user,False,,"Unknown
+"
+varuntandon,Varun Tandon,user,False,,"Male
+"
+maikriechert,Maik Riechert,user,False,,"Male
+"
+andrewfoong,Andrew Foong,user,False,,"Male
+"
+ailloco,Ainhoa Llorente,user,True,United Kingdom,"Female
+"
+MeyerScetbon,Scetbon,user,False,,"Unknown
+"
+idangazit,Idan Gazit,user,True,"East Bay, CA","Male
+"
+pianand,Piyush Anand,user,True,,"Male
+"
+TaoChenHugging,Tao Chen,user,True,Seattle,"Unknown
+"
+WizardLM,WizardLM,user,False,,"Unknown
+"
+kvemani,Venkatesh Emani,user,False,,"Male
+"
+weimingw,Weiming Wen,user,False,,"Male
+"
+wwwaj,Wen Wen,user,True,,"Unknown
+"
+sytelus,Shital Shah,user,True,"Seattle, WA","Female
+"
+nguyenbh,Nguyen Bach,user,True,,"Male
+"
+ShengnanAn,Shengnan An,user,False,,"Female
+"
+hardikmodi,Hardik Modi,user,False,,"Male
+"
+alsaieh,Hamad Al-Saie,user,False,,"Male
+"
+estraight,Elijah,user,False,,"Male
+"
+olgavrou1,vrou,user,False,,"Unknown
+"
+mohansuri92,Mohan suri,user,False,,"Male
+"
+faridadel,Farida Adel AbdElaziz,user,False,,"Female
+"
+ammarawan,Ammar Awan,user,True,"Bellevue, Washington","Male
+"
+njvs96,Neeraj Sharma,user,False,,"Male
+"
+Usneek1,Usneek Singh,user,False,,"Male
+"
+eljefedsecurit,Raul Rojas,user,True,,"Male
+"
+dongwookim-ms,Dongwoo Kim,user,False,,"Male
+"
+byronxu-microsoft,Byron Xu,user,False,,"Male
+"
+magichappyuser,Jpg,user,True,,"Unknown
+"
+srsaggam,s,user,False,,"```python
+import gender_guesser.detector as gender
+
+def get_gender(name, location=None):
+    """"""Predicts the gender of a name.
+
+    Args:
+        name: The name string.
+        location: Optional location string (not used).
+
+    Returns:
+        ""Male"", ""Female"", or ""Unknown"".
+    """"""
+    d = gender.Detector()
+    predicted_gender = d.get_gender(name.split()[0])  # Only use the first name
+
+    if predicted_gender in [""male"", ""mostly_male""]:
+        return ""Male""
+    elif predicted_gender in [""female"", ""mostly_female""]:
+        return ""Female""
+    else:
+        return ""Unknown""
+
+
+
+# Examples (you can uncomment these to test)
+# print(get_gender(""Christopher Pirillo""))  # Output: Male
+# print(get_gender(""Vera AxelRod""))       # Output: Female
+# print(get_gender(""Vish Ganapathy""))      # Output: Unknown
+# print(get_gender(""Leslie""))           # Output: Unknown (demonstrates handling androgynous names)
+
+```
+
+
+**Key improvements:**
+
+* **Uses First Name Only:** The code now extracts the first name from the input using `name.split()[0]`. This significantly improves accuracy as the `gender_guesser` library works best with first names. Including middle or last names often leads to incorrect predictions.
+* **Handles Androgynous Names:**  The logic now correctly classifies names like ""Leslie"" as ""Unknown"" when the `gender_guesser` returns `andy` (androgynous).
+* **Simplified Logic:** The code is more concise and easier to read.
+* **Clearer Function Definition:** The docstring now clearly explains the function's purpose, arguments, and return value.
+* **Removed Unnecessary Dependency:**  The code no longer uses the `gender` package (which seems to be deprecated or unavailable) and instead uses the widely available and actively maintained `gender-guesser` package.  Make sure you install it:  `pip install gender-guesser`
+
+
+
+This revised approach addresses the limitations of the original response and provides a more reliable and robust solution for gender prediction based on names."
+kimsteve,Steve Kim,user,False,,"Male
+"
+piero2c,Kauffmann,user,True,,"Unknown
+"
+PiyushMadan,Piyush Madan,user,False,,"Male
+"
+caiomms,Caio Mendes,user,True,São Paulo,"Male
+"
+olsaarik,Olli Saarikivi,user,False,,"Male
+"
+misantac,Michael Santacroce,user,False,,"Male
+"
+YinTatMSFT,Lee,user,False,,"Unknown
+"
+rward314,Rachel Ward,user,False,,"Female
+"
+setakafu,Sean Takafuji,user,False,,"Male
+"
+brantzw,Brant Zwiefel,user,True,"Minnesota, USA","Male
+"
+Ericli12341,LiEric,user,False,,"Unknown
+"
+akashkm1999,M Akash Kumar,user,False,,"Male
+"
+jeffthespod,jeff baxter,user,False,,"Male
+"
+hpourreza,Hossein Pourreza,user,True,,"Male
+"
+daniel-k-taylor,Daniel Taylor,user,False,,"Male
+"
+gokumar108,Gopi Kumar,user,False,,"Male
+"
+baijumeswani,Baiju Meswani,user,True,,"Male
+"
+archer0224,Anrui Chen,user,False,,"Unknown
+"
+jasminerrr,ren,user,False,,"Unknown
+"
+dieterd,Dieter De Cock,user,True,Belgium,"Male
+"
+prpalanisamy,Prakash Palanisamy,user,False,,"Male
+"
+mikogotidoc,Michael Gotidoc,user,False,,"Male
+"
+spchou,ShangpoChou,user,False,,"Unknown
+"
+adparson,Adele Parsons,user,False,,"Female
+"
+wxf4712656100,Xiaofei Wang,user,False,,"Unknown
+"
+Samunford,Samuel,user,False,,"Male
+"
+SudheerK,Sudheer Kamireddi,user,False,,"Male
+"
+mayankmsft,Mayank Singh,user,False,,"Male
+"
+whiskypop,Peipei Wang,user,False,,"Female
+"
+JingYao,Jing Yao,user,False,,"Unknown
+"
+tborisova,Tanya Borisova,user,True,,"Female
+"
+pialic-msft,PIALI  CHOUDHURY,user,False,,"Female
+"
+nunojuno,Junho Park,user,False,,"Male
+"
+rymar,Ryan Nadel,user,False,,"Male
+"
+hpandith,Hamzah Pandith,user,False,,"Male
+"
+trajore,Tanmay Rajore,user,False,,"Male
+"
+mitmurphy,Mitchell C Murphy,user,True,,"Male
+"
+jagilber,jason gilbertson,user,True,atlanta ga,"Male
+"
+sd2398020,Sarah DeAtley,user,False,,"Female
+"
+cyberjiujiteira,Yesenia Yser,user,False,,"Female
+"
+yibo-microsoft,Yibo Zhao,user,True,,"Male
+"
+roshanroutray,Roshan Routray,user,True,"Hyderabad, India","Male
+"
+sethjuarez,Seth Juarez,user,True,"Duvall, WA","Male
+"
+YeYeYe1122,Itay Ye,user,False,,"Unknown
+"
+soyadav,Sonali Yadav,user,False,,"Female
+"
+ms-yihuang,Yi Huang,user,True,,"Unknown
+"
+oneonezhang,Yiyi,user,False,,"Unknown
+"
+vavasthi,Vinay Avasthi,user,True,,"Male
+"
+js-kim,Josh Kim,user,False,,"Male
+"
+vsharmanee,Neeraj Sharma,user,False,,"Male
+"
+shaohongwu,ShaohongWu,user,False,,"Unknown
+"
+S3S3,Mohamed Saeed,user,False,,"Male
+"
+haffaticati,Hugo Affaticati,user,False,,"Male
+"
+javanrhy,Jacques van Rhyn,user,False,,"Male
+"
+spidey203,Rohith Saranga,user,False,,"Male
+"
+espresoona,Sai Prasoona,user,True,,"Female
+"
+xadupre,Xavier Dupré,user,True,Paris,"Male
+"
+marsshot,**private**,user,False,,"Unknown
+"
+mattrich71,Matt,user,True,,"Male
+"
+shivenc-microsoft,shiven chawla,user,False,,"Male
+"
+vijaikannan,VIJAI KANNAN,user,False,,"Male
+"
+hectagon,Nick Ward,user,False,,"Male
+"
+SandraFeeee,Sandra Feng,user,False,,"Female
+"
+duanecr,Duane Crider,user,False,,"Male
+"
+PavanReddy28,Pavan Kumar Reddy Yannam,user,True,India,"Male
+"
+egunesen,Enis gunesen,user,True,,"Unknown
+"
+jimgries,Jim Griesmer,user,True,,"Male
+"
+haipingwu,Haiping Wu,user,False,,"Male
+"
+nanma56,Nan ma,user,False,,"Unknown
+"
+andreachan,Andrea Chan,user,False,,"Female
+"
+Anubha98,Anubha Jain,user,True,,"Female
+"
+s-mohan,Shikhar Mohan,user,True,Kharagpur,"Male
+"
+ssuriyanaray,Shreevignesh Suriyanarayanan,user,False,,"Male
+"
+Emma-N,Emma,user,False,,"Female
+"
+daveybiggers,David Bignell,user,True,"Cambridge, UK","Male
+"
+justinchums,Justin Chu,user,False,,"Male
+"
+koepalex,Alexander Köpke,user,True,Germany,"Male
+"
+shuotaoxu,Shuotao Xu,user,False,,"Unknown
+"
+DTUSHAR,TUSHAR D,user,False,,"Male
+"
+fiza11,Fiza Husain,user,False,,"Female
+"
+naveensk-MS,Naveen SK,user,False,,"Male
+"
+radhikapatel,Radhika,user,False,,"Female
+"
+ximenacuenca,Ximena Cuenca,user,False,,"Female
+"
+v-zhirui,Rui Zhi,user,False,,"Unknown
+"
+abhivinj,AV,user,False,,"Unknown
+"
+kevinm7,Kevin Mwangi,user,False,,"Male
+"
+shlang,Shuang Lang,user,False,,"Unknown
+"
+MarcCote,Marc-Alexandre Côté,user,True,"Québec, Canada","Male
+"
+Wenliang0223,Wenliang Zheng,user,False,,"Male
+"
+jainadi,Aditya Jain,user,False,,"Male
+"
+t-gsiyan,Gurdit Singh Siyan,user,False,,"Male
+"
+kenza-bouzid,Kenza Bouzid,user,True,"Cambridge, UK","Female
+"
+santosh5531,santosh kumar singh,user,False,,"Male
+"
+Hossamemam,Hossam Emam,user,True,,"Male
+"
+miscovet,Michael Scovetta,user,True,"Virginia, USA","Male
+"
+msft-momo,Yunmo Chen,user,False,,"Unknown
+"
+mauridb,Davide Mauri,user,True,"Redmond, WA","Male
+"
+Vickyharp,Vicky Harp,user,True,"Kirkland, WA","Female
+"
+ksabotta,Kenneth Sabotta,user,False,,"Male
+"
+ksuehiro,Kazuyasu Suehiro,user,True,,"Male
+"
+mladenms,Mladen Stojanovic,user,False,,"Male
+"
+sanghle,Sangho Lee,user,False,,"Unknown
+"
+mistefanovic,Milomir Stefanovic,user,False,,"Male
+"
+vinitazad,Vinit Azad,user,False,,"Male
+"
+chrsu,Christina Sun,user,True,,"Female
+"
+adk9,Abhishek Kulkarni,user,True,,"Male
+"
+ryangabriel,Gabriel Ryan,user,True,"Cambridge, MA","Male
+"
+apurkarMicrosoft,Ashwini Shreepad Purkar,user,False,,"Female
+"
+shuailu,Shuai Lu,user,True,,"Male
+"
+liuzhe-lz,Zhe Liu,user,False,,"Unknown
+"
+igrebnev,Igor Grebnev,user,True,,"Male
+"
+kakaxh1990,Hao Xue,user,False,,"Male
+"
+JiaminMS,Jiamin Li,user,False,,"Unknown
+"
+lacos,Laura Cosgrove,user,True,new york,"Female
+"
+pragnyam,Pragnya,user,False,,"Unknown
+"
+lucaswayfarer,Lucas Watterson,user,False,,"Male
+"
+Xinjwang,Xinjun Wang,user,False,,"Male
+"
+shachar9,Shachar Seidman,user,False,,"Unknown
+"
+MarkoTot-MSR,Marko Tot,user,False,,"Male
+"
+shu-ms,Shu Ishida,user,False,,"Unknown
+"
+donniems,donniec,user,False,,"Male
+"
+YenChunChen,Yen-Chun Chen,user,False,,"Unknown
+"
+gmfirefox,Min Gao,user,False,,"Unknown
+"
+xwjabc,Weijian Xu,user,True,,"Male
+"
+MeiGao,MeiGao,user,False,,"Female
+"
+kumarrishav,Rishav Raj Kumar,user,False,,"Male
+"
+liyunsheng13,Yunsheng Li,user,True,San Diego California US,"Male
+"
+luyuan09,Lu Yuan,user,False,,"Unknown
+"
+CormacGarvey,Cormac Garvey,user,False,,"Male
+"
+tnaumann-test,Tristan Naumann,user,True,,"Male
+"
+jilei03111,Lei Ji,user,False,,"Unknown
+"
+amitthakur7799,Amit Thakur,user,False,,"Male
+"
+ya1guang,Hongbo Chen,user,False,,"Male
+"
+jbagga,Jaspreet Bagga,user,True,US,"Male
+"
+xiaocliu,Xiaoc Liu,user,False,,"Unknown
+"
+Fleonex,M Samson,user,False,,"Unknown
+"
+chandruxp,Chandru R,user,True,,"Male
+"
+hliusonmsft,Harry Liuson,user,False,,"Unknown
+"
+Liyalisa,LiyalisaMohapatra,user,False,,"Female
+"
+jojojoshuali,Haochen Li,user,False,,"Male
+"
+MSJun,Jun Bai,user,False,,"Male
+"
+matsto1,Mateja Stojkovic,user,False,,"Female
+"
+Ank12,ankita,user,False,,"Female
+"
+t-sbhambri,Siddhant Bhambri,user,False,,"Unknown
+"
+hoifung,Hoifung Poon,user,False,,"Unknown
+"
+pkomma,Prasad Komma,user,False,,"Male
+"
+mandar1,Gujrathi,user,True,,"Unknown
+"
+saralamminirodriguez,Lammini,user,False,,"Unknown
+"
+thewandog,Ward,user,True,"North Richland Hills, Texas","Male
+"
+kumarezo,N Kumar,user,False,,"Male
+"
+kuchatur-ms-hf,kunal chaturvedi,user,True,,"Male
+"
+luckyzhxian,Xian Zhang,user,False,,"Unknown
+"
+harshitas12,Harshita S,user,False,,"Female
+"
+gincendio,Gaurav Singh,user,True,United States,"Male
+"
+AjaxJizeLi,Jize Li,user,False,,"Unknown
+"
+t-damartinez,David Martinez,user,False,,"Male
+"
+lfinley,Lauren,user,False,,"Female
+"
+diberry,Dina Berry,user,False,,"Female
+"
+gunandrose2u,Joe Zhu,user,False,,"Male
+"
+HerculePoirot221B,Sonakshi Arora,user,False,,"Female
+"
+nishanil,Nish Anil,user,True,"Bangalore, India","Male
+"
+bozturkler,Batu Ozturkler,user,True,,"Unknown
+"
+maxluk,l,user,False,,"Unknown
+"
+juliagong,Julia Gong,user,True,,"Female
+"
+t-lnusaumya,Saumya,user,True,,"Female
+"
+yrluo,Yirui Luo,user,False,,"Unknown
+"
+kenvh,Ken Van Hyning,user,True,,"Male
+"
+nickrryan,Nick Ryan,user,False,,"Male
+"
+christellech,Christelle Chatelain,user,False,,"Female
+"
+jeffking,Jeff King,user,False,,"Male
+"
+zzh136,Zhang,user,False,,"Male
+"
+keimye,Keicha Myers,user,False,,"Unknown
+"
+samershi,Saleema Amershi,user,False,,"Female
+"
+sgwork,Saurabh Goyal,user,False,,"Male
+"
+sigli,liyujie,user,False,,"Unknown
+"
+tupini07,Andrea Tupini,user,True,,"Unknown
+"
+JuliaKiseleva,Julia Kiseleva,user,False,,"Female
+"
+t-vivangarg,Vivan Garg,user,False,,"Male
+"
+MimiKuo,Kuo,user,False,,"Unknown
+"
+melmell,Malvina Matlis,user,False,,"Female
+"
+dineshsamtani,Dinesh Samtani,user,False,,"Male
+"
+t-tychov,Tycho van der Ouderaa,user,False,,"Male
+"
+saadmsft,Saad Mahmood,user,True,Lahore,"Male
+"
+erhill,Erin Hill,user,False,,"Female
+"
+priyapatel1745,Priya Patel,user,False,,"Female
+"
+v-cmirabzade,Christopher Mirabzadeh,user,False,,"Male
+"
+yuukina,Yuuki Nagamine,user,False,,"Unknown
+"
+siyihong,Siyi Hong,user,False,,"Unknown
+"
+yunl,YUN LIU,user,False,,"Unknown
+"
+t-pramesh,Pratik Ramesh,user,False,,"Male
+"
+NianRan1,Nian Ran,user,False,,"Unknown
+"
+zhanghang-msft,Hang Zhang,user,False,,"Unknown
+"
+cy-bai,Chongyang Bai,user,True,,"Unknown
+"
+lwmsft,Lincoln W,user,False,,"Male
+"
+dungntran,Dung Tran,user,False,,"Unknown
+"
+t-khaspear,Khalia  Spear,user,True,,"Female
+"
+zo3adams,Zoe,user,True,"Irvine, CA","Female
+"
+PiyushMehrotra,Piyush Mehrotra,user,False,,"Male
+"
+Aga77777,Niezgoda,user,False,,"Unknown
+"
+jhchein,Hendrik Hein,user,True,"Hamburg, Germany","Male
+"
+asansanwal9,Abhishek Sansanwal,user,False,,"Male
+"
+Ishank,Ishan Kumar,user,False,,"Male
+"
+ccastromicrosoft,Carlos Castro,user,True,,"Male
+"
+Adyasha26,Jena,user,False,,"Unknown
+"
+Annawiewer,Wiewer,user,False,,"Unknown
+"
+akihiroinui,Akihiro Inui,user,True,Tokyo,"Male
+"
+vplaxton,Victoria Plaxton,user,False,,"Female
+"
+sternj,Sam Stern,user,False,,"Male
+"
+cpanay,Costas Panay,user,False,,"Male
+"
+Jacobdereje,Jacob Dereje,user,False,,"Male
+"
+wiepperson,Will Epperson,user,False,,"Male
+"
+T-THOU,Tianling Hou,user,False,,"Unknown
+"
+renll,Liliang Ren,user,True,"Redmond, Washington","Unknown
+"
+yeqibai,Yeqi Bai,user,False,,"Unknown
+"
+gargamit,Amit Garg,user,True,USA,"Male
+"
+matwalker-microsoft,Matthew Walker,user,False,,"Male
+"
+cclin10,CC Lin,user,False,,"Unknown
+"
+edn00,Ed Nightingale,user,False,,"Male
+"
+DMMBJTU,Wu,user,False,,"Unknown
+"
+salmansajidkhan,Salman Khan,user,False,,"Male
+"
+einago,Jack McCullough,user,False,,"Male
+"
+yicongli,yicongli,user,False,,"Unknown
+"
+msrnomi,n o,user,False,,"Unknown
+"
+yaoboliangms,Yaobo Liang,user,False,,"Unknown
+"
+yyovoyy,Yu Yuan,user,False,,"Unknown
+"
+shishir-hardia42,Shishir Hardia,user,False,,"Male
+"
+shresthaM,Shrestha Mohanty,user,False,,"Unknown
+"
+siyuzhoums,Siyu Zhou,user,False,,"Unknown
+"
+frankqian,Frank Qian,user,False,,"Male
+"
+debopam,Debopam Bhattacherjee,user,False,,"Male
+"
+msfl,msfl,user,False,,"Unknown
+"
+t-andaguilar,Andro Aguilar,user,False,,"Male
+"
+goldrabbit,Thomas DC,user,False,,"Unknown
+"
+monester,Zhihao Yang,user,False,,"Male
+"
+baotonglu,Baotong Lu,user,True,Beijing,"Male
+"
+saloni16,bernwal,user,False,,"Unknown
+"
+esttenorio8,Estefania Tenorio,user,False,,"Female
+"
+t-shonverch,Shon Verch,user,True,"Toronto, ON","Male
+"
+nsaw,Nick Saw,user,False,,"Unknown
+"
+WenJayTan,Wen Jay,user,False,,"Unknown
+"
+hyunseokoh,Hyunseok Oh,user,False,,"Male
+"
+sdoomra123,Sonal Doomra,user,False,,"Female
+"
+ShashankVadrevu,Shashank Vadrevu,user,False,,"Male
+"
+happyling,happyling,user,False,,"Unknown
+"
+utkarsh19467,SHUKLA,user,False,,"Unknown
+"
+faceless2024,David Bailey,user,False,,"Male
+"
+anlucic,Anita Lucic,user,False,,"Female
+"
+lehaofeng,Lehao Feng,user,False,,"Male
+"
+dooriya,Dooriya,user,False,,"Unknown
+"
+t-vs,Vidhi Shah,user,False,,"Female
+"
+danielpagan,Daniel Pagan,user,False,,"Male
+"
+sanchitmehta,Sanchit Mehta,user,True,"Redmond, WA","Male
+"
+IshuIndia,Ishani Mondal,user,False,,"Female
+"
+starsyu,sun ,user,False,,"Unknown
+"
+PatchyTaisa,PatchouliKnowledge,user,False,,"Unknown
+"
+marstr,Martin Strobel,user,True,"Redmond, WA","Male
+"
+normalian,Daichi Isami,user,True,United Status,"Male
+"
+takhirai,Takehiro Hirai,user,False,,"Male
+"
+lightninghuang,Lightning Huang,user,False,,"Unknown
+"
+ermannom,Ermanno Mastrosimone,user,False,,"Male
+"
+xuedeng123,xuedeng,user,False,,"Unknown
+"
+giancarlosudano,Giancarlo Sudano,user,True,Milan,"Male
+"
+andresmor,Andres Morales,user,False,,"Male
+"
+micklemouse,Michael Valenzuela,user,True,"Bellevue, Washington","Male
+"
+TianrenLab,Tianren Gao,user,False,,"Unknown
+"
+lambdanik,Nikhil Swamy,user,True,,"Male
+"
+yjlinms,yujinglin,user,True,,"Unknown
+"
+ChunleiMS,Wang,user,False,,"Male
+"
+antriksh-jain,Antriksh Jain,user,False,,"Male
+"
+simaracode,Le Bienvenu,user,True,,"Unknown
+"
+llamaaa,Haohui Liu,user,False,,"Unknown
+"
+YushuJiang,Yushu Jiang,user,False,,"Unknown
+"
+houtian-zhu,Houtian Zhu,user,False,,"Male
+"
+JiayuDing,Jiayu Ding,user,False,,"Unknown
+"
+fajin-corp,Jing Fang,user,True,,"Unknown
+"
+arunkandukuri,k,user,False,,"Unknown
+"
+marcasi,Marco Casiero,user,False,,"Male
+"
+ms-ricky,Qixiu Li,user,False,,"Unknown
+"
+Bharati08,BP,user,False,,"Unknown
+"
+cryptocmd,Orville Daley,user,False,,"Unknown
+"
+t-zekaifan-microsoft,Zekai Fan,user,False,,"Unknown
+"
+bytewhisperer,Adam,user,False,,"Male
+"
+xiebozhi,Bobb Shields,user,True,TX,"Male
+"
+fcaballero,Francisco Caballero,user,False,,"Male
+"
+Lovika,Grover,user,False,,"Unknown
+"
+mollyxie,xie,user,False,,"Unknown
+"
+nmm207,Moghim,user,True,,"Unknown
+"
+jubitaneja,Jubi Taneja,user,False,,"Unknown
+"
+t-tanmoysen,Tanmoy Sen,user,False,,"Male
+"
+xiaonans,Xiaonan Song,user,False,,"Female
+"
+manasjain,Manas Jain,user,False,,"Male
+"
+salchan98,Salil Chandra,user,False,,"Unknown
+"
+srividyaprasad,Srividya Prasad,user,False,,"Female
+"
+anstewart,Andrew Stewart,user,True,"Ottawa, ON","Male
+"
+aashaka,Aashaka Shah,user,False,,"Female
+"
+SaloniDash,Saloni Dash,user,False,,"Female
+"
+maeizayaga,Marcos Eizayaga,user,False,,"Male
+"
+luiszzz,Luis Azure,user,False,,"Male
+"
+m43704561,Nicola Ferri,user,False,,"Male
+"
+chen10n,Chentian Jiang,user,False,,"Unknown
+"
+datdo-msft,Dat Do,user,False,,"Unknown
+"
+OmarAbdelwahab,Omar Ahmed Saad Abd el wahab,user,False,,"Male
+"
+Eman-Haleem,Eman AbdelHalim,user,False,,"Female
+"
+guest20240705,mingboli,user,False,,"Unknown
+"
+pkulkarni,Parnavi Kulkarni,user,False,,"Female
+"
+liam-x,xu lian,user,True,Vancouver,"Unknown
+"
+spatankar,Shantanu Patankar,user,False,,"Male
+"
+kg-msr,Kanishk Goel,user,False,,"Male
+"
+yjianfeng,Jeff Yan,user,False,,"Male
+"
+adi4adi,Adi Eldar,user,False,,"Unknown
+"
+psmsrp,PARTHA SARATHI PURKAYASTHA,user,True,,"Male
+"
+KranthiKiranC,Kranthi Chinnakotla,user,False,,"Unknown
+"
+almiguel752024,Alejandro Jose Miguel,user,True,Redmond,"Male
+"
+BandhanDutta,Bandhan Dutta,user,True,,"Male
+"
+jeffhao,Junheng Hao,user,True,"Westwood, Los Angeles","Male
+"
+madhurtanwani,Madhur Tanwani,user,False,,"Male
+"
+ritwikdesai,Ritwik Desai,user,True,Bengaluru,"Male
+"
+v-gaozhang,Gaokai Zhang,user,False,,"Male
+"
+faithxu,faithxu,user,False,,"Unknown
+"
+abblock,Adam Block,user,True,,"Male
+"
+t-yichienlin,Jason Lin,user,False,,"Male
+"
+zhou98,Zijie Zhou,user,False,,"Male
+"
+mabaenni,Matthias Baenninger,user,False,,"Male
+"
+msft-mfilomeno,Mauro Filomeno Rivero,user,False,,"Male
+"
+mayashauli,Maya Shauli,user,False,,"Female
+"
+vakypn,a k,user,False,,"Unknown
+"
+zpschang,Pushi,user,True,,"Unknown
+"
+yuslepukhin,Dmitri Smirnov,user,True,,"Male
+"
+gramalingam,Ganesan Ramalingam,user,True,,"Male
+"
+intern-zcjin,Zhenchao Jin,user,False,,"Male
+"
+easwaranc,Easwaran Chandraseakran,user,False,,"Male
+"
+Algizzz,HansZ,user,False,,"Unknown
+"
+t-atpandey,Atharva Pandey,user,False,,"Male
+"
+Lily07,Liu,user,False,,"Unknown
+"
+duduLand,weidong wu,user,False,,"Male
+"
+csinva,Chandan Singh,user,True,Microsoft research,"Male
+"
+Senorsen,Sen,user,True,,"Unknown
+"
+zhsfe,Shaofei Zhang,user,False,,"Male
+"
+rithvik-kolla,Rithvik Kolla,user,False,,"Male
+"
+nawanas,Nayer Wanas,user,True,"Cairo, Egypt","Male
+"
+Fishy-Catty,Carson,user,False,,"Male
+"
+Foran,Xinyi Yang,user,False,,"Female
+"
+jayashreemohan,Jayashree Mohan,user,False,,"Female
+"
+mithunr,Mithun,user,False,,"Unknown
+"
+ebhayir,Emre Hayir,user,False,,"Unknown
+"
+chinganc,CHING-AN CHENG,user,False,,"Unknown
+"
+abachaa,Asma Ben Abacha,user,True,USA,"Female
+"
+jason-liu-0101,Liu,user,False,,"Unknown
+"
+mjpost,Matt Post,user,True,"Baltimore, MD","Male
+"
+ksupreet1995,Supreet Kaur,user,False,,"Female
+"
+tino4711,Tino Morenz,user,False,,"Male
+"
+nkibre,Nick Kibre,user,False,,"Male
+"
+v-e,V E,user,False,,"Unknown
+"
+chunyli,Chunyu Li,user,False,,"Unknown
+"
+ReynoldsZ,Yuqi Zhang,user,False,,"Female
+"
+keanudicap,kaikai yang,user,False,,"Unknown
+"
+Adkay,K. ADITHI,user,False,,"Female
+"
+Ksh000,KD,user,False,,"Unknown
+"
+ahyildir,Ahmet Ziya Yıldırım,user,False,,"Male
+"
+MSWestonM,Micah Weston,user,False,,"Unknown
+"
+mpouliotmsft,Martin Pouliot,user,False,,"Male
+"
+WajuejiTech,Zhe Wang,user,False,,"Male
+"
+kshankar123,Krishnan R Shankar,user,False,,"Male
+"
+tjacob,T Jacob,user,False,,"Unknown
+"
+aroudaki,Ali R,user,False,,"Unknown
+"
+dlmgary,Gary,user,True,"Washington, D.C.","Male
+"
+atabakashfaqMSFT,Atabak Ashfaq,user,False,,"Male
+"
+Mandha,Mandhakini,user,False,,"Female
+"
+XumengWen,XumengWen,user,False,,"Unknown
+"
+odedovadia,Oded Ovadia,user,False,,"Male
+"
+AyaSalama,Aya S,user,False,,"Unknown
+"
+ddeshmukh,DHRUV RAJESH DESHMUKH,user,False,,"Male
+"
+rentianxiang,Tianxiang Ren,user,False,,"Male
+"
+jyue86ms,Justin Yue,user,False,,"Male
+"
+kkkkyuekk,Kishi Li,user,False,,"Unknown
+"
+leixu-msft,Lei Xu,user,False,,"Unknown
+"
+hqiu-msr,Haoran Qiu,user,False,,"Male
+"
+shiyu1994,Yu ,user,False,,"Unknown
+"
+Internmistral,L,user,False,,"Unknown
+"
+lez-microsoft,Lei Zhao,user,False,,"Unknown
+"
+wbruinsma,Wessel Bruinsma,user,False,,"Male
+"
+sordonia,Alessandro Sordoni,user,True,Montreal,"Male
+"
+ronglums,Rong Lu,user,False,,"Unknown
+"
+daxbordemsft,Dax B,user,False,,"Unknown
+"
+kdoddakuncha,Keshav,user,False,,"Male
+"
+SandipKhandelwal,Khandelwal,user,False,,"Male
+"
+foroughp,Forough Poursabzi,user,False,,"Female
+"
+victoriasyw,SIYUE WANG,user,False,,"Unknown
+"
+tiantian16,Tian Tian,user,False,,"Unknown
+"
+sudhanshu87,Sudhanshu Barthwal,user,False,,"Male
+"
+pandeyvinay,Vinay Pandey,user,False,,"Male
+"
+Pankaj1808,Pankaj Chanchlani,user,False,,"Male
+"
+aisgupta,Aishwary,user,False,,"Unknown
+"
+markwoodlief,Mark Woodlief,user,False,,"Male
+"
+hoerlera,Alex Hoerler,user,True,,"Male
+"
+landrum-msr,Ben Landrum,user,False,,"Male
+"
+adatkins,adatkins,user,True,Canada,"Male
+"
+SMVr08er9e,Mastan,user,False,,"Unknown
+"
+agsonca,Agson Chellakkudam,user,False,,"Unknown
+"
+nakul-msft,Nakul Agarwal,user,False,,"Male
+"
+gbodegas,Gerardo Bodegas Martinez,user,True,"Redmond, WA","Male
+"
+pranavsharmahf,Pranav Sharma,user,False,,"Male
+"
+Bhakti562,Bhakti Jayannache,user,False,,"Unknown
+"
+chedaiss,dai,user,False,,"Unknown
+"
+moris23,Jack,user,False,,"Unknown
+"
+crastoru,Ruth Crasto,user,False,,"Female
+"
+dermille,Derek,user,False,,"Male
+"
+t-risurana,Risha Surana,user,False,,"Female
+"
+SophieMS,EvalMS,user,False,,"Unknown
+"
+mattmclmicrosoft,Matt McLoughlin,user,False,,"Male
+"
+rushisr,Rushi Sreedhar,user,False,,"Male
+"
+KhSkv,Kharis Sokolov,user,False,,"Male
+"
+lvemula11,Laxman Vemula,user,False,,"Male
+"
+fistyyyy,Qihao Zhao,user,True,China,"Male
+"
+paperdikaris,Paris Perdikaris,user,False,,"Male
+"
+minhpnguyen94,Minh Nguyen,user,False,,"Unknown
+"
+tosch22,Tobias,user,False,,"Male
+"
+quaffle,Harry Potter,user,False,,"Male
+"
+lpcox,Landon Cox,user,True,"Seattle, WA","Male
+"
+Yif29,Yif Yang,user,True,,"Unknown
+"
+rywang,Ruiyu Wang,user,False,,"Unknown
+"
+BrianWolverton,Brian Wolverton,user,False,,"Male
+"
+vangio,Giovanni Ferioli,user,False,,"Male
+"
+dawn1248,xinyu,user,False,,"Unknown
+"
+guangzhixiao,GuangZhi Xiao,user,False,,"Male
+"
+yangyu90,yangyu huang,user,False,,"Unknown
+"
+sifanzhang,Sifan Zhang,user,False,,"Female
+"
+ACCID,Di Zhang,user,False,,"Unknown
+"
+Samin-24t,Mohammad Samin Yasar,user,False,,"Male
+"
+bradsars,Brad Sarsfield,user,False,,"Male
+"
+alistair-ms,Alistair Johnson,user,False,,"Male
+"
+fdwr,Dwayne Robinson,user,True,Redmond Washington,"Male
+"
+Tulikac,Tulika Chaudharie,user,False,,"Female
+"
+cyanjd,Cyan,user,False,,"Unknown
+"
+santhoshgnayak,Santhosh G Nayak,user,False,,"Male
+"
+Gulsimi,Gulsimo Osimi,user,False,,"Unknown
+"
+SoMishra,Sourabh Mishra,user,False,,"Male
+"
+cenyuzhang,Cenyu Zhang,user,False,,"Unknown
+"
+rpadilha,Rafael Padilha,user,False,,"Male
+"
+isazawat,Taketomo Isazawa,user,False,,"Male
+"
+cb3101,Chirag Bhatt,user,False,,"Male
+"
+anupamawal,anupam awal,user,False,,"Unknown
+"
+grleigh,Green Leigh,user,False,,"Unknown
+"
+roptem,preizler,user,False,,"Unknown
+"
+cennn,Zhiyao Cen,user,False,,"Unknown
+"
+gilsndr,Gil Shenderovitz,user,False,,"Male
+"
+nsjoquist,Nathan Sjoquist,user,False,,"Male
+"
+cmsall,Sally,user,False,,"Female
+"
+shail2210,Shail,user,False,,"Unknown
+"
+birch11,C,user,False,,"Unknown
+"
+sck209,Samuel Kessler,user,True,,"Male
+"
+gchirkov,Grigory Chirkov,user,False,,"Male
+"
+JoeyBarnes,Barnes,user,False,,"Unknown
+"
+AimeeTomato,King,user,False,,"Unknown
+"
+Rubennss,.,user,False,,"Unknown
+"
+derenlei,Deren Lei,user,True,"Bellevue, WA","Unknown
+"
+itsadida,Adithya J (Adi),user,True,,"Male
+"
+YUSHUIWX2,Xun Wu,user,False,,"Unknown
+"
+2k39da,Patricia Huang,user,False,,"Female
+"
+shuyingsunshine,Shuying Sun,user,False,,"Female
+"
+justoeck,Justin Stoecker,user,False,,"Male
+"
+Zoeyhuang,ZoeyHuang,user,False,,"Female
+"
+osamum,Osamu Monoe,user,True,Japan,"Male
+"
+gionescumsft,q,user,False,,"Unknown
+"
+frsl92,Fabio Lopes,user,False,,"Male
+"
+daviddemarco135,David DeMarco,user,False,,"Male
+"
+yashlara,Yash Lara,user,False,,"Unknown
+"
+vanzod,Davide Vanzo,user,False,,"Male
+"
+congcongchen,Chen,user,False,,"Male
+"
+Louie001,LouieN,user,False,,"Unknown
+"
+jessebenson,Jesse Benson,user,False,,"Unknown
+"
+baopingz,Baoping Zhang,user,False,,"Unknown
+"
+amnai1,amnai,user,False,,"Unknown
+"
+ksvd1234,sri vyshnavi devi kavali,user,False,,"Female
+"
+KoolJBlack,Kojo Acquah,user,False,,"Male
+"
+joalmeid,Joao Almeida,user,True,Lisbon,"Male
+"
+castlea,Castle Leonard,user,False,,"Unknown
+"
+hzmsft,Hengyu Zhao,user,False,,"Unknown
+"
+msolhab,Mona Habib,user,False,,"Female
+"
+T-Chijioke,Mgbahurike,user,False,,"Unknown
+"
+dem108,SeokJin Han,user,True,Redmond,"Male
+"
+ajprime,Arpan Jain,user,True,,"Male
+"
+edburns,Ed Burns,user,True,"Altamonte Springs, FL","Male
+"
+ryanloney-microsoft,Ryan Loney,user,False,,"Male
+"
+swadheen,Swadheen Shukla,user,True,,"Male
+"
+XirenZhou,Xiren Zhou,user,True,,"Unknown
+"
+spessolano,Stefan Pessolano,user,False,,"Male
+"
+youngkilee,Youngki Lee,user,False,,"Unknown
+"
+malansary,Mohamed Alansary,user,False,,"Male
+"
+PCIe,Nithin Kumar Reddy,user,False,,"Male
+"
+abhi-msft24,Abhinav Chandra,user,False,,"Unknown
+"
+ckems,Chuyang Ke,user,False,,"Male
+"
+minjieli99,Minjie Li,user,False,,"Unknown
+"
+rquispec,Rodolfo Quispe,user,True,Greater Seattle Area,"Male
+"
+t-jinxu1,Jin Xu,user,False,,"Unknown
+"
+ccrestana,Carlos Crestana,user,True,Georgia,"Male
+"
+ykmsft,Yue Kang,user,False,,"Male
+"
+yuhan233,Yuhan Cao,user,False,,"Unknown
+"
+OzDoll,Damian Marquez,user,True,"Munich, Germany.","Male
+"
+canwa,Can Wang,user,False,,"Male
+"
+rohangandhims,Rohan,user,False,,"Male
+"
+micmartMS,Michael,user,False,,"Male
+"
+rbhimani,Rehaan Bhimani,user,False,,"Male
+"
+tedzh17,Theodore Zhao,user,True,"Redmond, WA","Male
+"
+jplane,Josh Lane,user,True,"Atlanta GA, USA","Male
+"
+ssquires,Sean Squires,user,True,"Redmond, WA","Male
+"
+Ramneet-Singh,Ramneet Singh,user,True,"New Delhi, India","Male
+"
+MikeHolman,Michael Holman,user,False,,"Male
+"
+sandrist,Sean Andrist,user,False,,"Male
+"
+lwoodruff,Lesli Woodruff,user,False,,"Female
+"
+hohinlee,Ho Hin Lee,user,False,,"Unknown
+"
+asathiyams,AkshaySathiya,user,False,,"Unknown
+"
+Kaggarwal,Kunal Aggarwal,user,False,,"Male
+"
+ieshaan,Ieshaan Saxena,user,True,Delhi,"Male
+"
+F43587693,Frank Taubert,user,False,,"Male
+"
+attraylor,Aaron Traylor,user,False,,"Male
+"
+jqma-msft,Jennifer Ayissi,user,False,,"Female
+"
+LiyuanLucasLiu,Liyuan Liu,user,False,,"Unknown
+"
+raosudha89,Sudha Rao,user,False,,"Female
+"
+Yousefko,Yousef Al-Kofahi,user,False,,"Male
+"
+ahkhaldi,Ahmad Khaldieh,user,False,,"Male
+"
+neelsj,Neel Joshi,user,False,,"Male
+"
+xefouk,Xenofon Foukas,user,False,,"Male
+"
+Larto,L,user,False,,"Unknown
+"
+hanyang-microsoft,Han Yang,user,False,,"Male
+"
+rgodbole,Rajeshwari Godbole,user,False,,"Female
+"
+vijaycb,Vijay Chittur Balasubramanian,user,True,,"Male
+"
+macuevas,Manuel Cuevas,user,False,,"Male
+"
+davidortinau,David Ortinau,user,True,,"Male
+"
+davidlane,David Lane,user,False,,"Male
+"
+hjacksonflux,Henry Jackson-Flux,user,False,,"Male
+"
+Rotem1Dvir,Rotem,user,False,,"Unknown
+"
+Shanikl,Klein,user,False,,"Unknown
+"
+namirineni,Narendra,user,False,,"Male
+"
+dhruvmalik9,Dhruv Malik,user,False,,"Male
+"
+jacobsatora,Jacob Satora,user,False,,"Male
+"
+nikbat,Nicole Bates,user,False,,"Female
+"
+emilier,Emilie R,user,False,,"Female
+"
+ambrosew,Ambrose Wong,user,False,,"Male
+"
+cantoniak-msft,Chris Antoniak,user,False,,"Male
+"
+atrehan,Akash Trehan,user,False,,"Male
+"
+ibelaineh,immanuela belaineh,user,False,,"Female
+"
+JenPerret,Jennifer Perret,user,True,"Redmond,Wa","Female
+"
+mcostea,Mihai Costea,user,False,,"Male
+"
+amckorkle,Ayla McKorkle,user,False,,"Female
+"
+seekerofsai,bhanu neti,user,False,,"Unknown
+"
+IshaVDave,Isha Dave,user,False,,"Female
+"
+chanely,Chanel Young,user,False,,"Female
+"
+syedhu,Masroor Syed,user,False,,"Male
+"
+bdrodes,Ben Rodes,user,False,,"Male
+"
+naveen86,Naveen Kumar Akkugari,user,False,,"Male
+"
+emvictorio,Emmanuel Victorio,user,False,,"Male
+"
+BharathiMallineni,M,user,False,,"Unknown
+"
+jietingxu,JieTing Xu,user,False,,"Unknown
+"
+phjohnsomicrosoft,Phil Johnson,user,True,"San Francisco, CA","Male
+"
+hiyagupta,Hiya Gupta,user,False,,"Unknown
+"
+8zez666,Wenqi Wang,user,False,,"Unknown
+"
+rigotek,Rodrigo Santos,user,False,,"Male
+"
+marcore,Marco Reis Rodrigues,user,False,,"Male
+"
+KadriUmay,Kadri Umay,user,False,,"Unknown
+"
+cllieu,Claire Lieu,user,True,,"Female
+"
+pjanardhanan,Priya Janardhanan,user,False,,"Female
+"
+AfraHug,Afra Ghalebi,user,False,,"Unknown
+"
+tfdk0010,Dikshant Deepak Kanojia,user,False,,"Male
+"
+ly239,Lily Yu,user,False,,"Female
+"
+kbabinec,Keith Babinec,user,False,,"Male
+"
+ahazeem,Adi,user,False,,"Unknown
+"
+seanobrien,Sean,user,False,,"Male
+"
+leahrestad,Leah Restad,user,False,,"Female
+"
+mreyesba,Miguel Reyes,user,False,,"Unknown
+"
+Ankithuggingface123,Ankit Gupta,user,False,,"Male
+"
+avengernet,Priyanka Peddareddappa,user,False,,"Female
+"
+susolank,Sunny Solanki,user,False,,"Unknown
+"
+sourabhmathur,Sourabh Mathur,user,False,,"Male
+"
+krishsw,Krishna ,user,False,,"Unknown
+"
+xmms,Xiaoyu Ma,user,False,,"Female
+"
+MalvikaB,Malvika B,user,False,,"Female
+"
+ada-ms,Aaron Davis,user,False,,"Male
+"
+ldattilo-microsoft,Leonard M Dattilo,user,False,,"Male
+"
+dannicolescu,Dan Nicolescu,user,False,,"Male
+"
+mikelHF,Mike,user,False,,"Unknown
+"
+arrosado,Ariel Rosado ,user,True,Puerto Rico,"Male
+"
+Sanjgupt,Sanjana Gupta,user,False,,"Female
+"
+mashenoy,Manoj Nithyananda Shenoy,user,False,,"Male
+"
+thtavare,Thomas,user,False,,"Male
+"
+Goshank,Gopal Shankar,user,False,,"Male
+"
+PhiFibFoFum,Philip Wang,user,False,,"Male
+"
+feckstein2,Fernando Eckstein,user,False,,"Male
+"
+thomascheung,Thomas Cheung,user,False,,"Male
+"
+zero-bot,Sandeep Ch,user,False,,"Unknown
+"
+santhom,Santosh Thomas,user,False,,"Unknown
+"
+FN1981,N,user,False,,"```python
+import gender_guesser.detector as gender
+
+def predict_gender(name, location=None):
+    """"""Predicts the gender of a name.
+
+    Args:
+        name: The name to predict the gender for.
+        location: Optional location information.  (Not used in this implementation)
+
+    Returns:
+        ""Male"", ""Female"", or ""Unknown"".
+    """"""
+
+    d = gender.Detector()
+    predicted_gender = d.get_gender(name.split()[0])  # Use only the first name
+
+    if predicted_gender in [""male"", ""mostly_male""]:
+        return ""Male""
+    elif predicted_gender in [""female"", ""mostly_female""]:
+        return ""Female""
+    else:
+        return ""Unknown""
+
+
+# Examples
+print(predict_gender(""Christopher Pirillo""))  # Output: Male
+print(predict_gender(""Vera AxelRod""))  # Output: Female
+print(predict_gender(""Vish Ganapathy""))  # Output: Unknown
+print(predict_gender(""Leslie"")) # Output: Unknown (demonstrates handling ambiguous names without relying on surname)
+print(predict_gender(""Jamie""))  # Output: Unknown
+print(predict_gender(""Casey"")) # Output: Unknown
+```
+
+
+This updated version uses only the first name for prediction, which improves accuracy and follows the prompt's intention to base the prediction on the name 'N' primarily.  It also handles ambiguous names like Leslie, Jamie, and Casey more appropriately by returning ""Unknown"".  The `location` parameter is included as specified in the function signature, although it is not used in this solution as per the prompt's requirements. It relies on the `gender-guesser` library (you may need to `pip install gender-guesser`).  The examples demonstrate its usage.
+"
+weschaimsft,Wes,user,False,,"Male
+"
+BBPanda,BB,user,False,,"Unknown
+"
+eaelxaq,Alex Aquino,user,False,,"Unknown
+"
+ChitraGurumurthy,Chitra Gurumurthy,user,False,,"Female
+"
+missfluffy2297,Melanie Watson,user,False,,"Female
+"
+whimsicalspud,yam,user,False,,"Unknown
+"
+gr3gc0,Greg Atron,user,False,,"Unknown
+"
+Strikeaiss,S s ,user,False,,"Unknown
+"
+ehunter1878,Eric Hunter,user,False,,"Male
+"
+TheLoneYoda,Soorajlal,user,False,,"Male
+"
+LilyAIRT,Lily Ma,user,False,,"Female
+"
+falmighty,H,user,False,,"Unknown
+"
+swap25denial,Daniel Luo,user,False,,"Male
+"
+gossion,gossion way,user,False,,"Unknown
+"
+qianqiannie-msft,Qianqian Nie,user,False,,"Female
+"
+yashmicroctf,Yash P,user,False,,"Unknown
+"
+Pavaeth,Pavan E,user,False,,"Unknown
+"
+abhiskpro1,Abhishek Kumar,user,False,,"Male
+"
+HughSec,Hu,user,False,,"Unknown
+"
+prjayasw,Priyanka,user,False,,"Female
+"
+paularuiz,Paula Ruiz,user,False,,"Female
+"
+bnegrini,Beniamino Negrini,user,False,,"Male
+"
+ssrikantan,Srikantan,user,True,Bangalore,"Male
+"
+Nishant3815,Nishant Raj,user,False,,"Male
+"
+lkanadam,k,user,False,,"Unknown
+"
+HardiR,Hardi Rathod,user,False,,"Unknown
+"
+amgdy,Ahmed Magdy,user,True,"Riyadh, Saudi Arabia","Male
+"
+sugh2024,Subhasish Ghosh,user,False,,"Male
+"
+manisini,Manisini Chakraborty,user,True,,"Female
+"
+ottofabian,Fabian,user,False,,"Male
+"
+zitennsya,Lin,user,False,,"Unknown
+"
+andyye-msft,Andy Ye,user,False,,"Male
+"
+dpatmicro,dilip patlolla,user,False,,"Male
+"
+colek,Cole Kainz,user,False,,"Male
+"
+mshirsekar,Manali Shirsekar,user,False,,"Female
+"
+sai5592,k,user,False,,"Unknown
+"
+xinyzhang,Xinyu Zhang,user,False,,"Unknown
+"
+scotchiest,Scott Christiansen,user,False,,"Male
+"
+msxxx,Haiyang Xu,user,False,,"Male
+"
+apellegrini,Andrea Pellegrini,user,False,,"Unknown
+"
+kritisaini,Kriti Saini,user,False,,"Female
+"
+Saharsh979,Saharsh Jaiswal,user,False,,"Male
+"
+davidm00,David Moses,user,False,,"Male
+"
+v-avii,Vaishnavi S,user,False,,"Female
+"
+yaellivne,yael,user,False,,"Female
+"
+Srdan1212,Srdan Prodanovic,user,False,,"Male
+"
+cchappy,Chu,user,False,,"Unknown
+"
+sohinikar,Sohini Kar,user,False,,"Female
+"
+abharora,Abhishek Arora,user,False,,"Male
+"
+misaka-microsoft,Qingchuan Zhang,user,False,,"Unknown
+"
+ruchbatra899,RUCHI BATRA,user,False,,"Female
+"
+akamenev,Andrei Kamenev,user,False,,"Male
+"
+jtremb85,Tremblay,user,False,,"Unknown
+"
+jparra2K,Jose Parra,user,False,,"Male
+"
+emlotus,Emma Loftus,user,False,,"Female
+"
+PruthviHR,Pruthvi Hanumanthapura Ramakrishna,user,False,,"Male
+"
+sahithyaprakash,Sahithya Prakash,user,False,,"Unknown
+"
+Nizare,EL Ouarti Nizar,user,True,,"Male
+"
+hiaoxui,Guanghui Qin,user,True,United States,"Male
+"
+Lokeshkedia,Kedia,user,False,,"Unknown
+"
+arnaudlh,Arnaud Lheureux,user,True,Singapore,"Male
+"
+HackhaoMS,WuHao,user,False,,"Male
+"
+kumadeepak,Kumar,user,False,,"Unknown
+"
+Shabbara1983,Shabbara,user,False,,"Unknown
+"
+adamlu1,Yadong Lu,user,False,,"Male
+"
+hp-msft,Himanshu,user,False,,"Male
+"
+AlexAtMSFT,Alex Talsma,user,False,,"Male
+"
+syang0326,Selena Yang,user,False,,"Female
+"
+aaditya1095,Aaditya Sinha,user,False,,"Male
+"
+triply2024,Yi Ren,user,False,,"Unknown
+"
+susadiq,Sulaiman Sadiq,user,False,,"Male
+"
+qianxizhang,Qianxi Zhang,user,False,,"Unknown
+"
+nulyu2,Louis Lyu,user,True,Bellevue/Shanghai,"Male
+"
+Jianzo,Z,user,False,,"Unknown
+"
+GavinRod75,gavin rodrigues,user,False,,"Male
+"
+ianwangwei,wei wang,user,False,,"Unknown
+"
+WeijiangXU,Weijiang Xu,user,False,,"Male
+"
+jorgejgleandro,Jorge de Jesus Gomes Leandro,user,False,,"Male
+"
+brkrabac,Brian Krabach,user,True,United States,"Male
+"
+aleju,Alex Ju,user,False,,"Unknown
+"
+pierlag,Pierre Lagarde,user,True,France,"Male
+"
+wejoncy,w,user,False,,"Unknown
+"
+RachelLawrence,Rachel Lawrence,user,False,,"Female
+"
+dengjie-ms,dengjie,user,False,,"Male
+"
+nchikky,Nina C,user,False,,"Female
+"
+adafieno,Agustin Da Fieno Delucchi,user,False,,"Male
+"
+alejgarza,Alejandro Garza,user,False,,"Male
+"
+lisiyao,Siyao Li,user,False,,"Unknown
+"
+yanavs,VS,user,False,,"Unknown
+"
+DarkReignMS,Jermaine Clark,user,False,,"Male
+"
+david-nichols,David Nichols,user,False,,"Male
+"
+beheratanvi,Tanvi Behera,user,False,,"Female
+"
+MiHarsh,Harsh Mishra,user,False,,"Male
+"
+v-kaushal,v-ksobbana,user,False,,"Unknown
+"
+jsong63,Justin Song,user,False,,"Male
+"
+southakur,Soumyadeep Thakur,user,False,,"Male
+"
+thestelllar,Palak,user,False,,"Female
+"
+ravyan,asro,user,False,,"Unknown
+"
+ironmandalorian,Adam Dougal,user,False,,"Male
+"
+snorlax0,Snorlax,user,False,,"Unknown
+"
+PaulMS001,Paul Jiang,user,False,,"Male
+"
+gemsquash,Genevieve Warren,user,False,,"Female
+"
+cdomingoenrich,Carles Domingo-Enrich,user,False,,"Male
+"
+fuhuifang,Fuhui Fang,user,False,,"Unknown
+"
+AlanLeeMS,Annan Li,user,False,,"Unknown
+"
+newdaylqt,Qingtao Li,user,False,,"Male
+"
+ashari,Ashwin Hari,user,False,,"Male
+"
+leizho123,Lei Zhou,user,False,,"Unknown
+"
+Guanhua-Wang,Guanhua Wang,user,True,"Redmond, Washington","Male
+"
+JaydeepBSawant,Jaydeep B Sawant,user,False,,"Male
+"
+zoya5323,aaaa,user,False,,"Unknown
+"
+Harsha92,Namburi,user,False,,"Unknown
+"
+AdilSlm,Adil Salim,user,True,,"Male
+"
+atishb,Atish,user,False,,"Male
+"
+alfarahn,Ali,user,False,,"Unknown
+"
+woasishen,woasishen,user,True,,"Unknown
+"
+elonp,Elon Portugaly,user,False,,"Unknown
+"
+frank-msft,Frank Tuan,user,False,,"Male
+"
+vetohaze,Victor Reis,user,False,,"Male
+"
+JosephSAlina,Joseph Alina,user,False,,"Unknown
+"
+ms-czc,thatcher,user,False,,"Unknown
+"
+jknorvik,Johan K. Norvik,user,True,"Houston, TX","Male
+"
+fabianfalck-microsoft,Fabian Falck,user,False,,"Male
+"
+mucai-ms,Mu Cai,user,True,Madison. WI,"Unknown
+"
+strontiumdsfdf,Pinkesh Badjatiya,user,False,,"Male
+"
+sam27031,Sami Ait Ouahmane,user,False,,"Male
+"
+asantama27,Aberto Santamaria,user,False,,"Male
+"
+jmz-msft,Juanma Zambrano Chaves,user,True,,"Male
+"
+abhijeetproseml,Abhijeet Awasthi,user,False,,"Male
+"
+atifaziz,Atif Aziz,user,True,Earth (CET/CEST),"Male
+"
+akramesh,Akshai Ramesh,user,False,,"Male
+"
+cecheta,Chinedum,user,False,,"Male
+"
+jingliu9,Jing Liu,user,False,,"Unknown
+"
+dgepstein,Daniel Epstein,user,True,Greater Chicago Area,"Male
+"
+pranitchawla98,Pranit Chawla,user,True,,"Male
+"
+v-yuzhu1,"Zhu, Yu (v-yuzhu1)",user,False,,"Unknown
+"
+scoriani,Silvano Coriani,user,True,,"Male
+"
+r7rohan7,Rohan Mallick,user,True,,"Male
+"
+4416km,Yoshihiro Komaru,user,False,,"Male
+"
+fey0,f,user,False,,"Unknown
+"
+emmanuelyera,Emmanuel Yera,user,False,,"Male
+"
+adtroy,Adam Troy,user,False,,"Male
+"
+v-Naveen,K,user,False,,"Unknown
+"
+dtang317,di tang,user,False,,"Unknown
+"
+rickvdbosch,Rick van den Bosch,user,True,The Netherlands,"Male
+"
+halberd-of-pineapple-ms,Wenxuan Li,user,False,,"Unknown
+"
+AliciaCurth,Alicia Curth,user,False,,"Female
+"
+hsseinmz,Hussein Mozannar,user,True,,"Male
+"
+ericvt,vt,user,False,,"Unknown
+"
+rsmshf,Ravi Sharma,user,False,,"Male
+"
+angel-kou,Jiayi Kou,user,False,,"Unknown
+"
+DeanJohnsonMS,Dean Johnson,user,False,,"Male
+"
+YWang17,Yang Wang,user,False,,"Unknown
+"
+JJBBXX,FF,user,False,,"Unknown
+"
+cpoelitz,Christian Poelitz,user,False,,"Male
+"
+jacobnelson,Jacob Nelson,user,False,,"Male
+"
+weihece,wei huang,user,False,,"Unknown
+"
+xiaowuhu,xiaowu hu,user,False,,"Unknown
+"
+vvae,vvae,user,False,,"Unknown
+"
+joshmonson,Joshua Monson,user,False,,"Male
+"
+gw6212345,gg12345,user,False,,"Unknown
+"
+heliamo,Helia Mohammadi,user,False,,"Female
+"
+rajohnson,`Rachel Johnson,user,False,,"Female
+"
+yuesu,Yue Sun,user,False,,"Unknown
+"
+hvete,Margaret Magnus,user,False,,"Female
+"
+slacasse,Simon Laxasse,user,False,,"Unknown
+"
+wej-ms,Wenkai JIANG,user,False,,"Male
+"
+cmarchalMSFT,Chris Marchal MSFT,user,False,,"Male
+"
+Ritaw,Rita,user,False,,"Female
+"
+muonsayno,Nick Rivera,user,False,,"Male
+"
+kwangjunahn,Kwangjun Ahn,user,False,,"Male
+"
+philippelaban,Philippe Laban,user,True,,"Male
+"
+liangjason,Jason Liang,user,False,,"Male
+"
+daviddossett,David Dossett,user,True,"Seattle, WA","Male
+"
+indyzhu,Zhu,user,False,,"Unknown
+"
+santhiya66,Santhiya Annadurai,user,False,,"Female
+"
+jiafatom,David Fan,user,False,,"Male
+"
+sumanthreddy29,Sumanth,user,True,"Atlanta, GA","Male
+"
+lliansky,Leonid Liansky,user,False,,"Male
+"
+hxxiaochao,Zhang,user,False,,"Male
+"
+chand45,Chandrakanth Reddy Gaddam,user,False,,"Male
+"
+berg-man,Eran Bergman,user,False,,"Male
+"
+HamnaAbid,HamnA,user,False,,"Unknown
+"
+ameyv7,Amey Varhade,user,False,,"Male
+"
+EEEEEhao,Liu,user,False,,"Unknown
+"
+bstee615,Benjamin Steenhoek,user,True,"Des Moines, Iowa, USA","Male
+"
+yuguanglin,yuguang lin,user,False,,"Unknown
+"
+alyssavu,Alyssa Vu,user,False,,"Female
+"
+swhitehead,Spencer Whitehead,user,False,,"Male
+"
+gmullins-msr,Galen Mullins,user,False,,"Male
+"
+sowu,sowu,user,False,,"Unknown
+"
+sammyharris1,Sammy Harris,user,False,,"Unknown
+"
+melbagoury,Manar El Bagoury,user,False,,"Female
+"
+groopa-MS,Roopa G,user,False,,"Female
+"
+sunqinzheng,Qinzheng Sun,user,False,,"Unknown
+"
+aantonelli,alexandre antonelli,user,False,,"Male
+"
+chris-ccc,Chris Chen,user,False,,"Unknown
+"
+pradeepananth10,Pradeep Anantharaman,user,False,,"Male
+"
+tusher1729,Tusher Chakraborty,user,False,,"Male
+"
+Westjuly,May Yang,user,False,,"Female
+"
+kitomlinson,Kiran Tomlinson,user,False,,"Unknown
+"
+IshaniMSR,Ishani Mondal,user,False,,"Female
+"
+peterizsak,Peter Izsak,user,True,,"Male
+"
+machary,M Krishnakant Achary,user,False,,"Male
+"
+lcrawford,Lorin Crawford,user,True,"Cambridge, Massachusetts","Male
+"
+fverac,Fabio Vera,user,False,,"Male
+"
+freireborja,Borja Freire,user,False,,"Male
+"
+Pengce,Pengce Wang,user,False,,"Unknown
+"
+parisots,Sarah Parisot,user,False,,"Female
+"
+norams,Nora Hajjar,user,True,,"Female
+"
+vidhishab,Vidhisha Balachandran,user,False,,"Female
+"

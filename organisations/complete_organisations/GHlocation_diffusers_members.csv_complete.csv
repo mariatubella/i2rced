@@ -1,0 +1,41 @@
+username,name,role,has_github,location,gender
+anton-l,Anton Lozhkov,user,True,"Paris, France","Male
+"
+pcuenq,Pedro Cuenca,user,True,Spain,"Male
+"
+multimodalart,Apolinário from multimodal AI art,user,True,,"Male
+"
+kashif,Kashif Rasul,user,True,"Berlin, Germany","Male
+"
+akhaliq,AK,user,False,,"Unknown
+"
+YiYiXu,YiYi Xu,user,True,Hawaii,"Unknown
+"
+sayakpaul,Sayak Paul,user,True,India,"Male
+"
+ysharma,yuvraj sharma,user,True,,"Male
+"
+xianbao,Tiezhen WANG,user,True,,"Unknown
+"
+mishig,Mishig Davaadorj,user,True,"Paris, France","Unknown
+"
+abidlabs,Abubakar Abid,user,True,,"Male
+"
+dn6,Dhruv Nair,user,True,,"Male
+"
+abhishek,Abhishek Thakur,user,True,127.0.0.1,"Male
+"
+nouamanetazi,Nouamane Tazi,user,True,"Paris, France","Male
+"
+diffusers-benchmarking-bot,Diffusers Bot,user,True,,"Unknown
+"
+hysts,hysts,user,True,,"Unknown
+"
+stevhliu,Steven Liu,user,True,Yay Area,"Male
+"
+a-r-r-o-w,Aryan V S,user,True,,"Unknown
+"
+Diffusers-CI-Bot,Diffusers-CI-Bot,user,False,,"Unknown
+"
+linoyts,Linoy Tsaban,user,True,Tel Aviv,"Female
+"

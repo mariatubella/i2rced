@@ -1,0 +1,27 @@
+username,name,role,has_github,location,gender
+apanc,Alexander Panchenko,user,False,,"Male
+"
+cointegrated,David Dale,user,True,Paris,"Male
+"
+dardem,Daryna Dementieva,user,True,Munich,"Female
+"
+etomoscow,Daniil Moskovskiy,user,True,"Moscow, Russia","Male
+"
+msalnikov,Mikhail Salnikov,user,True,,"Male
+"
+not-found,Daniel Bershatsky,user,True,"Moscow, Russia","Male
+"
+vnsmv,Ivan Anisimov,user,True,Moscow,"Male
+"
+memyprokotow,Sergey Pletenev,user,False,,"Male
+"
+Sayankotor,Vika Chekalina,user,True,,"Female
+"
+hle2000,Hai Le,user,True,"College Park, Maryland","Unknown
+"
+andorei,Andrei Sakhovskii,user,False,,"Male
+"
+IvanLazichny,Ivan,user,True,,"Male
+"
+lmeribal,Rykov Elisei,user,True,Moscow,"Male
+"

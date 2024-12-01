@@ -1,0 +1,19 @@
+username,name,role,has_github,location,gender
+yurakuratov,Yury Kuratov,user,False,,"Male
+"
+ignatov,Fedor Ignatov,user,True,,"Male
+"
+DeepPavlovAI,DeepPavlov ,user,True,,"Unknown
+"
+Vasily,K,user,False,,"Unknown
+"
+danielkornev,Daniel Kornev,user,True,"Foster City, CA, USA","Male
+"
+Dilyara,Zharikova,user,True,,"Female
+"
+dim,web,user,True,,"Unknown
+"
+screemix,Alla Chepurova,user,True,,"Female
+"
+alsu-sagirova,Alsu Sagirova,user,True,,"Female
+"

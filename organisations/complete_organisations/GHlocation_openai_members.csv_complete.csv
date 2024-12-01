@@ -1,0 +1,109 @@
+username,name,role,has_github,location,gender
+jongwook,Jong Wook Kim,user,True,"San Francisco, CA","Male
+"
+unixpickle,Alex Nichol,user,True,,"Unknown
+"
+andrew-openai,ak,user,False,,"Unknown
+"
+ryangr,Ryan Greene,user,True,"New York, NY","Male
+"
+jkirchner,Jan Hendrik Kirchner,user,False,,"Male
+"
+cjarvis-oai,Colin Jarvis,user,True,"Glasgow, UK","Male
+"
+oaialvin,Alvin Wang,user,False,,"Male
+"
+michellef,Michelle Fradin,user,False,,"Female
+"
+andmis-openai,Andrey Mishchenko,user,True,,"Male
+"
+justonf,Juston Forte,user,False,,"Male
+"
+oaistathas,Nick Stathas,user,False,,"Male
+"
+awboai,Andrew Braunstein,user,True,Oakland,"Male
+"
+gmyles,Gideon Myles,user,False,,"Male
+"
+marat-openai,Marat Dukhan,user,False,,"Male
+"
+TeoMusatoiu,Teodora Musatoiu,user,False,,"Female
+"
+oai-alexb,Alex Beutel,user,False,,"Male
+"
+jbetkeroai,JB,user,False,,"Unknown
+"
+isafulf,Isa Fulford,user,True,,"Unknown
+"
+jharb-openai,Jean Harb,user,False,,"Unknown
+"
+juan-openai,Juan Felipe Ceron Uribe,user,False,,"Male
+"
+zhiqings,Zhiqing Sun,user,True,,"Unknown
+"
+magoop,Mayank Gupta,user,False,,"Male
+"
+micll,Michael,user,False,,"Male
+"
+andrei-oai,Andrei,user,False,,"Male
+"
+jwang-openai,julie wang,user,False,,"Female
+"
+prashant-oai,Prashant M,user,False,,"Male
+"
+noahmacca1,Noah,user,False,,"Male
+"
+ajaech,Aaron Jaech,user,False,,"Male
+"
+owencm,Owen Campbell-Moore,user,True,San Francisco,"Male
+"
+oai-edwin,Edwin Zhang,user,False,,"Male
+"
+hallacy-openai,Chris Hallacy,user,True,,"Male
+"
+eszuhany-oai,Eric Szuhany,user,False,,"Male
+"
+posnep,Asif,user,False,,"Male
+"
+oailong,Long Ouyang,user,False,,"Male
+"
+erikrit,Erik Ritter,user,False,,"Male
+"
+asdfryan,Ryan Liu,user,False,,"Male
+"
+eproehl,Elizabeth Proehl,user,False,,"Female
+"
+aidenlow,Aiden Low,user,True,San Francisco Bay Area,"Male
+"
+ishaansingal,Ishaan Singal,user,False,,"Male
+"
+danh-openai,Daniel H,user,False,,"Male
+"
+olegm2000,Oleg Murk,user,False,,"Male
+"
+kwhinnery-openai,Kevin Whinnery,user,True,Minneapolis,"Male
+"
+weioai,Wei Han,user,False,,"Unknown
+"
+joyyce,Joyce Lee,user,False,,"Female
+"
+vk-oai,Vahid Kazemi,user,False,,"Male
+"
+july2024,James,user,False,,"Male
+"
+danialm,Danial Mirza,user,False,,"Male
+"
+sshoker,Sarah Shoker,user,False,,"Female
+"
+lamaahmad,Lama Ahmad,user,False,,"Unknown
+"
+adamkalai,Adam Kalai,user,False,,"Male
+"
+xingyulin,Xingyu Lin,user,False,,"Unknown
+"
+atty-openai,Atty Eleti,user,False,,"Unknown
+"
+Sandhini,Agarwal,user,False,,"Unknown
+"
+MichaelLampe,Michael Lampe,user,False,,"Male
+"
