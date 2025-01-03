@@ -1,6 +1,6 @@
 modelId,downloads,organization,num_users,num_females,num_males,% of women
 sentence-transformers/all-mpnet-base-v2,296552424.0,sentence-transformers,4,0,4,0.0
-nesaorg/benchmark_v0,118617403.0,nesaorg,2,0,1,0.0
+nesaorg/benchmark_v0,118617403.0,nesaorg,2,0,2,0.0
 FacebookAI/xlm-roberta-large,72928929.0,FacebookAI,2,0,2,0.0
 google-bert/bert-base-uncased,70401215.0,google-bert,3,0,3,0.0
 Qwen/Qwen2.5-1.5B-Instruct,43395422.0,Qwen,124,6,65,4.84
